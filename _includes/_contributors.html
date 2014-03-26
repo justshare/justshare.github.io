@@ -1,0 +1,29 @@
+
+{% for idx, foo in site.authors %}
+
+{% assign contributor = foo[1] %}
+
+	{% if contributor.avatar contains 'http://' %}
+		<img src="{{ contributor.avatar }}" class="bio-photo" alt="{{ contributor.name }} bio photo"></a>
+	{% elsif contributor.avatar contains 'https://' %}
+		<img src="{{ contributor.avatar }}" class="bio-photo" alt="{{ contributor.name }} bio photo"></a>
+	{% else %}
+		<img src="{{ site.url }}/images/{{ contributor.avatar }}" class="bio-photo" alt="{{ contributor.name }} bio photo"></a>
+	{% endif %}
+	<h3>{{ contributor.name }}</h3>
+	<p>{{ contributor.bio }}</p>
+	{% if contributor.twitter %}<a href="http://twitter.com/{{ contributor.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
+	{% if contributor.facebook %}<a href="http://facebook.com/{{ contributor.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
+	{% if contributor.google_plus %}<a href="http://plus.google.com/+{{ contributor.google_plus }}" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>{% endif %}
+	{% if contributor.linkedin %}<a href="http://linkedin.com/in/{{ contributor.linkedin }}" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>{% endif %}
+	{% if contributor.instagram %}<a href="http://instagram.com/{{ contributor.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
+	{% if contributor.tumblr %}<a href="http://{{ contributor.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i> Tumblr</a>{% endif %}
+	{% if contributor.github %}<a href="http://github.com/{{ contributor.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}
+	{% if contributor.stackoverflow %}<a href="http://stackoverflow.com/users/{{ contributor.stackoverflow }}" class="author-social" target="_blank"><i class="icon-stackoverflow"></i> Stackoverflow</a>{% endif %}
+	{% if contributor.lastfm %}<a href="http://lastfm.com/user/{{ contributor.lastfm }}" class="author-social" target="_blank"><i class="icon-lastfm"></i> Last.fm</a>{% endif %}
+	{% if contributor.dribbble %}<a href="http://dribbble.com/{{ contributor.dribbble }}" class="author-social" target="_blank"><i class="icon-dribbble"></i> Dribbble</a>{% endif %}
+	{% if contributor.pinterest %}<a href="http://www.pinterest.com/{{ contributor.pinterest }}" class="author-social" target="_blank"><i class="icon-pinterest"></i> Pinterest</a>{% endif %}
+	{% if contributor.foursquare %}<a href="http://foursquare.com/{{ contributor.foursquare }}" class="author-social" target="_blank"><i class="icon-foursquare"></i> Foursquare</a>{% endif %}
+	{% if contributor.steam %}<a href="http://steamcommunity.com/id/{{ contributor.steam }}" class="author-social" target="_blank"><i class="icon-steam"></i> Steam</a>{% endif %}
+
+{% endfor %}
