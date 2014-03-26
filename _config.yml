@@ -2,7 +2,7 @@ title:            Just Share Blog
 description:      A blog about blogging, social media marketing, life, technology, gadgets, ideas, startups, music, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://justshare.github.io
-disqus_shortname: 
+disqus_shortname: justshareapp
 
 # Owner/author information
 owner:
@@ -31,14 +31,14 @@ authors:
   arvi:
     name:           Arvi Krishnaswamy
     avatar:         bio-arvi.jpg
-    bio:            "Entrepreneur and Tech Executive"
+    bio:            "Entrepreneur and Tech Executive."
     email:          arvi@alumni.iastate.edu
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:        twitortat
     facebook:       aravind.krishnaswamy
     github:          arg0s
     stackoverflow:
-    linkedin:
+    linkedin:        aravindkrishnaswamy
     instagram:
     lastfm:
     tumblr:
@@ -50,11 +50,31 @@ authors:
     google_plus:
   lavanya:
     name:           Lavanya Gopinath
-    avatar:         bio-photo.jpg
-    bio:            "Describe your self."
+    avatar:         https://pbs.twimg.com/profile_images/418789915166380032/nn5afiTl.jpeg
+    bio:            "Reader, Writer, Nitpicker, Mom."
     email:          your@email.com
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:        justjots
+    facebook:
+    github:
+    stackoverflow:
+    linkedin:
+    instagram:
+    lastfm:
+    tumblr:
+    pinterest:
+    foursquare:
+    steam:
+    dribbble:
+    # For Google Authorship https://plus.google.com/authorship
+    google_plus:
+  vinu:
+    name:           Vinu Thomas
+    avatar:         https://pbs.twimg.com/profile_images/2721037855/c64935721ff73df716b75498baa50dd1.jpeg
+    bio:            "Architect on Scalable Web Solutions, and opensource technologies, part-time mobile blogger."
+    email:          your@email.com
+    # Social networking links are used in author-bio sidebar. Update and remove as you like.
+    twitter:        vinuthomas
     facebook:
     github:
     stackoverflow:
