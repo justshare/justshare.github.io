@@ -1,16 +1,16 @@
-title:            Site Title
-description:      Describe your website.
+title:            Just Share Blog
+description:      A blog about blogging, social media marketing, life, technology, gadgets, ideas, startups, music, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  name:           Just Share
+  avatar:         bio-jus.jpg
+  bio:            "A blog about blogging, social media marketing, life, technology, gadgets, ideas, startups, music, and much more."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        twitortat
+  twitter:        justshareapp
   facebook:
   github:
   stackoverflow:
@@ -27,14 +27,14 @@ owner:
 
 # Author(s) information
 authors:
-  author1:
+  arvi:
     name:           Arvi Krishnaswamy
     avatar:         bio-photo.jpg
-    bio:            "Describe your self."
-    email:          your@email.com
+    bio:            "Entrepreneur and Tech Executive"
+    email:          arvi@alumni.iastate.edu
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:        twitortat
-    facebook:
+    facebook:       aravind.krishnaswamy
     github:          arg0s
     stackoverflow:
     linkedin:
@@ -47,13 +47,13 @@ authors:
     dribbble:
     # For Google Authorship https://plus.google.com/authorship
     google_plus:
-  author2:
-    name:           Don Quixote
+  lavanya:
+    name:           Lavanya Gopinath
     avatar:         bio-photo.jpg
     bio:            "Describe your self."
     email:          your@email.com
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-    twitter:
+    twitter:        justjots
     facebook:
     github:
     stackoverflow:
@@ -82,10 +82,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: About Arvi
-    url: http://www.arg0s.in
+  - title: About Levitum
+    url: http://www.levitum.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

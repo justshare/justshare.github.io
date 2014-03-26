@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: A Minimal Jekyll Theme
+title: About the Just Share Blog
+tagline: About this blog
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 image:
@@ -11,24 +11,15 @@ image:
   creditlink: http://www.flickr.com/photos/yndra
 ---
 
-Minimal Jekyll Theme is a responsive Jekyll theme with large featured images and solid typography, derived from the wonderful work of [Michael Rose](http://mademistakes.com). I loved his Minimal Mistakes theme, and have tried to tune it to my needs.
-
-### Recent Additions
-
-* Support for multiple author attribution in a blog.
-  * This includes both different authors for various posts, as well as multiple authors per post.
-* Gorgeous textures courtesy of [Virginie Moerenhout](http://www.flickr.com/photos/yndra)
+We love sharing. Insights, information, little tid-bits and life hacks. About blogging and social media. Or, technology and the latest gadgets. New startups and crazy ideas. Music or life in general.
 
 
-## Minimal Jeykll Theme - Key Highlights
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments --- content first.
-* Author sidebar to pimp your bio, photo[^1], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+> This blog is built using the [Minimal Jekyll Theme](https://github.com/arg0s/minimal-jekyll-theme), a responsive  theme with large featured images and solid typography. It includes gorgeous textures courtesy of the talented [Virginie Moerenhout](http://www.flickr.com/photos/yndra).
 
 
-[^1]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+If you share our interests, follow our journey with this blog and subscribe to our newsletter or feed. Guest posts are by invite only, but if you'd like to request a post, drop us a note.
+
+*****
+
+<a markdown="0" href="{{ site.url }}" class="btn">Subscribe to NewsLetter</a>
