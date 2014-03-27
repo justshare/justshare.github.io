@@ -24,3 +24,13 @@
 {% if site.mixpanel_code %}
   {% include _mixpanel_analytics.html %}
 {% endif %}
+
+<script>
+  (function() {
+    $('.social-buttons').one('mouseenter', function()
+    {
+      Socialite.load();
+    });
+  })();
+
+</script>
