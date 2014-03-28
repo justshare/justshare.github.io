@@ -29,7 +29,11 @@
   (function() {
     $('.social-buttons').one('mouseenter', function()
     {
-      Socialite.load();
+      Socialite.load('.social-buttons');
+    });
+    $('.post-index-item').one('mouseenter', function()
+    {
+      Socialite.load(this);
     });
   })();
 
