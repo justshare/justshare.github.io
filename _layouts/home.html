@@ -36,15 +36,35 @@
 
 <div id="index">
   <h3><a href="{{ site.url}}/articles/">Recent Posts</a></h3>
-  {% for post in site.posts limit:5 %}    
-  <article>
-    {% if post.link %}
-      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
-    {% else %}
-      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-    {% endif %}
-  </article>
+  {% for post in site.posts limit:5 %}
+
+
+  <article class="post-index-item">
+   {% assign authorCount = post.authors | size %}
+   {% if authorCount == 0 %}
+   <div class="post-index-author-main">
+     <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
+   </div>
+   {% elsif authorCount >= 1 %}
+       {% assign _author = site.authors[post.authors.first] %}
+       <div class="post-index-author-main">
+       {% if _author.avatar contains 'http://' %}
+         <img src="{{ _author.avatar }}" class="bio-photo" alt="{{ _author.name }} bio photo"></a>
+       {% elsif _author.avatar contains 'https://' %}
+         <img src="{{ _author.avatar }}" class="bio-photo" alt="{{ _author.name }} bio photo"></a>
+       {% else %}
+         <img src="{{ site.url }}/images/{{ _author.avatar }}" class="bio-photo" alt="{{ _author.name }} bio photo"></a>
+       {% endif %}
+     </div>
+   {% endif %}
+   <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+   <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}
+     <a href="http://twitter.com/share" class="socialite twitter-share" data-text="{{ post.title }}" data-url="{{ site.url }}{{ post.url }}" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a>
+   </p>
+
+
+ </article>
+
   {% endfor %}
 </div><!-- /#index -->
 
@@ -55,6 +75,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>
