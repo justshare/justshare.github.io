@@ -5,6 +5,8 @@ description: "Open forum on what we'd like the direction and theme of this blog 
 tags: [blog, open thread]
 comments: true
 authors: [arvi]
+image:
+  feature: banner_wine.jpg
 ---
 
 <figure>
@@ -35,7 +37,7 @@ If we believe the Zuckerberg law will hold out nearly as long as the Moore's law
 
 Here are some common challenges we keep hearing about:
 
-* If are a blogger or social media marketer, how do you keep up with the changing ways of reaching  your audience? 
+* If are a blogger or social media marketer, how do you keep up with the changing ways of reaching  your audience?
 * What are the most scientific approaches to sharing and publishing that can help ensure that you engage in your audience in an authentic, sustainable way?
 * How do you analyze your traffic and reports to see what's working best and not?
 * What are the different tools & techniques you use for sharing and publishing?
@@ -49,6 +51,3 @@ Do **you** identify with these? Are there **other challenges** you face as a blo
 [^1]: [Mark Zuckerberg explains his law of social sharing](http://bits.blogs.nytimes.com/2008/11/06/zuckerbergs-law-of-information-sharing)
 
 [^2]: [Steve Blank on The Pay-it-forward Culture](http://steveblank.com/2011/09/15/the-pay-it-forward-culture/)
-
-
-  
