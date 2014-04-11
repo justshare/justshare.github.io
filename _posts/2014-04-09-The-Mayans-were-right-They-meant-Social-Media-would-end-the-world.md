@@ -7,16 +7,15 @@ comments: true
 authors: [lavanya]
 ---
 
-## The Mayans were right. They meant Social Media would end the world.
+## The Worlds End. [^1]
 
 The Mayans were right all along. If the world were to end, it would be us drowning in a tidal surge of social networking all around.
 
 
 <figure>
 <img src="http://d1hgw33z23fgm2.cloudfront.net/mayanwoman.jpg"/>
-<figcaption>Did Mayans mean the deluge of social media all along?</figcaption>
+<figcaption>Did Mayans mean the deluge of social media all along? </figcaption>
 </figure>
-
 
 ###What are the recent social media numbers?
 
@@ -47,11 +46,11 @@ For an interesting summary of Social Media in 2013, take a look at this [Infogra
 * More than 23% of marketers are investing in blogging and social media
 
 
-### Those with an Active Social Life stand a higher chance of Success.
+### Those with an Active Social Life stand a higher chance of Success. [^2]
 
 <figure>
 <img src="http://d1hgw33z23fgm2.cloudfront.net/the-social-life.jpg"/>
-<figcaption>Image Credit: Bruce Sallan</figcaption>
+<figcaption>Are you living the good (social) life online?</figcaption>
 </figure>
 
 Research has shown that those with an active social life online are more likely to:
@@ -62,3 +61,6 @@ Research has shown that those with an active social life online are more likely 
 * be more capable of multi-tasking and maintaing a better work life balance
 
 So, what are you doing to stay on top of your social life? Or, are you going the Mayan way?
+
+[^1]: Image courtesy of ISO 101 Photo
+[^2]: Image courtesy of Bruce Sallan
