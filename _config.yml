@@ -90,6 +90,26 @@ authors:
     dribbble:
     # For Google Authorship https://plus.google.com/authorship
     google_plus:
+  raj:
+    name:           Raj Kannan
+    avatar:         http://graph.facebook.com/rajaram.kannan.3/picture?height=150&width=150
+    bio:            "Raj is a senior tech executive and an eternal hobbyist. He loves to create products that bring real world experiences to your mobile phones."
+    email:          rajaram_kannan@yahoo.com
+    # Social networking links are used in author-bio sidebar. Update and remove as you like.
+    twitter:        rajaram_kannan
+    facebook:
+    github:
+    stackoverflow:
+    linkedin:
+    instagram:
+    lastfm:
+    tumblr:
+    pinterest:
+    foursquare:
+    steam:
+    dribbble:
+    # For Google Authorship https://plus.google.com/authorship
+    google_plus:
 
 
 # Analytics and webmaster tools stuff goes here
