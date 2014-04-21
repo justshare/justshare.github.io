@@ -1,5 +1,5 @@
 title:            Just Share Blog
-description:      A blog about blogging, social media marketing, life, technology, gadgets, ideas, startups, music, and much more.
+description:      A blog about social media marketing, blogging, startups, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://justshare.github.io
 #url:              http://localhost:4000
@@ -10,8 +10,8 @@ mixpanel_code:    cf47f8688b7b7b06cdc64e0bf1a87446
 owner:
   name:           Just Share
   avatar:         bio-jus.jpg
-  bio:            "A blog about blogging, social media marketing, life, technology, gadgets, ideas, startups, music, and much more."
-  email:          your@email.com
+  bio:            "A blog about social media marketing, blogging, startups, and much more."
+  email:          info@levitum.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        justshareapp
   facebook:
@@ -49,7 +49,7 @@ authors:
     steam:
     dribbble:
     # For Google Authorship https://plus.google.com/authorship
-    google_plus:
+    google_plus:    AravindKrishnaswamy-arg0s
   lavanya:
     name:           Lavanya Gopinath
     avatar:         https://pbs.twimg.com/profile_images/418789915166380032/nn5afiTl.jpeg
