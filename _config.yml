@@ -1,4 +1,4 @@
-title:            Just Share Blog
+title:            JustShare Blog
 description:      A blog about social media marketing, blogging, startups, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://justshare.github.io
@@ -8,7 +8,7 @@ mixpanel_code:    cf47f8688b7b7b06cdc64e0bf1a87446
 
 # Owner/author information
 owner:
-  name:           Just Share
+  name:           JustShare
   avatar:         bio-jus.jpg
   bio:            "A blog about social media marketing, blogging, startups, and much more."
   email:          info@levitum.com
@@ -125,8 +125,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: About Levitum
-    url: http://www.levitum.com
+  - title: About JustShare
+    url: http://www.justshareapp.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
