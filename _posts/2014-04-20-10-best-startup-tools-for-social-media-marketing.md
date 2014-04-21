@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Ten Best Startup Tools For Social Media Marketing
+title: "10 Best Startup Tools For Social Media Marketing"
 description: "Round up of the best tools out there for social media marketing for startups"
+created: 2014-04-21
+modified: 2014-04-21
 tags: [blog]
 comments: true
 authors: [arvi, raj]
 ---
-#Ten Best Startup Tools For Social Media Marketing
 
 <figure>
 <img src="http://d1hgw33z23fgm2.cloudfront.net/virginia_slims_1968.jpg"/>
@@ -129,7 +130,7 @@ If you are startup, looking to establish a social media presence across a number
 
 If you are a startup with technical chops and looking at just Twitter for coverage, Circular.io is likely to be your best bet if you'd like to avoid running up $10-50 per month just for sharing posts online. If you get by on the free plans until you start hitting the limits, Buffer is easy to use, snappy, and dependable. However, if you do hit limits or need to manage a small team you will likely need to pickup one of their paid plans!
 
-**Disclaimer**: The team at [*JustShare*](http://www.justshareapp.com) is building software tools to assist with sharing online, and social media marketing. You can read more about what we're doing - [click here](http://www.justshareapp.com)
+**Full Disclaimer**: The team at [*JustShare*](http://www.justshareapp.com) is building software tools to assist with sharing online, and social media marketing. You can read more about what we're doing - [click here](http://www.justshareapp.com)
 <br><br>
 *Images*: Courtesy individual product owners.
 {: .notice}
