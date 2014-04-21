@@ -1,8 +1,8 @@
 title:            Just Share Blog
 description:      A blog about social media marketing, blogging, startups, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://justshare.github.io
-url:              http://localhost:4000
+url:              http://justshare.github.io
+#url:              http://localhost:4000
 disqus_shortname: justshareapp
 mixpanel_code:    cf47f8688b7b7b06cdc64e0bf1a87446
 
