@@ -18,7 +18,9 @@ authors: [lavanya]
 >...some opt for quick fixes, like buying followers (something I have never done), I don't see the point in these sketchy tactics. It may offer short-term spike, but it doesn't provide the kind of engagement that organic followers do.
 
 
+
 ###Best of the Rest
+
 ###[Five ways to get energized and motivated when you feel lazy](http://tinybuddha.com/blog/5-ways-get-energized-motivated-feel-lazy/)
 >there’s the kind of laziness where you struggle to find motivation. Every time you think of something you would like to do or achieve, you cannot find the energy or drive to work toward it. This is the kind of laziness that I am talking about.
 
