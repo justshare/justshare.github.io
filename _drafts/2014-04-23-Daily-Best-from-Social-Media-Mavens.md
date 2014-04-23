@@ -8,6 +8,17 @@ authors: [lavanya]
 
 ---
 
+<div class="article-author-main">
+    <h3>SPOTLIGHT: Ann Tran</h3>
+    <a href="https://twitter.com/AnnTran_"><img src="http://cdn.justshareapp.com/AnnTran_TwitterDP.jpeg" class="bio-photo" alt="Ann Tran"></a>
+<p>Social media consultant, travel social marketing strategist. Lover of nature and wine. Forbes Top 10 Social Media Influencer. @anntran_, http://ann-tran.com/ </p>
+</div>
+
+###[How I Went From Zero to 380,000 Twitter Followers Without Spending a Dime](http://www.entrepreneur.com/article/233201)
+>...some opt for quick fixes, like buying followers (something I have never done), I don't see the point in these sketchy tactics. It may offer short-term spike, but it doesn't provide the kind of engagement that organic followers do.
+
+
+###Best of the Rest
 ###[Five ways to get energized and motivated when you feel lazy](http://tinybuddha.com/blog/5-ways-get-energized-motivated-feel-lazy/)
 >there’s the kind of laziness where you struggle to find motivation. Every time you think of something you would like to do or achieve, you cannot find the energy or drive to work toward it. This is the kind of laziness that I am talking about.
 
@@ -23,15 +34,7 @@ authors: [lavanya]
 ###[“Why Some Leaders Find Delegation Difficult” (and What to Do About It)](http://michaelhyatt.com/successful-delegation.html)
 >The truth is that delegation always takes longer—the first couple of times you hand off a task. But it will save you hours, days, and weeks if you hand it off the right way. This requires creating a clearly documented, optimized workflow, and then training someone how to use it.
 
-
 (by and via Michael Hyatt @MichaelHyatt)
-
-
-###[How I Went From Zero to 380,000 Twitter Followers Without Spending a Dime](http://www.entrepreneur.com/article/233201)
->...some opt for quick fixes, like buying followers (something I have never done), I don't see the point in these sketchy tactics. It may offer short-term spike, but it doesn't provide the kind of engagement that organic followers do.
-
-(by and via Ann Tran @anntran_)
-
 
 ###[Why Mindset Matters](http://www.pammarketingnut.com/2014/04/why-mindset-matters-entrepreneur-business-success-tips/)
 >It doesn’t matter what kind of business you are in. If your mindset is negative, your business is going to be negative.
