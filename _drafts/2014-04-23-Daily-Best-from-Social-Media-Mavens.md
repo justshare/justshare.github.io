@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Best from Social Media Mavens - Apr 23, 2014
+title: Daily Best from Social Media Mavens
 description: “Social Media Posts that appealed to us today”
 tags: [blog]
 comments: true
