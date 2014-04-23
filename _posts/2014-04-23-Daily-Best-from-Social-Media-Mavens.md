@@ -46,4 +46,4 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ###5 [Why Mindset Matters&nbsp;<i class="icon-link"></i>](http://www.pammarketingnut.com/2014/04/why-mindset-matters-entrepreneur-business-success-tips/)
 >"It doesn’t matter what kind of business you are in. If your mindset is negative, your business is going to be negative."
 
-(by and via [Pam Moore](http://twitter.com/pammktngnut))
+(by and via [Pam Moore](http://twitter.com/PamMktgNut))
