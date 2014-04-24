@@ -1,7 +1,8 @@
 title:            JustShare Blog
 description:      A blog about social media marketing, blogging, startups, and much more.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://justshare.github.io
+url:              http://blog.justshareapp.com
+#url:              http://justshare.github.io
 cname:              http://blog.justshareapp.com
 #url:              http://localhost:4000
 disqus_shortname: justshareapp
