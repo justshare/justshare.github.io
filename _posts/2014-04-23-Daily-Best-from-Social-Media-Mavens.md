@@ -16,7 +16,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: IAN CLEARY</h3>
-    <a href="https://twitter.com/IanCleary"><img src="http://cdn.justshareapp.com/IanCleary_TwitterDP.jpeg" class="bio-photo large" alt="Ian Cleary"></a>
+    <a href="https://twitter.com/IanCleary"><img src="http://cdn.justshareapp.com/IanCleary.jpeg" class="bio-photo large" alt="Ian Cleary"></a>
     <br><br>
 <p>Award Winning Tech Blogger on RazorSocial, Social Media Tools Guy, Writer for Social Media Examiner, Huffington Post VentureBeat etc Prof Speaker, Kick Boxer! <a href="https://twitter.com/IanCleary">@IanCleary</a> </p>
 </div>
@@ -38,10 +38,7 @@ There’s also no one-size-fits-all cure for burnout: Some people reach for junk
 
 
 ###3. [Build Lasting Relationships on Google+ - Adventure in Visibility with Martin Shervington&nbsp;<i class="icon-link"></i>](http://denisewakeman.com/hoa/build-lasting-relationships-on-google-adventure-in-visibility-with-martin-shervington/)
-A Google+ Hangout between Martin Shervington and Denise Wakeman featuring
->Martin’s approach to building relationships on Google+
-  How Martin got started on Google+
-  How relationships impact search on Google
+>A Google+ Hangout between Martin Shervington and Denise Wakeman featuring Martin’s approach to building relationships on Google+, How Martin got started on Google+, How relationships impact search on Google
 
 (by [Martin Shervington](https://twitter.com/MartinSherv) and [Denise Wakeman](https://twitter.com/DeniseWakeman))
 
