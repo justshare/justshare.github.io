@@ -42,7 +42,7 @@ Keep cool and avoid having a startup version of the “terrible twos” with the
 
 (by [Tracey Parsons](https://twitter.com/tparsons))
 
-###4. [Stop Trying to Get Your Blog Posts Shared and Do This Instead&nbsp;<i class="icon-link"></i>](https://socialmouths.com/blog/2014/04/16/stop-trying-to-get-your-blog-posts-shared-and-do-this-instead/)
+###4. [Stop Trying to Get Your Blog Posts Shared and Do This Instead&nbsp;<i class="icon-link"></i>](http://socialmouths.com/blog/2014/04/16/stop-trying-to-get-your-blog-posts-shared-and-do-this-instead/)
 >Here’s the problem. Blog posts just aren’t very shareable. Take a minute and scroll through your Facebook feed right now. Keep scrolling until you find a blog post in there. Yeah, it’s going to be a while.
 Meanwhile, average organic reach has dropped from 16 percent in 2012 all the way down to 6.51 percent this year. (Oh how I long for the days when we complained about 16 percent organic reach.)
 I’m going to say something a bit heretical. I don’t think you should focus on getting your blog posts shared.
