@@ -24,7 +24,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ## The Daily Leaderboard
 
-###1. [What To Do When Your Small Business Has Growing Pains&nbsp;<i class="icon-link"></i>](https://blogs.salesforce.com/company/2014/04/small-business-growing-pains-gp.html)
+###1. [What To Do When Your Small Business Has Growing Pains&nbsp;<i class="icon-link"></i>](http://blogs.salesforce.com/company/2014/04/small-business-growing-pains-gp.html)
 >For many entrepreneurs, having a business is like having a baby and while we love it unconditionally, it’s easy to get impatient and frustrated when the startup suffers unexpected setbacks.
 Keep cool and avoid having a startup version of the “terrible twos” with these tips
 
