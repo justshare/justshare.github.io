@@ -5,53 +5,52 @@ title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
 tags: [blog, social media, mavens]
 created: 2014-04-23
-modified: 2014-04-25
+modified: 2014-04-26
 comments: false
 authors: [lavanya]
+
 
 ---
 
 
-
-The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
+The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](https://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: NEIL PATEL</h3>
-    <a href="https://twitter.com/neilpatel"><img src="http://cdn.justshareapp.com/NeilPatel.jpg" class="bio-photo large" alt="Neil Patel"></a>
+    <h3>SPOTLIGHT: DEBORAH SWEENEY</h3>
+    <a href="https://twitter.com/deborahsweeney"><img src="http://cdn.justshareapp.com/DeborahSweeney.jpeg" class="bio-photo large" alt="Deborah Sweeney"></a>
     <br><br>
-<p>Neil Patel is the co-founder of Crazy Egg, Hello Bar and KISSmetrics. He helps companies like Amazon, NBC, GM, HP and Viacom grow their revenue. The Wall Street Journal calls him a top influencer on the web, Forbes says he is one of the top 10 online marketers, and Entrepreneur Magazine says he created one of the 100 most brilliant companies in the world. He was recognized as a top 100 entrepreneur under the age of 30 by President Obama and one of the top 100 entrepreneurs under the age of 35 by the United Nations. Neil has also been awarded Congressional Recognition from the United States House of Representatives. <a href="https://twitter.com/neilpatel">@neilpatel</a> </p>
+<p>CEO of @mycorporation. Graduate of Pepperdine law & business schools. Multitasking mom of two sons. She's passionate about small businesses! <a href="https://twitter.com/deborahsweeney">@deborahsweeney</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [How to Dramatically Improve Your Google Authorship&nbsp;<i class="icon-link"></i>](http://blog.kissmetrics.com/improve-your-google-authorship/)
->Google Authorship is one of the most important features of the new era of content marketing. It’s an authority or trust badge that signals to search engines and readers alike that your content is trustworthy, reputable, and high-quality.
-But how do you gain those trust signals that Google Authorship provides? How do you improve your authorship reputation, rise in the ranks, and gain more readers.
-Thankfully, it’s possible. I know, because I’ve been able to do so myself. In this article, I’ll explain exactly how it’s done.
+###1. [What To Do When Your Small Business Has Growing Pains&nbsp;<i class="icon-link"></i>](https://blogs.salesforce.com/company/2014/04/small-business-growing-pains-gp.html)
+>For many entrepreneurs, having a business is like having a baby and while we love it unconditionally, it’s easy to get impatient and frustrated when the startup suffers unexpected setbacks.
+Keep cool and avoid having a startup version of the “terrible twos” with these tips
 
-(by [Neil Patel](http://twitter.com/neilpatel))
-
-
-###2.  [Seven Tips for Getting Good at Spotting Trends&nbsp;<i class="icon-link"></i>](http://www.personalbrandingblog.com/seven-tips-for-getting-good-at-spotting-trends/)
->Leading entrepreneurs have some surprising uncommon traits. They have an uncanny ability to spot trends. The benefit of  spotting trends for entrepreneurs is rather obvious; If you can predict what’s of interest to people, you can tailor your product or service to appeal to your audience and build a following. What enables some entrepreneurs to be more adept at predicting their market’s tastes than others? In many cases it seems trend spotters are similar to inspiring leaders. They both use a different tactic to zoom in on what really matters to people to lure them into their camp. 
-
-(by [Beth Kuhel](https://twitter.com/BethKuhel))
+(by [Deborah Sweeney](https://twitter.com/deborahsweeney))
 
 
-###3. [Content Marketing in 15 minutes a day: 3 Content Hacks&nbsp;<i class="icon-link"></i>](http://www.annhandley.com/2014/04/16/content-marketing-15-minutes-day/)
->..businesses—especially very small ones—have certain constraints and often-ungenerous realities. What if you really have only mere minutes a day to focus specifically on marketing? What if you run, say, a restaurant or a pizza shop—and you’re squeezing out a Facebook post in between the lunch and dinner rush?
-Can it be done?
-Yes. But only with a solid plan and strategy in place.
+###2.  [The Best of Seth Godin on Copyblogger&nbsp;<i class="icon-link"></i>](https://www.copyblogger.com/lede-seth-godin/)
+> *Enough Said! Go listen to it already* :)
 
-(by [Ann Handley](https://twitter.com/MarketingProfs))
+(by [Jerod Morris](https://twitter.com/JerodMorris))
 
-###4. [30 Instagram Rules for your Businesses&nbsp;<i class="icon-link"></i>](http://curatti.com/30-instagram-rules-businesses/)
->5. Make sure your posts are PUBLIC – uncheck “Posts are Private” on the Edit Profile page
- 6.	Do NOT share every Instagram post to Facebook or Twitter. Give people a reason to follow you here.
 
-(by [Jenn Herman](http://twitter.com/jenns_trends))
+###3. [Stop Trying to be Human - Try Being Useful&nbsp;<i class="icon-link"></i>](http://www.socialmediaexplorer.com/social-media-marketing/stop-trying-to-be-human-try-being-useful/)
+>It’s natural to want to connect with people and their personalities on social. It is however, un-natural to “engage” with a product or brand. I almost never talk to my pillow. I occasionally talk to my treadmill, but not in a nice, friendly way. So, let’s drop this whole notion of being more human and try instead to be useful.
 
-###5. [3 Old-School Career Myths Exposed (Do You Really Want a Job)&nbsp;<i class="icon-link"></i>](http://www.youtern.com/thesavvyintern/index.php/2014/04/24/3-old-school-career-myths-exposed-do-you-really-want-a-job/)
->...we humans pass down wisdom learned from our elders, even when some of that “wisdom” stops being wise quite some time ago. And if there’s one thing I’m convinced of from studying the Social Age for five years now, it’s that this era will feature and embrace the self-employed. As this new age continues to unfold, you’re going to have to try very hard not to be your own boss.
+(by [Tracey Parsons](https://twitter.com/tparsons))
 
-(by [Ted Coine](https://twitter.com/tedcoine))
+###4. [Stop Trying to Get Your Blog Posts Shared and Do This Instead&nbsp;<i class="icon-link"></i>](https://socialmouths.com/blog/2014/04/16/stop-trying-to-get-your-blog-posts-shared-and-do-this-instead/)
+>Here’s the problem. Blog posts just aren’t very shareable. Take a minute and scroll through your Facebook feed right now. Keep scrolling until you find a blog post in there. Yeah, it’s going to be a while.
+Meanwhile, average organic reach has dropped from 16 percent in 2012 all the way down to 6.51 percent this year. (Oh how I long for the days when we complained about 16 percent organic reach.)
+I’m going to say something a bit heretical. I don’t think you should focus on getting your blog posts shared.
+I think you should start asking what does get shared instead.
+
+(by [Pratik Dholakiya](https://twitter.com/DholakiyaPratik))
+
+###5. [How we generated $13k of sales in 24hrs through Product Hunt&nbsp;<i class="icon-link"></i>](https://medium.com/on-startups/4ab5a28f018c)
+>Here’s the trick: we didn’t pull any tricks. One of our customers unexpectedly posted us to Product Hunt, and we resonated with every customer. And if you build a resonating experience, people tell their friends.
+
+(by [Arush Sehgal](https://twitter.com/arush))
