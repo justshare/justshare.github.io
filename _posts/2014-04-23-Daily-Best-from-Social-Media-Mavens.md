@@ -16,7 +16,7 @@ authors: [lavanya]
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: GREGORY CIOTTI</h3>
+    <h2>SPOTLIGHT: GREGORY CIOTTI</h2>
     <a href="https://twitter.com/GregoryCiotti"><img src="http://cdn.justshareapp.com/GregoryCiotti.jpeg" class="bio-photo large" alt="Gregory Ciotti"></a>
     <br><br>
 <p>Growth at @HelpScout. Interested in behavioral psychology and neuroscience. Super Nintendo enthusiast.  <a href="https://twitter.com/GregoryCiotti">@GregoryCiotti</a> </p>
