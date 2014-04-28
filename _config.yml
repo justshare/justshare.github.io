@@ -7,6 +7,7 @@ cname:              http://blog.justshareapp.com
 #url:              http://localhost:4000
 disqus_shortname: justshareapp
 mixpanel_code:    cf47f8688b7b7b06cdc64e0bf1a87446
+logo:            http://justshareapp.com/images/just_share_128.png
 
 # Owner/author information
 owner:
