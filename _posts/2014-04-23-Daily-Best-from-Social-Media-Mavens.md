@@ -25,6 +25,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ## The Daily Leaderboard
 
 Another Monday is here, so first things first:<br><br>
+
 ###1. [How Coffee Affects Your Brain&nbsp;<i class="icon-link"></i>](http://visual.ly/how-coffee-affects-your-brain)
 >*It is a Monday! Go watch Coffee videos first. No guarantee if your coffee effects will survive that though ;) -Lavanya*
 
