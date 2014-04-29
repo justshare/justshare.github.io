@@ -5,6 +5,8 @@ description: â€œA long hard look at the evolving trends in The Sharing Economyâ€
 tags: [blog, sharing economy, collaborative consumption, coworking, coliving, crowdfunding, crowdsourcing]
 comments: true
 authors: [lavanya]
+image:
+  thumb: http://cdn.justshareapp.com/sharing_girls_thumb.png
 ---
 
 ![http://cdn.justshareapp.com/SharingEco1Girls.jpg](http://cdn.justshareapp.com/SharingEco1Girls.jpg)
