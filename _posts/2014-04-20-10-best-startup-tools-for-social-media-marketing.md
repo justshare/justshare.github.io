@@ -7,11 +7,13 @@ modified: 2014-04-28
 tags: [blog, social media, marketing, startups, enterpreneurs, tools, twitter, facebook, mobile apps]
 comments: true
 authors: [arvi, raj]
+image:
+  thumb: http://cdn.justshareapp.com/not_impressed_thumb.png
 ---
 
 <figure>
-<img src="http://d1hgw33z23fgm2.cloudfront.net/virginia_slims_1968.jpg"/>
-<figcaption>Marketing, You've come a long way baby.</figcaption>
+<img src="http://cdn.justshareapp.com/not_impressed2.png"/>
+<figcaption>Are you not impressed with the social media marketing options out there?</figcaption>
 </figure>
 
 
@@ -130,7 +132,9 @@ If you are startup, looking to establish a social media presence across a number
 
 If you are a startup with technical chops and looking at just Twitter for coverage, Circular.io is likely to be your best bet if you'd like to avoid running up $10-50 per month just for sharing posts online. If you get by on the free plans until you start hitting the limits, Buffer is easy to use, snappy, and dependable. However, if you do hit limits or need to manage a small team you will likely need to pickup one of their paid plans!
 
-**Full Disclaimer**: The team at [*JustShare*](http://www.justshareapp.com) is building a software suite to assist with social media marketing, and to help marketers reach their audience. You can read more about what we're doing - [click here](http://www.justshareapp.com)
-<br><br>
-*Images*: Courtesy individual product owners.
+**Full Disclaimer**: The team at [*JustShare*](http://www.justshareapp.com) is building a software suite to assist with social media marketing, and to help marketers reach their audience.  
+<br>
+<a href="http://www.justshareapp.com" class="btn btn-success" target="_blank">What is JustShare building?</a>
+<br>
+*Images: Courtesy HootSuite, Buffer, SproutSocial, PostPlanner, PostCron, Dlvr.it, Gremln, 14Blocks, Circular.io, Oktopost, Wikipedia.*
 {: .notice}
