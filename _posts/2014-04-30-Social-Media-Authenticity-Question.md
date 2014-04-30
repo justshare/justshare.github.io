@@ -34,9 +34,8 @@ image:
 
 
 
-***
 How much of sociable do we need when it comes to marketing via social media? Can we escape the fact that `targeted interaction` or `purposeful engagement` cannot masquerade as general human connection?
-***
+{: .notice}
 
 ##Brands as Humans
 
