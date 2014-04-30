@@ -9,7 +9,8 @@ modified: 2014-04-30
 comments: false
 authors: [lavanya]
 
-
+image:
+  thumb: http://cdn.justshareapp.com/ScottDinsmore.jpg
 ---
 
 
