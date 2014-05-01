@@ -144,7 +144,7 @@ If you are a startup with technical chops and looking at just Twitter for covera
 
 **Full Disclaimer**: The team at [*JustShare*](http://www.justshareapp.com) is building a software suite to assist with social media marketing, and to help marketers reach their audience.  
 <br>
-<a href="http://www.justshareapp.com" class="btn btn-success" target="_blank">What is JustShare building?</a>
+<a href="http://www.justshareapp.com/?utm_source=jshrblog&utm_medium=banner&utm_content=10b&utm_campaign=soctool" class="btn btn-success" target="_blank">What is JustShare building?</a>
 <br>
 *Images: Courtesy HootSuite, Buffer, SproutSocial, PostPlanner, PostCron, Dlvr.it, Gremln, 14Blocks, Circular.io, Oktopost, Wikipedia.*
 {: .notice}
