@@ -3,79 +3,52 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, LinkedIn, mobile, marketing, branding, Silicon Valley, Writing, productivity social media listening]
+tags: [blog, social media, mavens, advertising, mobile, video, email, marketing, brands, work, skills, growth hacking]
 created: 2014-04-23
-modified: 2014-05-01
+modified: 2014-05-02
 comments: false
 authors: [lavanya, arvi]
-
 image:
-  thumb: http://cdn.justshareapp.com/CurtHanke.jpeg
+  thumb: http://cdn.justshareapp.com/VanessaCamones.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: CURT HANKE</h3>
-    <a href="https://twitter.com/cphanke"><img src="http://cdn.justshareapp.com/CurtHanke.jpeg" class="bio-photo large" alt="Curt Hanke"></a>
+    <h3>SPOTLIGHT: VANESSA CAMONES</h3>
+    <a href="https://twitter.com/vanessacamones"><img src="http://cdn.justshareapp.com/VanessaCamones.jpeg" class="bio-photo large" alt="VanessaCamones"></a>
     <br><br>
-<p>Founding partner of Shine. Fly fisher. Clay buster. Wannabe foodie. Fledgling triathlete & cyclist. Always ready to fight the good fight. <a href="https://twitter.com/cphanke">@cphanke</a></p>
+<p>CEO of @theMIXagency. Expertise: marketing Tech: mobile/security/devs/gaming/platforms. #design #music #fashion #art #food #robots. fierce shoe collector. <a href="https://twitter.com/vanessacamones">@vanessacamones</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-<a href="#poll" class="btn btn-success">Vote For Your Favorite Article</a>
+###1.  [Real growth hacking is really about communication hacking&nbsp;<i class="icon-link"></i>](http://thenextweb.com/socialmedia/2014/04/29/real-growth-hacking-really-communication-hacking/?utm_source=social&utm_medium=feed&utm_campaign=profeed)
+>"...if you don’t get a closer read on how people engage with your product, or create strategies for engaging with them, you miss opportunities to better communicate your product – and worse, miss the chance to communicate with your user base, and enlist them as your growth allies."
 
-###1. [Forget Numbers: 5 Enlightened Ways to Measure Your Brand&nbsp;<i class="icon-link"></i>](http://www.inc.com/curt-hanke/zen-and-the-art-of-branding.html)
->"Brand. It’s a noun. It’s a verb. In theory, it is a universal promise--a declared intention, if you will.
-
-But as an experience, it is complex, diverse, and personal. A brand is one of an organization’s most valuable assets. And yet, its actual value resides in the hearts and minds of its consumers and prospects. (Crazy, huh?)"
-
-(by [Curt Hanke](https://twitter.com/cphanke))
+(by [Vanessa Camones](https://twitter.com/vanessacamones))
 
 
-###2.  [LinkedIn Publishing: 4 Reasons You Should Want to Do It Now&nbsp;<i class="icon-link"></i>](http://www.business2community.com/linkedin/linkedin-publishing-4-reasons-want-now-0864015)
->"LinkedIn announced recently opening its publishing platforms to members. Up to now, members are only able to share updates and links with their connections within their personal network. LinkedIn turned its sights on content about a year ago and only influencers selected by LinkedIn were given the opportunity to publish articles on the site. With this recent announcement, LinkedIn changes that – they’ll begin to open up their publishing platforms and offer members the ability to publish content to all 227 million LinkedIn members."
+###2. [How to Turn Your Socially Engaged Employees Into Brand Advocates&nbsp;<i class="icon-link"></i>](http://www.business2community.com/social-media/turn-socially-engaged-employees-brand-advocates-0857508)
+>"While the Mad Men-era advertising agency brings back some of those romantic feelings for print ads, snazzy taglines and retro imagery, the modern consumer is looking for a more genuine way to fall in love with your product. Your advertising and marketing may accurately describe what your product can do, but in the age of social media, consumers are more likely to trust what other people say about your brand."
 
-(by [Shelly Kramer](https://twitter.com/ShellyKramer))
-
-
-###3. [What is Social media listening?&nbsp;<i class="icon-link"></i>](http://www.smartinsights.com/social-media-marketing/social-media-listening/what-is-social-media-listening/)
->"I would argue that in focus groups or using surveys people tend to answer the questions in a way that they wish to be portrayed by their peers. While this may also be said for social (personal branding), the very nature of focus groups and surveys gives users the chance to reflect before saying anything. Social media has a cultural immediacy where users express their opinions en mass and are not prompted by questions that steer answers."
-
-(by [Guest Expert](https://twitter.com/SmartInsights))
+(by [Jennifer King](http://www.business2community.com/author/jeni-king#!GSvD5))
 
 
-###4. [Yes, Silicon Valley, There Is Such a Thing as Not Enough Bureaucracy&nbsp;<i class="icon-link"></i>](http://www.nytimes.com/2014/05/01/upshot/yes-silicon-valley-there-is-such-a-thing-as-not-enough-bureaucracy.html?partner=rss&emc=rss&_r=0)
->"The dirtiest word in Silicon Valley is bureaucracy. Tech executives want to move quickly — a Facebook company motto is “move fast and break things” — and layers of bureaucracy, such as human resources departments, are seen as the enemy of speed and efficiency. 
-But there is a reason that big, successful companies have layers of bureaucracy — even if they do slow things down. And tech companies are learning that the hard way."
+###3. [New Report Findings: 5 Crucial Takeaways for Mobile Video Marketers&nbsp;<i class="icon-link"></i>](http://www.business2community.com/video-marketing/new-report-findings-5-crucial-takeaways-mobile-video-marketers-0863844)
+>"Because people spend 80% of their time on mobile devices in apps, marketers are justified in serving a majority of their ads through this channel. Not only are people spending more time in apps, but they are also engaging with in-app ads—MediaBrix found that in-app ads can yield 20% engagement and a 2,000% higher click-through rate."
 
-(by [Claire Cain Miller](https://twitter.com/clairecm))
+(by [Hannah Brenzel](https://twitter.com/hannahbrenzel))
 
-###5. [3 Common Writing Fears & How We Can Overcome Them&nbsp;<i class="icon-link"></i>](http://www.elephantjournal.com/2014/04/3-common-writing-fears-how-we-can-overcome-them/)
->"Fear happens even to experienced writers. (There have been more times than I care to remember when I have sat before the computer and thought, “I can’t write!”)"
 
-(by [Kimberly Lo](http://www.elephantjournal.com/author/kimberly-lo/))
+###4. [Will Google Kill Email Marketing?&nbsp;<i class="icon-link"></i>](http://www.business2community.com/email-marketing/will-google-kill-email-marketing-0857715)
+>"Google recently rolled out their new Gmail Sponsored Promotions (GSPs) to all Gmail users. In the past, your Gmail inbox was surrounded by ads that companies could manage through AdWords managed placements. But now, the GSP ad shows up at the top of the Promotions tab, looking just like an email, but highlighted to stand out.
+That means that not only are your marketing emails separated from the main inbox, they will never show up at the top of that tab."
 
-*****
+(by [Zach Heller](https://twitter.com/zheller))
 
-<h2><a name="poll">Community Poll&nbsp;</a></h2>
-<div id="wufoo-z1izu0r30mnrs45">
-Fill out my <a href="https://jshr.wufoo.com/forms/z1izu0r30mnrs45">online form</a>.
-</div>
-<script type="text/javascript">var z1izu0r30mnrs45;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'jshr',
-'formHash':'z1izu0r30mnrs45',
-'autoResize':true,
-'height':'363',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1izu0r30mnrs45 = new WufooForm();z1izu0r30mnrs45.initialize(options);z1izu0r30mnrs45.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+
+###5. [Facing Tomorrow With Confidence: Workplace Skills For The Future&nbsp;<i class="icon-link"></i>](http://blogs.sap.com/innovation/human-resources/facing-tomorrow-confidence-workplace-skills-future-2-01249707)
+>"The march of automation, outsourcing, and global expansion continues, and new transformations are on the horizon: the “smart revolution” is only the tip of the iceberg when it comes to the future interconnectivity of our lives. Every day, the drive towards true innovation becomes more urgent and more complex. Creativity, critical thought and quality communication have always been important factors in employability, but if you want to stay on top, you’ll need to develop these skills in unfamiliar directions. "
+
+(by [Barbara Warwick](http://blogs.sap.com/innovation/author/barbarawarwick))
