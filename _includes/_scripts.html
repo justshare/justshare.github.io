@@ -28,10 +28,10 @@
 
 <script>
   (function() {
-    $('.social-buttons').one('mouseenter', function()
-    {
-      Socialite.load('.social-buttons');
-    });
+    // Load social buttons on content page
+    Socialite.load('.social-buttons');
+
+    // Load buttons on post index page
     $('.post-index-item').one('mouseenter', function()
     {
       Socialite.load(this);
