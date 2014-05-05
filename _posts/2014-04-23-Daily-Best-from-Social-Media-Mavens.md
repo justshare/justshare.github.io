@@ -5,50 +5,52 @@ title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
 tags: [blog, social media, mavens, advertising, mobile, video, email, marketing, brands, work, skills, growth hacking]
 created: 2014-04-23
-modified: 2014-05-02
+modified: 2014-05-05
 comments: false
 authors: [lavanya, arvi]
 image:
-  thumb: http://cdn.justshareapp.com/VanessaCamones.jpeg
+  thumb: http://cdn.justshareapp.com/eric_thumb.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: VANESSA CAMONES</h3>
-    <a href="https://twitter.com/vanessacamones"><img src="http://cdn.justshareapp.com/VanessaCamones.jpeg" class="bio-photo large" alt="VanessaCamones"></a>
+    <h3>SPOTLIGHT: ERIC WITTLAKE</h3>
+    <a href="https://twitter.com/wittlake"><img src="http://cdn.justshareapp.com/eric.jpg" class="bio-photo large" alt="Eric Wittlake"></a>
     <br><br>
-<p>CEO of @theMIXagency. Expertise: marketing Tech: mobile/security/devs/gaming/platforms. #design #music #fashion #art #food #robots. fierce shoe collector. <a href="https://twitter.com/vanessacamones">@vanessacamones</a> </p>
+<p>Focus: Digital Media, Marketing and Strategy for B2B. Belief: Marketing should serve and respect the audience. Work: @BabcockJenkins. Co-moderator: #b2bchat <a href="https://twitter.com/wittlake">@wittlake</a> </p>
 </div>
 
-## The Daily Leaderboard
+## Social Media Marketing And Spam
 
-###1.  [Real growth hacking is really about communication hacking&nbsp;<i class="icon-link"></i>](http://thenextweb.com/socialmedia/2014/04/29/real-growth-hacking-really-communication-hacking/?utm_source=social&utm_medium=feed&utm_campaign=profeed)
->"...if you don’t get a closer read on how people engage with your product, or create strategies for engaging with them, you miss opportunities to better communicate your product – and worse, miss the chance to communicate with your user base, and enlist them as your growth allies."
+Today's round up is about **spam** and **social media marketing**, and features *four excellent posts* that provide different perspectives. <br>
+&raquo; Is posting *more* really the answer to reaching your audience online and keeping them *engaged*? <br>
+&raquo; What are the effective strategies for striking a balance between *staying active and consistent* on social media and *losing your followers*? <br>
+&raquo; How do you draw the lines about what is *ethical* and what is not?
+{: .notice}
 
-(by [Vanessa Camones](https://twitter.com/vanessacamones))
+###1.  [The Thin Line Between Social Media Marketing And Spam&nbsp;<i class="icon-link"></i>](http://b2bdigital.net/2012/10/09/the-thin-line-between-social-media-marketing-and-spam/)
+>"You can share. You can publish. You can broadcast. You can spam."
+>"Social media today requires a commitment of time and energy not only to social media activity, but to understanding it. If you don’t make an investment in understanding social media today, the ease of social media may turn you into a spammer before you realize it."
 
-
-###2. [How to Turn Your Socially Engaged Employees Into Brand Advocates&nbsp;<i class="icon-link"></i>](http://www.business2community.com/social-media/turn-socially-engaged-employees-brand-advocates-0857508)
->"While the Mad Men-era advertising agency brings back some of those romantic feelings for print ads, snazzy taglines and retro imagery, the modern consumer is looking for a more genuine way to fall in love with your product. Your advertising and marketing may accurately describe what your product can do, but in the age of social media, consumers are more likely to trust what other people say about your brand."
-
-(by [Jennifer King](http://www.business2community.com/author/jeni-king#!GSvD5))
-
-
-###3. [New Report Findings: 5 Crucial Takeaways for Mobile Video Marketers&nbsp;<i class="icon-link"></i>](http://www.business2community.com/video-marketing/new-report-findings-5-crucial-takeaways-mobile-video-marketers-0863844)
->"Because people spend 80% of their time on mobile devices in apps, marketers are justified in serving a majority of their ads through this channel. Not only are people spending more time in apps, but they are also engaging with in-app ads—MediaBrix found that in-app ads can yield 20% engagement and a 2,000% higher click-through rate."
-
-(by [Hannah Brenzel](https://twitter.com/hannahbrenzel))
+(by [Eric Wittlake](https://twitter.com/wittlake))
 
 
-###4. [Will Google Kill Email Marketing?&nbsp;<i class="icon-link"></i>](http://www.business2community.com/email-marketing/will-google-kill-email-marketing-0857715)
->"Google recently rolled out their new Gmail Sponsored Promotions (GSPs) to all Gmail users. In the past, your Gmail inbox was surrounded by ads that companies could manage through AdWords managed placements. But now, the GSP ad shows up at the top of the Promotions tab, looking just like an email, but highlighted to stand out.
-That means that not only are your marketing emails separated from the main inbox, they will never show up at the top of that tab."
+###2. [Social Networking Spam - 5 Tips For Marketers&nbsp;<i class="icon-link"></i>](http://www.convinceandconvert.com/guest-posts/social-networking-spam-5-rules-for-marketers/)
+>"Don’t skew your analysis with incomplete data. You are better off dealing with a quality subset of audience data to analyze rather than a much larger mess of incomplete and questionable data.."
+>"A Twitter account with nothing more than an @name, sharing dating site links every hour on the hour, provides little usable data and obviously stinks of spam. Analyze your audience with a tool that allows you to filter out incomplete and junk accounts."
 
-(by [Zach Heller](https://twitter.com/zheller))
+(by [Josh Mackey](https://twitter.com/joshmackey))
 
 
-###5. [Facing Tomorrow With Confidence: Workplace Skills For The Future&nbsp;<i class="icon-link"></i>](http://blogs.sap.com/innovation/human-resources/facing-tomorrow-confidence-workplace-skills-future-2-01249707)
->"The march of automation, outsourcing, and global expansion continues, and new transformations are on the horizon: the “smart revolution” is only the tip of the iceberg when it comes to the future interconnectivity of our lives. Every day, the drive towards true innovation becomes more urgent and more complex. Creativity, critical thought and quality communication have always been important factors in employability, but if you want to stay on top, you’ll need to develop these skills in unfamiliar directions. "
+###3. [Social Media Spam Is Spam&nbsp;<i class="icon-link"></i>](http://www.steamfeed.com/social-media-spam-spam/)
+>"Yes, identify your target audience on social media, but then connect with them, converse with them and earn a relationship that warrants the prospect to look deeper at your profile. Establish a relationship that enables you to bring up one of your blog posts or the product you provide. Do it in context to a conversation and AFTER you’ve done the work to provide value and connection."
 
-(by [Barbara Warwick](http://blogs.sap.com/innovation/author/barbarawarwick))
+(by [Robert M. Caruso](https://twitter.com/fondalo))
+
+
+###4. [Social Media Marketing without the Spam&nbsp;<i class="icon-link"></i>](http://thecatalystpartnership.wordpress.com/2012/02/26/social-media-marketing-without-the-spam/)
+>"Selfish campaigns will have little gain. Instead, think about what your reader wants to hear, see or talk about. Engage the reader, ask questions and encourage reposting/shares."
+>"A consistent brand is essential to your social media marketing campaign and to the reputation of your business. You want to post fresh, relevant content often. Don’t post something just for the sake of posting it or to gain attention. "
+
+(by [Jorgen Poulsen](https://twitter.com/CatalystPart))
