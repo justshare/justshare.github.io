@@ -26,7 +26,8 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 Today's round up is about **spam** and **social media marketing**, and features *four excellent posts* that provide different perspectives. <br>
 &raquo; Is posting *more* really the answer to reaching your audience online and keeping them *engaged*? <br>
 &raquo; What are the effective strategies for striking a balance between *staying active and consistent* on social media and *losing your followers*? <br>
-&raquo; How do you draw the lines about what is *ethical* and what is not?
+&raquo; How do you draw the lines about what is *ethical* and what is not?<br>
+Chime in with your thoughts and comments on the [GrowthHackers thread](http://www.growthhackers.com/social-media-marketing-spam-just-share-daily-best-roundup/).
 {: .notice}
 
 ###1.  [The Thin Line Between Social Media Marketing And Spam&nbsp;<i class="icon-link"></i>](http://b2bdigital.net/2012/10/09/the-thin-line-between-social-media-marketing-and-spam/)
@@ -54,3 +55,6 @@ Today's round up is about **spam** and **social media marketing**, and features 
 >"A consistent brand is essential to your social media marketing campaign and to the reputation of your business. You want to post fresh, relevant content often. Don’t post something just for the sake of posting it or to gain attention. "
 
 (by [Jorgen Poulsen](https://twitter.com/CatalystPart))
+
+Chime in with your thoughts and comments on the [GrowthHackers thread](http://www.growthhackers.com/social-media-marketing-spam-just-share-daily-best-roundup/).
+{: .notice}
