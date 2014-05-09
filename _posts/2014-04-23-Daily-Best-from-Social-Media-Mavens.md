@@ -29,7 +29,8 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ***
 This post asks a very important question: Whose problem are you trying to solve? It can't be your company's problem. It has to be people's problems if you want to see people using your product.
 -L
-***
+
+*** 
 
 >"If Google+ wants to see engagement numbers similar to Facebook, it needs to focus on how Google+ makes people’s lives markedly better. The vast majority of people don’t care about Google’s problems.
 Likewise, they don’t use Facebook in order to collect data about themselves so they can be targeted with better advertising. They simply want better tools to help them live a more fulfilling and happier life, and often they can’t foresee tools they will later come to value.
@@ -43,7 +44,8 @@ The point here is that social software is not done. Do people want better ways t
 ***
 This post was eyeopening to me because I did not realize the extent of Social Media Marketing specialization that was offered in India. While the post linked above is an interview with Pradeep Chopra of DigitalVidya, I also found the other post it linked to on [20 Social Media Training Institutes and Courses in India ](http://blog.digitalinsights.in/social-media-training-institutes-smm-courses-india/0597887.html) quite useful to understand what is out there.
 -L
-***
+
+*** 
 
 >"Looking for a future in social media, but don’t know where to start from? Confused about taking an online or regular social media marketing course? 
 ...With the growing number of institutes leaves many aspirants in a major query of which institute to choose and on what grounds? I have been receiving emails from our readers asking which institutes to choose for social media. Thus we decided to get at the bottom of this!"
