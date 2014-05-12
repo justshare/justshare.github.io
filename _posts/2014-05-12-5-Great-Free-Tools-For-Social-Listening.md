@@ -2,7 +2,7 @@
 layout: post
 title: 5 Great Free Tools to Get Your Social Listening Started
 description: “Great Free Tools to help Startups and Small Businesses get into Social Listening”
-tags: [blog, social media, marketing, identity, branding, social listening, social media monitoring, SEO]
+tags: [blog, social media, marketing, identity, branding, social listening, social media monitoring, SEO, socialmention, IceRocket, Social Searcher, Twazzup, Topsy, Keyhole, Followerwonk, Hootsuite, Buffer, Justshare]
 comments: true
 authors: [lavanya]
 image:
@@ -13,11 +13,11 @@ image:
 Listen! [^1]
 <br/><br/>
 
-There are just so many wonderful tools available to manage the execution of your social media strategy. It is also true that your social media budget will determine which of the many wonderful tools you can afford to use. 
+There are just so many [wonderful tools](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/) available to manage the execution of your social media strategy. It is also true that your social media budget will determine which of the many wonderful tools you can afford to use. 
 
 So let's start simple. You are an individual looking to build your social presence OR you are a small business/company looking to build your brand. You are swimming in the ocean of choice and it can get really confusing really soon. You cannot get away from some must dos like:
 
-* You MUST Explore what tools are available and how people are using them
+* You MUST Explore what tools[^2] are available and how people are using them
 * You MUST Identify and Define Your Social Media Needs
 * You MUST Research Further
 * You MUST Experiment
@@ -131,9 +131,9 @@ Social Trends are always interesting to study and Topsy shows you the Top 100, 1
 Our choice of free tools above is heavily tilted towards Twitter. But, given the nature of that social network it does offer more data for these tools to study and offer analysis on. 
  
  
- In attempting to filter only free tools with useful features for Social Media Listening, I tried a number of very robust tools. I particularly love [Keyhole](http://keyhole.co/), [Followerwonk](https://followerwonk.com/) and [IFTTT](https://ifttt.com/wtf). Bear in mind that your first steps like the [Hootsuite dashboard](https://hootsuite.com/dashboard) or [Tweetdeck](https://tweetdeck.twitter.com/) offer powerful ways to listen to the Twitter streams. Likewise many integrated Social Media Management offerings have Social Listening baked into them and you can tweak them to suit your needs.  
+In attempting to filter only free tools with useful features for Social Media Listening, I tried a number of very robust tools. I particularly love [Keyhole](http://keyhole.co/), [Followerwonk](https://followerwonk.com/) and [IFTTT](https://ifttt.com/wtf). Bear in mind that your first steps like the [Hootsuite dashboard](https://hootsuite.com/dashboard) or [Tweetdeck](https://tweetdeck.twitter.com/) offer powerful ways to listen to the Twitter streams. Likewise many integrated Social Media Management offerings have Social Listening baked into them and you can tweak them to suit your needs.  
 
 What are the free Social Listening tools that you love? Do share your recommendations!
 
 [1]: [Image courtesy: Ky](https://flic.kr/p/5LTdXV)
-
+[2]: [10 Great Social Media Marketing Tools Every Startup Should Use](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/)
