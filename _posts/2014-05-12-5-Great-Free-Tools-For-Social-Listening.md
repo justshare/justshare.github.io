@@ -135,5 +135,5 @@ In attempting to filter only free tools with useful features for Social Media Li
 
 What are the free Social Listening tools that you love? Do share your recommendations!
 
-[1]: [Image courtesy: Ky](https://flic.kr/p/5LTdXV)
-[2]: [10 Great Social Media Marketing Tools Every Startup Should Use](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/)
+[^1]: [Image courtesy: Ky](https://flic.kr/p/5LTdXV)
+[^2]: [10 Great Social Media Marketing Tools Every Startup Should Use](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/)
