@@ -33,8 +33,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ###2. [Guy Kawasaki: 'If You're Using Social Media Right, You Will Piss Some People Off'&nbsp;<i class="icon-link"></i>](http://www.businessinsider.com/guy-kawasaki-on-small-business-social-media-2014-5/)
 >"What is the most common mistake you see companies make?  
    
-GK: Almost every company is not posting as much as they should. Many are believing "expert" advice that the optimal number of posts on each platform is one per day. This is the stupidest thing I've heard. Imagine if NPR, CNN, ESPN, or the BBC did one report per day — and never repeated it. Companies are afraid of a vocal minuscule minority complaining about too many posts and repeated posts.
-    
+>GK: Almost every company is not posting as much as they should. Many are believing "expert" advice that the optimal number of posts on each platform is one per day. This is the stupidest thing I've heard. Imagine if NPR, CNN, ESPN, or the BBC did one report per day — and never repeated it. Companies are afraid of a vocal minuscule minority complaining about too many posts and repeated posts.
 If you're using social media right, you will piss some people off. Deal with it. My   Twitter account has 50 tweets per day. My Google+ has 10 to 20 per day. It's not how much you post. It's how good you post."
 
 (by [Richard Feloni](https://twitter.com/RichFeloni))
@@ -42,7 +41,6 @@ If you're using social media right, you will piss some people off. Deal with it.
 
 ###3.  [4 Ways Brands Can Use Local Search to Their Advantage [INFOGRAPHIC]&nbsp;<i class="icon-link"></i>](http://dashburst.com/infographic/how-to-local-search-ads/)
 >"According to Google, four in every five people use search engines to find products or services nearby. These local searches have a high potential to drive traffic through your doors and, most importantly, drive sales in the immediate future.  
-  
 To help advertisers understand how consumers use local search, Google commissioned a study of over 5,000 smartphone users in the U.S. to find relevant tips for local advertisers. If your business has a local presence and you’re looking to drive more customers to your business, consider these four tips for using local search ads to their full potential."
 
 (by [Lauren Mobertz](https://twitter.com/moMobertz))
