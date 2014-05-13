@@ -32,7 +32,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ###2. [Guy Kawasaki: 'If You're Using Social Media Right, You Will Piss Some People Off'&nbsp;<i class="icon-link"></i>](http://www.businessinsider.com/guy-kawasaki-on-small-business-social-media-2014-5/)
 >"What is the most common mistake you see companies make?  
-   
+
 >GK: Almost every company is not posting as much as they should. Many are believing "expert" advice that the optimal number of posts on each platform is one per day. This is the stupidest thing I've heard. Imagine if NPR, CNN, ESPN, or the BBC did one report per day — and never repeated it. Companies are afraid of a vocal minuscule minority complaining about too many posts and repeated posts.
 If you're using social media right, you will piss some people off. Deal with it. My   Twitter account has 50 tweets per day. My Google+ has 10 to 20 per day. It's not how much you post. It's how good you post."
 
@@ -52,9 +52,9 @@ To help advertisers understand how consumers use local search, Google commission
 (by [Candida McCollam](https://twitter.com/Globalspeak))
 
 
-###5. [Thinking slowly&nbsp;<i class="icon-link"></i>](url)
+###5. [Thinking slowly&nbsp;<i class="icon-link"></i>](http://mattgemmell.com/thinking-slowly/)
 ***
-How to add **Pause** to your day: 
+How to add **Pause** to your day:
 Matt makes a great point about how using *analogue* tools can help us slow down and think. We all know how writing in a notebook slows us down but makes our writing much tighter. -L
 
 ***
@@ -62,5 +62,3 @@ Matt makes a great point about how using *analogue* tools can help us slow down 
 >"There’s a ritualistic quality to these objects, but that’s not why I love them. I use them to slow myself down. To introduce just enough friction that I’m compelled to pause. We don’t pause enough anymore. We don’t give ourselves time to think."
 
 (by [Matt Gemmell](https://twitter.com/mattgemmell))
-
-
