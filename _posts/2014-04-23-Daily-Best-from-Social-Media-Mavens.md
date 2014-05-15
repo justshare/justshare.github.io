@@ -3,63 +3,66 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, sharing economy, share, conference, sustainability, organic, reach, 2014SHARE]
+tags: [blog, social media, mavens, advertising, mobile, marketing, brands, organic, trust, sales, conversion, SEO, social listening]
 created: 2014-04-23
-modified: 2014-05-14
+modified: 2014-05-15
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/JessicaScorpio.jpeg
+  thumb: http://cdn.justshareapp.com/PeterLightbody1.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
-***
-Today's best features insightful pieces on the **Sharing Economy**. We at JustShareApp are following the [**SHARE** conference](https://share2014.pathable.com/#meetings) quite keenly (pity, couldn't be in SFO) on Twitter #2014SHARE and the [live stream](https://2ndline.tv/share14_day1) of various sessions -L
-
-***
-
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: JESSICA SCORPIO</h3>
-    <a href="https://twitter.com/jessicascorpio"><img src="http://cdn.justshareapp.com/JessicaScorpio.jpeg" class="bio-photo large" alt="Jessica Scorpio"></a>
+    <h3>SPOTLIGHT: PETER LIGHTBODY</h3>
+    <a href="https://twitter.com/PeterLightbody"><img src="http://cdn.justshareapp.com/PeterLightbody1.jpg" class="bio-photo large" alt="Peter Lightbody"></a>
     <br><br>
-<p>@Getaround Founder. @SingularityU Alum. Working to solve car overpopulation and change the world. Yogi. Traveler. Former Political Aide. I'm persistent. <a href="https://twitter.com/jessicascorpio">@jessicascorpio</a> </p>
+<p>Digital Producer at Quantum. Pioneer of social & environmental business models, Lover of organic food & good whisky <a href="https://twitter.com/PeterLightbody">@Peter Lightbody</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [What's The Future Of The Sharing Economy?&nbsp;<i class="icon-link"></i>](http://www.fastcoexist.com/1679964/whats-the-future-of-the-sharing-economy)
->"More recently, there has been a surge in peer-to-peer sharing, and formal sharing institutions are quickly becoming a thing of the past. It doesn’t require an in-depth analysis to recognize the role of technology in this shift. What started online as the sharing of information has quickly turned into a full-fledged economy, with individuals sharing their homes, cars, and skills with the help of mobile devices.
+###1. [4 Step System for Increasing the Conversion and Sales with a New Web Page&nbsp;<i class="icon-link"></i>](url)
+>"So, you’re getting a lot of traffic to your site using social media, SEO and content marketing. 
 ...
-This intersection of sharing and technology has contributed to an “own less, use more” mindset, backed by environmentalists and economists alike. By skipping platforms that require the production of new assets, like car rental agencies and hotels, we--as a society--are ultimately able to produce fewer goods while still having access to a broad variety of goods and services. The potential environmental impacts are significant: When measuring carbon emissions, home sharing is 66% more effective than hotels where as car sharing participants reduce their individual emissions by 40%."
+Well done! 
+But the job is only half done. You need to get sales, sign-ups and conversions as well. 
+In this article, we’ll take a trip into the wild and look at an actual website and conduct a makeover of their landing page with the aim of increasing their conversions. 
+This can apply to a website or a blog. What’s more, it can all be done using free tools and a little ingenuity."
 
-(by [Jessica Scorpio](https://twitter.com/jessicascorpio))
-
-
-###2.  [The black economy and the internet age&nbsp;<i class="icon-link"></i>](http://www.ft.com/intl/cms/s/0/777b8ae8-cc56-11e3-bd33-00144feabdc0.html#axzz31V1ZkI2E)
->"House swapping isn’t new, but the ease with which it can now be done on the internet means it is on the rise. I’ve even looked at the possibilities for my own house (town house in Edinburgh during the Festival in exchange for a beach house in Martha’s Vineyard, anyone?) You might think that as no cash changes hands this is a purely social phenomenon and therefore of very little interest to this column’s readers. But it isn’t really so. Look at swapping through the eyes of an accountant or an economist and you will see that it should eventually have major implications for the ways in which we measure the size of the economy and collect tax."
-
-(by [Merryn Somerset Webb](https://twitter.com/MerrynSW))
+(by [Peter Lightbody](https://twitter.com/PeterLightbody))
 
 
-###3. [The Sharing Economy Isn’t About Trust, It’s About Desperation&nbsp;<i class="icon-link"></i>](http://nymag.com/daily/intelligencer/2014/04/sharing-economy-is-about-desperation.html)
->"A huge precondition for the sharing economy has been a depressed labor market, in which lots of people are trying to fill holes in their income by monetizing their stuff and their labor in creative ways. In many cases, people join the sharing economy because they've recently lost a full-time job and are piecing together income from several part-time gigs to replace it. In a few cases, it's because the pricing structure of the sharing economy made their old jobs less profitable. (Like full-time taxi drivers who have switched to Lyft or Uber.) In almost every case, what compels people to open up their homes and cars to complete strangers is money, not trust."
+###2.  [Why Personalization Is Key To The Future Of Marketing&nbsp;<i class="icon-link"></i>](url)
+>"The overwhelming majority of marketers agreed their roles would change within the next three years, but few felt they knew how to take risks and embrace change in order to remain competitive. Although, when asked about the capability most important to their future marketing efforts, “personalization” ranked highest, hands down. 
+In other words, we not only need a marketing makeover, but taking more risks and infusing creativity into our personalization efforts will be key to its success and longevity."
 
-(by [Kevin Roose](https://twitter.com/kevinroose))
+(by [Aseem Chandra](https://twitter.com/aseemchandra))
 
 
-###4. [How to Regulate Disruption&nbsp;<i class="icon-link"></i>](http://www.nytimes.com/roomfordebate/2014/05/06/regulating-the-sharing-economy/services-like-airbnb-mean-we-need-to-adapt-to-a-new-economy)
+###3. [7 Quick Ways to Curate Industry Content for Your Blog&nbsp;<i class="icon-link"></i>](http://blog.hubspot.com/marketing/quick-ways-curate-industry-blog-content)
+>"...while posts about an esteemed latest hire or an exciting product update are important pieces to help your readers keep up with company culture, the most impactful posts will be about your industry as a whole. But for marketers to pull back, assess current industry events, and provide a unique, helpful, practical take, it requires a certain amount of content curation. That curation sometimes turns into content on its own, or it simply helps inform marketers so they can create content that's up to date (cutting edge, even)."
+
+(by [Rebecca Goldring](https://twitter.com/beccagoldring))
+
+
+###4. [Do You Trust Me?&nbsp;<i class="icon-link"></i>](http://www.wadeharman.com/blog/trust/)
+>"Trust is the key factor in everyone’s life. It not only affects our day to day, but it flows into our business and our marketing as well. 
+...
+know you have heard the term, It’s not personal, it’s just business, but in 2014, everything is personal! Especially with the way social has been integrated into the mix, it’s not wise to think that your business doesn’t affect anyone on a personal level anymore."
+
+(by [Wade Harman](http://www.twitter.com/makemyblogmoney))
+
+
+###5. [6 Steps to Build a Social Listening Dashboard&nbsp;<i class="icon-link"></i>](http://www.socialmediaexaminer.com/social-listening-dashboard/)
 ***
-This is a discussion on Room for Debate in the NYT -L
+Marcela has some good tips on how to organize and manage your Social Listening. Pair her post with [5 Great Tools to Get Your Social Listening Started](http://blog.justshareapp.com/5-Great-Free-Tools-For-Social-Listening/) - L
 
 ***
->"A growing number of apps and online services are giving consumers more direct control over their choices. But are they cutting-edge conveniences that should be encouraged, or rapidly expanding businesses that need more regulation?"
+>"To build community, start conversations, deepen existing relationships, keep up with brand mentions and watch for customer service opportunities, you have to listen.
+...
+As you probably know from experience, social listening can be a job in and of itself, nevermind your other social media marketing duties."
 
-(via [The New York Times](https://twitter.com/nytimes))
-
-
-###5. [5 Ways to Make Your Brand Thrive in the Sharing Economy&nbsp;<i class="icon-link"></i>](http://www.inc.com/diane-hessan/5-ways-to-make-your-brand-thrive-in-the-sharing-economy.html?cid=em01016week16b)
->"Smart brands needn't be threatened by the collaborative movement. Instead of holing themselves up in branded ivory towers, pioneering companies are redefining their relationships with consumers to form an active collaboration with them or other independent partners. These partnerships can create mutually beneficial change and empower organizations to make faster (and smarter) business decisions. Here are five ways brands can not only embrace, but thrive in the sharing economy."
-
-(by [Diane Hessan](https://twitter.com/DianeHessan))
+(by [Marcela De Vivo](https://twitter.com/marceladevivo))
