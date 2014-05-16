@@ -10,14 +10,14 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/KapilJekishan.jpeg
+  thumb: http://cdn.justshareapp.com/KapilJekishan1.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: KAPIL JEKISHAN</h3>
-    <a href="https://twitter.com/KapilJekishan"><img src="http://cdn.justshareapp.com/KapilJekishan.jpeg" class="bio-photo large" alt="Kapil Jekishan"></a>
+    <a href="https://twitter.com/KapilJekishan"><img src="http://cdn.justshareapp.com/KapilJekishan1.jpg" class="bio-photo large" alt="Kapil Jekishan"></a>
     <br><br>
 <p>Digital Strategist & @HootSuite Ambassador for @SocialSEOAus, Coconut water addict, Avid Miami Heat & Wallabies Supporter <a href="https://twitter.com/KapilJekishan">@KapilJekishan</a> </p>
 </div>
