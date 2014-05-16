@@ -126,7 +126,7 @@ Here is a quick checklist that you can use daily to manage your engagement activ
 Do you have any Social Media Engagement learnings to share? Let us know in the comments 
 
 
-[1]: [Image courtesy: Social Media Funnel - Mark Smiciklas](https://flic.kr/p/8FSH1y)
-[2]: [Image courtesy: Rules - Massimo Valiani](https://flic.kr/p/8i417s)
-[3]: [Image courtesy: Tool Trader - Meena Kadri](https://flic.kr/p/64FuKq)
-[4]: [Image courtesy: Checklist - AJ Cann](https://flic.kr/p/fzviyT)
+[^1]: [Image courtesy: Social Media Funnel - Mark Smiciklas](https://flic.kr/p/8FSH1y)
+[^2]: [Image courtesy: Rules - Massimo Valiani](https://flic.kr/p/8i417s)
+[^3]: [Image courtesy: Tool Trader - Meena Kadri](https://flic.kr/p/64FuKq)
+[^4]: [Image courtesy: Checklist - AJ Cann](https://flic.kr/p/fzviyT)
