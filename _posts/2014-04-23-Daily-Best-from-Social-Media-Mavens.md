@@ -3,66 +3,60 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, advertising, mobile, marketing, brands, organic, trust, sales, conversion, SEO, social listening]
+tags: [blog, social media, mavens, advertising, mobile, content, marketing, color, scheduleding, Penguin 3.0, reach, productivity]
 created: 2014-04-23
-modified: 2014-05-15
+modified: 2014-05-16
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/PeterLightbody1.jpg
+  thumb: http://cdn.justshareapp.com/KapilJekishan.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: PETER LIGHTBODY</h3>
-    <a href="https://twitter.com/PeterLightbody"><img src="http://cdn.justshareapp.com/PeterLightbody1.jpg" class="bio-photo large" alt="Peter Lightbody"></a>
+    <h3>SPOTLIGHT: KAPIL JEKISHAN</h3>
+    <a href="https://twitter.com/KapilJekishan"><img src="http://cdn.justshareapp.com/KapilJekishan.jpeg" class="bio-photo large" alt="Kapil Jekishan"></a>
     <br><br>
-<p>Digital Producer at Quantum. Pioneer of social & environmental business models, Lover of organic food & good whisky <a href="https://twitter.com/PeterLightbody">@Peter Lightbody</a> </p>
+<p>Digital Strategist & @HootSuite Ambassador for @SocialSEOAus, Coconut water addict, Avid Miami Heat & Wallabies Supporter <a href="https://twitter.com/KapilJekishan">@KapilJekishan</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [4 Step System for Increasing the Conversion and Sales with a New Web Page&nbsp;<i class="icon-link"></i>](url)
->"So, you’re getting a lot of traffic to your site using social media, SEO and content marketing. 
+###1.  [The Best Time to Post On Social Media is...Not Again&nbsp;<i class="icon-link"></i>](http://webquacker.com.au/best-time-post-social-media-is-oh-not-again/)
+>"The fallacy at the heart of most arguments over the “best” time to post social media updates is the assumption that what every branded post wants is to be dropped into the ocean during peak traffic times. This assumption ignores the two factors that are really driving your conversion: is your audience online at the time, and can your content outshine the competition?"
+
+(by [Kapil Jekishan](https://twitter.com/KapilJekishan))
+
+
+###2. [The Psychology of Color in Marketing and Branding&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/233843)
+>"The psychology of color as it relates to persuasion is one of the most interesting--and most controversial--aspects of marketing. 
+The reason: Most of today's conversations on colors and persuasion consist of hunches, anecdotal evidence and advertisers blowing smoke about "colors and the mind."   
+To alleviate this trend and give proper treatment to a truly fascinating element of human behavior, today we're going to cover a selection of the most reliable research on color theory and persuasion."
+
+(by [Gregory Ciotti](https://twitter.com/GregoryCiotti))
+
+
+###3. [How to Avoid Getting Slaughtered by Penguin 3.0&nbsp;<i class="icon-link"></i>](http://www.quicksprout.com/2014/05/14/how-to-avoid-getting-slaughtered-by-penguin-3-0/)
+>"Talking about Penguin is confusing. How many Penguins are there, and which number is the new one? 
+Some of the confusion is due to the difference in numbering between Google and some SEOs. Danny Sullivan and those at Search Engine Land chose to use integers to number the Penguin updates. They numbered each update as 1, 2, 3, and 4. 
+Matt Cutts, on the other hand, used a decimal numbering system in order to indicate which of the updates were big and which were small. 
+Regardless of what numbering system you prefer, there have been four Penguin updates. Two have been big. Two have been small. The fifth Penguin update, not yet a reality, is supposed to be another big one. 
+Let me give you a quick history of the Penguin updates, using the more widely accepted numbering system by Google."
+
+(by [Neil Patel](https://twitter.com/neilpatel))
+
+
+###4. [Where Content Marketing Fits in Your Marketing Plan&nbsp;<i class="icon-link"></i>](http://contentmarketinginstitute.com/2014/05/where-content-marketing-fits-plan/)
+>"Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience — and, ultimately, to drive profitable customer action.
 ...
-Well done! 
-But the job is only half done. You need to get sales, sign-ups and conversions as well. 
-In this article, we’ll take a trip into the wild and look at an actual website and conduct a makeover of their landing page with the aim of increasing their conversions. 
-This can apply to a website or a blog. What’s more, it can all be done using free tools and a little ingenuity."
+A few things to take away from this definition:..."
 
-(by [Peter Lightbody](https://twitter.com/PeterLightbody))
+(by [Joe Pulizzi](https://twitter.com/JoePulizzi))
 
 
-###2.  [Why Personalization Is Key To The Future Of Marketing&nbsp;<i class="icon-link"></i>](url)
->"The overwhelming majority of marketers agreed their roles would change within the next three years, but few felt they knew how to take risks and embrace change in order to remain competitive. Although, when asked about the capability most important to their future marketing efforts, “personalization” ranked highest, hands down. 
-In other words, we not only need a marketing makeover, but taking more risks and infusing creativity into our personalization efforts will be key to its success and longevity."
+###5. [Why You Need a Daily Prioritization Meeting&nbsp;<i class="icon-link"></i>](http://99u.com/articles/22053/why-you-need-a-daily-prioritization-meeting)
+>"We live in a culture of urgency, constantly throwing our emotional energy into the latest public scandal, emergency, or cat video. Most of us work in always-switched-on companies where everything feels urgent. Call backs, emails, and meetings are wrought with peak energy. How quickly do you expect a response to an email or changes to a report?"
 
-(by [Aseem Chandra](https://twitter.com/aseemchandra))
-
-
-###3. [7 Quick Ways to Curate Industry Content for Your Blog&nbsp;<i class="icon-link"></i>](http://blog.hubspot.com/marketing/quick-ways-curate-industry-blog-content)
->"...while posts about an esteemed latest hire or an exciting product update are important pieces to help your readers keep up with company culture, the most impactful posts will be about your industry as a whole. But for marketers to pull back, assess current industry events, and provide a unique, helpful, practical take, it requires a certain amount of content curation. That curation sometimes turns into content on its own, or it simply helps inform marketers so they can create content that's up to date (cutting edge, even)."
-
-(by [Rebecca Goldring](https://twitter.com/beccagoldring))
-
-
-###4. [Do You Trust Me?&nbsp;<i class="icon-link"></i>](http://www.wadeharman.com/blog/trust/)
->"Trust is the key factor in everyone’s life. It not only affects our day to day, but it flows into our business and our marketing as well. 
-...
-know you have heard the term, It’s not personal, it’s just business, but in 2014, everything is personal! Especially with the way social has been integrated into the mix, it’s not wise to think that your business doesn’t affect anyone on a personal level anymore."
-
-(by [Wade Harman](http://www.twitter.com/makemyblogmoney))
-
-
-###5. [6 Steps to Build a Social Listening Dashboard&nbsp;<i class="icon-link"></i>](http://www.socialmediaexaminer.com/social-listening-dashboard/)
-***
-Marcela has some good tips on how to organize and manage your Social Listening. Pair her post with [5 Great Tools to Get Your Social Listening Started](http://blog.justshareapp.com/5-Great-Free-Tools-For-Social-Listening/) - L
-
-***
->"To build community, start conversations, deepen existing relationships, keep up with brand mentions and watch for customer service opportunities, you have to listen.
-...
-As you probably know from experience, social listening can be a job in and of itself, nevermind your other social media marketing duties."
-
-(by [Marcela De Vivo](https://twitter.com/marceladevivo))
+(by [Scott McDowell](https://twitter.com/@hellomcdowell))
