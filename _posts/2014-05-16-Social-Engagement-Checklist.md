@@ -7,6 +7,9 @@ comments: true
 authors: [lavanya]
 image:
   thumb: http://cdn.justshareapp.com/SocialMediaFunnel.jpg
+  feature: http://cdn.justshareapp.com/banner_notebook.jpg
+  credit: Flickr
+  creditlink: https://www.flickr.com/photos/lethaargic/3659299307/
 ---
 
 <section id="table-of-contents" class="toc">
