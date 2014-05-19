@@ -21,9 +21,10 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-<a href="http://tinypic.com?ref=2l9h8vd" target="_blank" ><img src="http://i61.tinypic.com/2l9h8vd.png" border="0" alt="The Science of Yada"></a>
 
 #It all started one fine day...
+<a href="http://tinypic.com?ref=2l9h8vd" target="_blank" ><img src="http://i61.tinypic.com/2l9h8vd.png" border="0" alt="The Science of Yada"></a>
+
 A few weeks back, we saw something very interesting. One weekend,  a product we experimented with but had dropped further investments in started to acquire a lot of users. Our website started to get a gazillion hits. This sudden spike stayed unexplained for a couple of days, until we traced it back to a blog written by my good friend and JustShare colleague/co-founder Arvi here ["What we learned from a Failed MVP".](arg0s.in/what-we-learnt-from-a-failed-mvp.html)
 
 <a href="http://tinypic.com?ref=ir2x55" target="_blank"><img src="http://i62.tinypic.com/ir2x55.png" border="0" alt="Image and video hosting by TinyPic"></a>
