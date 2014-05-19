@@ -10,17 +10,6 @@ image:
   
 ---
 
-<section id="table-of-contents" class="toc">
-	<header>
-		<h3>Contents</h3>
-	</header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
-
 
 #It all started one fine day...
 <a href="http://tinypic.com?ref=2l9h8vd" target="_blank" ><img src="http://i61.tinypic.com/2l9h8vd.png" border="0" alt="The Science of Yada"></a>
