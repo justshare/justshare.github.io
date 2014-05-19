@@ -3,60 +3,58 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, advertising, mobile, content, marketing, color, scheduleding, Penguin 3.0, reach, productivity]
+tags: [blog, social media, mavens, advertising, mobile, marketing, future, trends, SEO]
 created: 2014-04-23
-modified: 2014-05-16
+modified: 2014-05-19
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/KapilJekishan1.jpg
+  thumb: http://cdn.justshareapp.com/MarkSchaefer.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
+The theme of the day is **future**. Posts on Trends in the near and far future are curated below for your reading.
+{: .notice}
+
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: KAPIL JEKISHAN</h3>
-    <a href="https://twitter.com/KapilJekishan"><img src="http://cdn.justshareapp.com/KapilJekishan1.jpg" class="bio-photo large" alt="Kapil Jekishan"></a>
+    <h3>SPOTLIGHT: MARK SCHAEFER</h3>
+    <a href="https://twitter.com/markwschaefer"><img src="http://cdn.justshareapp.com/MarkSchaefer.jpeg" class="bio-photo large" alt="Mark Schaefer"></a>
     <br><br>
-<p>Digital Strategist & @HootSuite Ambassador for @SocialSEOAus, Coconut water addict, Avid Miami Heat & Wallabies Supporter <a href="https://twitter.com/KapilJekishan">@KapilJekishan</a> </p>
+<p>Chieftain of the blog {grow} and social media bouncer. Consultant, educator, podcaster, author of Return On Influence, Born to Blog, and The Tao of Twitter <a href="https://twitter.com/markwschaefer">@markwschaefer</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1.  [The Best Time to Post On Social Media is...Not Again&nbsp;<i class="icon-link"></i>](http://webquacker.com.au/best-time-post-social-media-is-oh-not-again/)
->"The fallacy at the heart of most arguments over the “best” time to post social media updates is the assumption that what every branded post wants is to be dropped into the ocean during peak traffic times. This assumption ignores the two factors that are really driving your conversion: is your audience online at the time, and can your content outshine the competition?"
+###1. [Why Instagram is becoming the dominant social network&nbsp;<i class="icon-link"></i>](url)
+>"I haven’t posted an external video on this blog in years, but I think this content is definitely grow-worthy because it forces you to look at our online world through a new dataset, a new lens, that is quite thought-provoking and perhaps even disturbing.
+The speaker in the video, Scott Galloway has a think tank called L2 and is also a marketing professor at NYU Stern. In this fast-paced talk he uses his research to make predictions on who is winning and losing in everything from social media and retail to brands and world economies."
 
-(by [Kapil Jekishan](https://twitter.com/KapilJekishan))
-
-
-###2. [The Psychology of Color in Marketing and Branding&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/233843)
->"The psychology of color as it relates to persuasion is one of the most interesting--and most controversial--aspects of marketing. 
-The reason: Most of today's conversations on colors and persuasion consist of hunches, anecdotal evidence and advertisers blowing smoke about "colors and the mind."   
-To alleviate this trend and give proper treatment to a truly fascinating element of human behavior, today we're going to cover a selection of the most reliable research on color theory and persuasion."
-
-(by [Gregory Ciotti](https://twitter.com/GregoryCiotti))
+(by [Mark Schaefer](https://twitter.com/markwschaefer))
 
 
-###3. [How to Avoid Getting Slaughtered by Penguin 3.0&nbsp;<i class="icon-link"></i>](http://www.quicksprout.com/2014/05/14/how-to-avoid-getting-slaughtered-by-penguin-3-0/)
->"Talking about Penguin is confusing. How many Penguins are there, and which number is the new one? 
-Some of the confusion is due to the difference in numbering between Google and some SEOs. Danny Sullivan and those at Search Engine Land chose to use integers to number the Penguin updates. They numbered each update as 1, 2, 3, and 4. 
-Matt Cutts, on the other hand, used a decimal numbering system in order to indicate which of the updates were big and which were small. 
-Regardless of what numbering system you prefer, there have been four Penguin updates. Two have been big. Two have been small. The fifth Penguin update, not yet a reality, is supposed to be another big one. 
-Let me give you a quick history of the Penguin updates, using the more widely accepted numbering system by Google."
+###2.  [These Are The Surprising Jobs You'll Be Doing By The 2030s&nbsp;<i class="icon-link"></i>](http://io9.com/these-are-the-surprising-jobs-youll-be-doing-by-the-203-1577363367)
+>"As our technological and sociological realities change, so too do our jobs. But just what, exactly, will we be doing 15 years from now? Here are some completely unexpected jobs you've almost certainly never heard of—but likely will soon. 
+Indeed, the landscape of careers is changing. But knowing which vocations are around the corner is not obvious."
 
-(by [Neil Patel](https://twitter.com/neilpatel))
+(by [George Dvorsky](https://twitter.com/dvorsky))
 
 
-###4. [Where Content Marketing Fits in Your Marketing Plan&nbsp;<i class="icon-link"></i>](http://contentmarketinginstitute.com/2014/05/where-content-marketing-fits-plan/)
->"Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience — and, ultimately, to drive profitable customer action.
-...
-A few things to take away from this definition:..."
+###3. [The Future of PageRank: 13 Experts on the Dwindling Value of the Link&nbsp;<i class="icon-link"></i>](http://www.searchenginejournal.com/future-pagerank-13-experts-dwindling-value-link/101881/)
+>"In a recent Webmaster video, Matt Cutts confirmed that Google has tried internal versions of its search engine that work entirely without links. The results are low-quality – “for now,” he said. But this suggests that the value of the almighty link has come into question at Google, and they may be working on a version of the PageRank algorithm that doesn’t depend so heavily on the link graph – which means PageRank as we know it might be on the chopping block. But when?"
 
-(by [Joe Pulizzi](https://twitter.com/JoePulizzi))
+(by [Elisa Gabbert](https://twitter.com/egabbert))
 
 
-###5. [Why You Need a Daily Prioritization Meeting&nbsp;<i class="icon-link"></i>](http://99u.com/articles/22053/why-you-need-a-daily-prioritization-meeting)
->"We live in a culture of urgency, constantly throwing our emotional energy into the latest public scandal, emergency, or cat video. Most of us work in always-switched-on companies where everything feels urgent. Call backs, emails, and meetings are wrought with peak energy. How quickly do you expect a response to an email or changes to a report?"
+###4. [The Anonymous Social Media Trend is Forcing Marketers to Innovate to Win Consumers’ Trust&nbsp;<i class="icon-link"></i>](http://www.business2community.com/social-media/anonymous-ocial-media-trend-forcing-marketers-innovate-win-consumers-trust-0877204)
+>"Anonymous social apps are on the rise. A recent rumour that Facebook has offered $100m to purchase Secret, an app allowing users to share messages anonymously, is unconfirmed, but it is a sign that the social network is taking the trend – and people accusing Facebook of intruding into their privacy – seriously. Other signs include the company’s plans to display a ‘privacy checkup’ message for users who share their posts publicly and to give users the ability to log into third-party apps anonymously.  
+... internet users’ privacy concerns are increasing, meaning that marketers will have to adapt the way they advertise to appeal to the privacy-conscious consumer."
 
-(by [Scott McDowell](https://twitter.com/@hellomcdowell))
+(by [Richard Weston](https://twitter.com/RichJWeston))
+
+
+###5. [Is Your Social Media Failing?&nbsp;<i class="icon-link"></i>](url)
+>"Social media is moving at warp speed and most people who are charged with managing the content and distribution are not well equipped to handle the ever-changing social eco-system. I have seen this over and over again and was in that position once myself. Then, I started investing time, resources and energy on how to best utilize the resources I have to figure out what are my obstacles in my may that are preventing me from succeeding."
+
+(by [Scott MacFarland](https://twitter.com/scmacfarland))
