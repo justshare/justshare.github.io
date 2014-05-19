@@ -19,20 +19,23 @@ image:
 
 A few weeks back, we saw something very interesting. One weekend,  a product we experimented with but had dropped further investments in started to acquire a lot of users. Our website started to get a gazillion hits. This sudden spike stayed unexplained for a couple of days, until we traced it back to a blog written by my good friend and JustShare colleague/co-founder Arvi here [What we learned from a Failed MVP](arg0s.in/what-we-learnt-from-a-failed-mvp.html)
 
-![http://cdn.justshareapp.com/Unscience1.jpg](http://cdn.justshareapp.com/Unscience1.jpg)
-<br/>
-Okay, listening...
+
 <br/><br/>
+<figure>
+<img src="http://cdn.justshareapp.com/Unscience1.jpg"/>
+<figcaption>Okay, listening</figcaption>
+</figure>
 
 Now if you look through Arvi's blog, he has many fine blog posts. All of which follow what I'd like to think is the "science" of good blogging. Much of this science can be found in this really neat infographic post from copyblogger here  - [11 Essential Ingredients Every Blog Post Needs](http://www.copyblogger.com/ingredients)
 
 #With wildfire
 While many of the posts did see good response, none of them turned into wildfire like this one. It created a bunch of results that we would die to have while blogging for content marketing. Shares, Retweets, Engagement on the blog post, Huge Spike in traffic to our website, Huge interest and acquisition of customers (unfortunately to a defunct product) and so on. 
 
-![http://cdn.justshareapp.com/Unscience2.jpg](http://cdn.justshareapp.com/Unscience2.jpg)
-<br/>
-We're on fire!
 <br/><br/>
+<figure>
+<img src="http://cdn.justshareapp.com/Unscience2.jpg"/>
+<figcaption>We're on fire!</figcaption>
+</figure>
 
 #And Triggered Off
 So this set me thinking on what makes a *good* post *great*. I polled a few of my colleagues at JustShare for some of their all time favorite posts and credit to them for identifying a few that helped me illustrate some of the points. 
@@ -52,10 +55,11 @@ When Arvi touched upon "failure" in his highly popular blog post,  it generated 
 
 There is this writeup from a long time back, probably before the term blogging got popular. (Thanks to Arvi for pointing [this](http://www.hindu.com/fline/fl1516/15160040.htm) one out). The author has passionately touched upon a nationally controversial topic in a way that is really powerful. While I did not agree with the overall stance in this one, it had me peeping on the other side of the fence for a while.
 
-![http://cdn.justshareapp.com/Unscience3.jpg](http://cdn.justshareapp.com/Unscience3.jpg)
-<br/>
-Up in Arms
 <br/><br/>
+<figure>
+<img src="http://cdn.justshareapp.com/Unscience3.jpg"/>
+<figcaption>Up in Arms</figcaption>
+</figure>
 
 ##2. Belief and Passion trumps pure logic.  
 
@@ -76,10 +80,11 @@ To Summarize, I believe there are a lot of good posts around. They follow some v
 
 They could end up being super successful in terms of reach, audience, engagement etc. But, to be honest, that to me is almost a secondary goal - you can't force yourself to feel all of the emotions above to create a great post. Rather the emotions help you create the post that ultimately may be successful.
 
-![http://cdn.justshareapp.com/Unscience4.jpg](http://cdn.justshareapp.com/Unscience4.jpg)
-<br/>
-It's the connect, silly.
 <br/><br/>
+<figure>
+<img src="http://cdn.justshareapp.com/Unscience4.jpg"/>
+<figcaption>It's the connect, silly!</figcaption>
+</figure>
 
 #More *Unscience*?
 If you have any examples of blog posts you loved and thoughts on what makes them or such posts in general great do drop a note here. We'd love to hear more and further explore this "Unscience"!
