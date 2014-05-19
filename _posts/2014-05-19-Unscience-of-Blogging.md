@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: The Unscience of Blogging: How great posts go past the science 
 description: The Science of things helps you get to the good. But then there's the great...
