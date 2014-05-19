@@ -9,7 +9,9 @@ image:
     thumb: http://cdn.justshareapp.com/TheScienceofYada.jpg
 ---  
 
-![http://cdn.justshareapp.com/TheScienceofYada.jpg](http://cdn.justshareapp.com/TheScienceofYada.jpg) The Science of Yada
+![http://cdn.justshareapp.com/TheScienceofYada.jpg](http://cdn.justshareapp.com/TheScienceofYada.jpg)
+<br/>
+The Science of Yada
 <br/><br/>
 
 #It all started one fine day...
