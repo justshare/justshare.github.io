@@ -9,15 +9,17 @@ image:
     thumb: http://cdn.justshareapp.com/TheScienceofYada.jpg
 ---  
 
-<br/><br/>
+<br/>
 <figure>
 <img src="http://cdn.justshareapp.com/TheScienceofYada.jpg"/>
 <figcaption>The Science of Yada</figcaption>
 </figure>
+<br/><br/>
 
 #It all started one fine day...
 
 A few weeks back, we saw something very interesting. One weekend,  a product we experimented with but had dropped further investments in started to acquire a lot of users. Our website started to get a gazillion hits. This sudden spike stayed unexplained for a couple of days, until we traced it back to a blog written by my good friend and JustShare colleague/co-founder Arvi here [What we learned from a Failed MVP](arg0s.in/what-we-learnt-from-a-failed-mvp.html)
+
 
 
 <br/><br/>
@@ -30,6 +32,8 @@ Now if you look through Arvi's blog, he has many fine blog posts. All of which f
 
 #With wildfire
 While many of the posts did see good response, none of them turned into wildfire like this one. It created a bunch of results that we would die to have while blogging for content marketing. Shares, Retweets, Engagement on the blog post, Huge Spike in traffic to our website, Huge interest and acquisition of customers (unfortunately to a defunct product) and so on. 
+
+
 
 <br/><br/>
 <figure>
@@ -55,6 +59,7 @@ When Arvi touched upon "failure" in his highly popular blog post,  it generated 
 
 There is this writeup from a long time back, probably before the term blogging got popular. (Thanks to Arvi for pointing [this](http://www.hindu.com/fline/fl1516/15160040.htm) one out). The author has passionately touched upon a nationally controversial topic in a way that is really powerful. While I did not agree with the overall stance in this one, it had me peeping on the other side of the fence for a while.
 
+
 <br/><br/>
 <figure>
 <img src="http://cdn.justshareapp.com/Unscience3.jpg"/>
@@ -79,6 +84,7 @@ I really like the way [this piece](http://www.techradar.com/news/software/applic
 To Summarize, I believe there are a lot of good posts around. They follow some very good patterns in their structure that offers great readability and couple it with some really good information on a certain topic. The really great posts, however, are the ones that evoke certain strong responses in us. We either want to hug the writer or tear them apart. Both of these are founded on the strength of the intrigue and belief of the writer. 
 
 They could end up being super successful in terms of reach, audience, engagement etc. But, to be honest, that to me is almost a secondary goal - you can't force yourself to feel all of the emotions above to create a great post. Rather the emotions help you create the post that ultimately may be successful.
+
 
 <br/><br/>
 <figure>
