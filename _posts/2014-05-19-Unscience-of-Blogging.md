@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: The Unscience of Blogging: How great posts go past science 
+title: The Unscience of Blogging - How great posts go past science 
 description: The Science of things helps you get to the good post. But then there's the great post
 tags: [blog, social media, marketing, tools, passion, social engagement, social media monitoring, SEO, unscience, science] 
 comments: true 
