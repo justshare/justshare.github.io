@@ -26,7 +26,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ###1. [A Desk Is a Dangerous Place to See the World From&nbsp;<i class="icon-link"></i>](http://recode.net/2014/05/16/a-desk-is-a-dangerous-place-to-see-the-world-from/)
 ***
-Anand talks about mobile, how it is becoming a way of life of India and what this means for commerce and social media. As he says in his piece, Facebook hit 100 million users in the subcontinent. -L
+Anand talks about mobile, how it is becoming a way of life in India and what this means for commerce and social media. As he says in his piece, Facebook hit 100 million users in the subcontinent. -L
 
 ***
 >"On April 8, my first working day in India after more than a dozen years away, two things happened: First, more than 800 million people started the voting process as part of perhaps the biggest act of democracy in history — more than 100 million of whom were added to the roster for the first time. Second, Facebook hit 100 million users within the subcontinent.
