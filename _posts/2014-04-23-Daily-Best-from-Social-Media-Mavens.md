@@ -3,58 +3,59 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, advertising, mobile, marketing, future, trends, SEO]
+tags: [blog, social media, mavens, advertising, mobile, marketing, brands, organic, paid, reach, productivity]
 created: 2014-04-23
-modified: 2014-05-19
+modified: 2014-05-20
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/MarkSchaefer.jpeg
+  thumb: http://cdn.justshareapp.com/AnandC1.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
-The theme of the day is **future**. Posts on Trends in the near and far future are curated below for your reading.
-{: .notice}
-
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: MARK SCHAEFER</h3>
-    <a href="https://twitter.com/markwschaefer"><img src="http://cdn.justshareapp.com/MarkSchaefer.jpeg" class="bio-photo large" alt="Mark Schaefer"></a>
+    <h3>SPOTLIGHT: ANAND CHANDRASEKARAN</h3>
+    <a href="https://twitter.com/anandc"><img src="http://cdn.justshareapp.com/AnandC1.jpg" class="bio-photo large" alt="Anand Chandrasekaran"></a>
     <br><br>
-<p>Chieftain of the blog {grow} and social media bouncer. Consultant, educator, podcaster, author of Return On Influence, Born to Blog, and The Tao of Twitter <a href="https://twitter.com/markwschaefer">@markwschaefer</a> </p>
+<p>Chief Product Officer @ Bharti Airtel | Earlier @YahooInc, Openwave, @StormVentures, co-founded Aeroprise | Advisor @Audeze |@Stanford Alum | Real Artists Ship <a href="https://twitter.com/anandc">@anandc</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [Why Instagram is becoming the dominant social network&nbsp;<i class="icon-link"></i>](url)
->"I haven’t posted an external video on this blog in years, but I think this content is definitely grow-worthy because it forces you to look at our online world through a new dataset, a new lens, that is quite thought-provoking and perhaps even disturbing.
-The speaker in the video, Scott Galloway has a think tank called L2 and is also a marketing professor at NYU Stern. In this fast-paced talk he uses his research to make predictions on who is winning and losing in everything from social media and retail to brands and world economies."
+###1. [A Desk Is a Dangerous Place to See the World From&nbsp;<i class="icon-link"></i>](http://recode.net/2014/05/16/a-desk-is-a-dangerous-place-to-see-the-world-from/)
+***
+Anand talks about mobile, how it is becoming a way of life of India and what this means for commerce and social media. As he says in his piece, Facebook hit 100 million users in the subcontinent. -L
 
-(by [Mark Schaefer](https://twitter.com/markwschaefer))
+***
+>"On April 8, my first working day in India after more than a dozen years away, two things happened: First, more than 800 million people started the voting process as part of perhaps the biggest act of democracy in history — more than 100 million of whom were added to the roster for the first time. Second, Facebook hit 100 million users within the subcontinent.
+...
+I discovered during my first week in Delhi that nobody uses a credit card or cash in the company cafeteria. No, the food isn’t free (it’s highly subsidized), but it is paid for with Airtel Money, a cash-alternative service in the same vein as M-Pesa, that has the potential to be the future of money and commerce. Already a way of life in Africa, it is becoming more and more accepted in India and other countries, with more than a million users today."
 
-
-###2.  [These Are The Surprising Jobs You'll Be Doing By The 2030s&nbsp;<i class="icon-link"></i>](http://io9.com/these-are-the-surprising-jobs-youll-be-doing-by-the-203-1577363367)
->"As our technological and sociological realities change, so too do our jobs. But just what, exactly, will we be doing 15 years from now? Here are some completely unexpected jobs you've almost certainly never heard of—but likely will soon. 
-Indeed, the landscape of careers is changing. But knowing which vocations are around the corner is not obvious."
-
-(by [George Dvorsky](https://twitter.com/dvorsky))
+(by [Anand Chandrasekaran](https://twitter.com/anandc))
 
 
-###3. [The Future of PageRank: 13 Experts on the Dwindling Value of the Link&nbsp;<i class="icon-link"></i>](http://www.searchenginejournal.com/future-pagerank-13-experts-dwindling-value-link/101881/)
->"In a recent Webmaster video, Matt Cutts confirmed that Google has tried internal versions of its search engine that work entirely without links. The results are low-quality – “for now,” he said. But this suggests that the value of the almighty link has come into question at Google, and they may be working on a version of the PageRank algorithm that doesn’t depend so heavily on the link graph – which means PageRank as we know it might be on the chopping block. But when?"
+###2.  [Research Innovation Passport: Three Simple Ways Social Intelligence Can Transform Market Research Teams Into Innovation Centers&nbsp;<i class="icon-link"></i>](http://socialmediatoday.com/visiblebarokascom/2405091/research-innovation-passport-three-simple-ways-social-intelligence-can-tra)
+>"The rapid growth of social media data is bringing great opportunities – and challenges – to the enterprise organization. The immediacy of social data is allowing companies to access data in minutes –not weeks – enabling faster business decisions. While some market researchers find themselves uncomfortable with the unstructured data that doesn’t fit their traditional methodologies, they are quickly learning how to adapt."
 
-(by [Elisa Gabbert](https://twitter.com/egabbert))
-
-
-###4. [The Anonymous Social Media Trend is Forcing Marketers to Innovate to Win Consumers’ Trust&nbsp;<i class="icon-link"></i>](http://www.business2community.com/social-media/anonymous-ocial-media-trend-forcing-marketers-innovate-win-consumers-trust-0877204)
->"Anonymous social apps are on the rise. A recent rumour that Facebook has offered $100m to purchase Secret, an app allowing users to share messages anonymously, is unconfirmed, but it is a sign that the social network is taking the trend – and people accusing Facebook of intruding into their privacy – seriously. Other signs include the company’s plans to display a ‘privacy checkup’ message for users who share their posts publicly and to give users the ability to log into third-party apps anonymously.  
-... internet users’ privacy concerns are increasing, meaning that marketers will have to adapt the way they advertise to appeal to the privacy-conscious consumer."
-
-(by [Richard Weston](https://twitter.com/RichJWeston))
+(by [Richard Pasewark](https://twitter.com/VisibleRich))
 
 
-###5. [Is Your Social Media Failing?&nbsp;<i class="icon-link"></i>](url)
->"Social media is moving at warp speed and most people who are charged with managing the content and distribution are not well equipped to handle the ever-changing social eco-system. I have seen this over and over again and was in that position once myself. Then, I started investing time, resources and energy on how to best utilize the resources I have to figure out what are my obstacles in my may that are preventing me from succeeding."
+###3. [Is Reverse SEO the Answer to Your Company's Crisis?&nbsp;<i class="icon-link"></i>](http://www.sitepronews.com/2014/05/20/reverse-seo-answer-companys-crisis/)
+>"Most people think of reverse SEO as only a combative tactic, but it can be proactive too. If you fill your company’s site with useful content, and provide meaningful interactions and experiences for your followers via your blog and social media, you can easily build up an arsenal of good press that will push bad press down in search and give searchers options for content — and go beyond bad reviews."
 
-(by [Scott MacFarland](https://twitter.com/scmacfarland))
+(by [Julie Ann Ross](https://twitter.com/rostinventures))
+
+
+###4. [12 Ways to Evaluate Your Community Manager&nbsp;<i class="icon-link"></i>](http://mashable.com/2014/05/19/evaluating-community-manager/)
+>"In today’s online marketplace, community managers often have numerous jobs but ill-defined roles. This makes measuring the effectiveness of your community manager a task in itself. 
+With this in mind, I asked 12 successful entrepreneurs from Young Entrepreneur Council (YEC) their suggestions for measuring the job performance of community managers in a startup environment. Their advice is below"
+
+(by [Scott Gerber](https://twitter.com/scottgerber))
+
+
+###5. [Personal Branding Weekly – How to Create Meaningful Attention&nbsp;<i class="icon-link"></i>](http://www.personalbrandingblog.com/personal-branding-weekly-how-to-create-meaningful-attention/)
+>"Because content has been touted as “king”, we see many spewing out loads of content thinking that is the way to draw attention to their personal brand. The question then is “any content good content?”"
+
+(by [Maria Elena Duron](https://twitter.com/mariaduron))
