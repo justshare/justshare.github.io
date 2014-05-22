@@ -103,7 +103,7 @@ Here are some options that I have been considering:
 * [**Pulse**](https://www.pulse.me/): An early favorite in the new days of the first iPad, I used Pulse for a long time until Zite came along. It has a good visual experience unless you are in a hurry and want to quickly scroll through your selected article. Its loading mechanism starts to show its seams then and it can often be frustrating to flick up and then wait. It has a great catalogue and despite the LinkedIn professional spin to its messaging now, it is still valuable as a source to varied and good content across the web.
 
 ###Changing equations
-So here's my equation to reading online now (perpetually under tweaking, still):
+So here's my equation to manage reading online now (perpetually under tweaking, still):
 
 ***
 **Discover (Twitter / News360 / Pocket / Feedly) + Read it Later (Pocket) + Share (for now in-app) and/or Save (Evernote) = Done**
