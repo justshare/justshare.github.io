@@ -26,7 +26,7 @@ I caught up with Robert the next day over Skype to get his take on the state of 
 
 ## The Rules of Social Media Marketing
 
-According to Robert, there's a few key tenets that all marketers needed to keep in mind. And leading with these fundamental is essential for social success.
+According to Robert, there's a few key tenets that all marketers needed to keep in mind. And leading with these fundamentals is essential for social success.
 
 1. Everything starts with content
 2. Content leads to conversations
