@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet Robert Caruso of BundlePost"
+title: "Social Marketer Spotlight - Meet Robert Caruso of BundlePost"
 description: Meet Robert Caruso. CEO of BundlePost, and ranked in Forbes Top 50 Social Marketing Talent, he is one of the leading social media marketers around.
 tags: [robert caruso, bundlepost, social, media, marketing, tools, hootsuite, forbes, success, sharing, twitter, facebook, interview]
 authors: [arvi]
