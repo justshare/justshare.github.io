@@ -18,7 +18,7 @@ image:
 
 #It all started one fine day...
 
-A few weeks back, we saw something very interesting. One weekend,  a product we experimented with but had dropped further investments in started to acquire a lot of users. Our website started to get a gazillion hits. This sudden spike stayed unexplained for a couple of days, until we traced it back to a blog written by my good friend and JustShare colleague/co-founder Arvi here [What we learned from a Failed MVP](arg0s.in/what-we-learnt-from-a-failed-mvp.html)
+A few weeks back, we saw something very interesting. One weekend,  a product we experimented with but had dropped further investments in started to acquire a lot of users. Our website started to get a gazillion hits. This sudden spike stayed unexplained for a couple of days, until we traced it back to a blog written by my good friend and JustShare colleague/co-founder Arvi here [What we learned from a Failed MVP](http://arg0s.in/what-we-learnt-from-a-failed-mvp.html)
 
 
 
