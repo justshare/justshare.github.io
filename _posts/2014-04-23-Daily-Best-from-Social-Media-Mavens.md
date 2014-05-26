@@ -3,69 +3,57 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, advertising, promotion, marketing, brands, organic, paid, reach, productivity]
+tags: [blog, social media, mavens, traffic, audience, content marketing, mobile, marketing, tools, technology, SEO, content modelling]
 created: 2014-04-23
-modified: 2014-05-23
+modified: 2014-05-26
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/SelenaRezvani1.jpg
+  thumb: http://cdn.justshareapp.com/ChrisKnowles.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: SELENA REZVANI</h3>
-    <a href="https://twitter.com/selenarezvani"><img src="http://cdn.justshareapp.com/SelenaRezvani1.jpg" class="bio-photo large" alt="Selena Rezvani"></a>
+    <h3>SPOTLIGHT: CHRIS KNOWLES</h3>
+    <a href="https://twitter.com/ChrisKnowles"><img src="http://cdn.justshareapp.com/ChrisKnowles.jpg" class="bio-photo large" alt="Chris Knowles"></a>
     <br><br>
-<p>Speaker/Trainer on Women & Leadership, award-winning Washington Post columnist, Author of PUSHBACK, Helping Gen X&Y women be seen as the fierce leaders they are <a href="https://twitter.com/selenarezvani">@selenarezvani</a> </p>
+<p>Writer for WPMU Dev, football tragic, podcast lover, stand-up Dad comedian. <a href="https://twitter.com/ChrisKnowles">@ChrisKnowles</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [Three Tricks To Step Up Your Self-Promotion Skills&nbsp;<i class="icon-link"></i>](http://www.forbes.com/sites/work-in-progress/2014/05/23/three-tricks-to-step-up-your-self-promotion-skills/)
->"I recently attended a women’s leadership dinner and heard a young woman ask the speaker—a corporate woman executive—her best strategy for promoting her accomplishments. Coolly, the executive responded, “Have others do it for you.” 
-Ever since, I’ve been turning this advice over uncomfortably in my head. 
-I’m the first person to say that you need to enlist others in your career advancement. And of course, it helps your career if people speak positively about you when you’re not around. 
-But taking an “outer” approach to self-promotion puts an awful lot of hope and trust in others. And it negates your own voice and power to… a mere whisper."
+###1. [Content Modelling: The Most Overlooked Route To A Successful WordPress Site&nbsp;<i class="icon-link"></i>](url)
+>"Too many WordPress site owners force round pegs into square holes by building their sites on the built-in content model of posts, pages, categories and tags, creating major long-term headaches and constraints for the design and management of the site. 
+Taking a little time up front in the design process, or even overhauling a current site, to create a content model that genuinely reflects the type and range of content you are publishing will dramatically increase your site’s flexibility and provide a superior experience for both you, the site owner, and your visitors."
 
-(by [Selena Rezvani](https://twitter.com/selenarezvani))
+(by [Chris Knowles](https://twitter.com/ChrisKnowles))
 
 
-###2.  [Guiding the Customer Journey&nbsp;<i class="icon-link"></i>](http://www.briansolis.com/2014/05/guiding-customer-journey/)
->"Today, a kinder, gentler form of marketing called inbound marketing relies primarily on the creation and distribution of content in an effort to “be found.”
-The foundation of the inbound approach is based to use heaps of content to draw people into you marketing funnel. And, while this has proven effective, many marketers simply interpret this to mean you create more demand by creating more content. 
-The problem with this thinking is that it’s really just the same old approach polished up with more information. 
-Today, marketing is about guiding a journey that the buyer wants to take rather than forcing them into the journey that fits our business model. 
-People don’t really need more information, they need insight, they need guidance and they need an experience that allows them to behave like they want to behave.
-So, in many ways the future of marketing is less about creating demand and more about understanding and organizing behavior."
+###2.  [The difference between traffic and audience&nbsp;<i class="icon-link"></i>](http://thenextweb.com/entrepreneur/2014/05/25/difference-traffic-audience/)
+>"Unlike a typical blog where readers view one or two stories before departing, visitors to NiceKicks.com view over eight pages per visit on average. And the site has a bigger social footprint than startup-famous tech companies like MapMyRun, Dell, and RetailMeNot. 
+NiceKicks has traffic, certainly. But more importantly, it obtained an audience — a group of engaged, loyal readers that spend time reading its content and return to the site frequently. 
+It’s audience, not traffic, that is the holy grail for brand marketers today. And after getting frequently questioned about the difference between the two, I decided to write this post and share what I’ve learned."
 
-(by [John Jantsch](https://twitter.com/ducttape))
+(by [Jeremy Bencken](https://twitter.com/bencken))
 
 
-###3. [7 Stupid Ways Smart People Sabotage Their Success&nbsp;<i class="icon-link"></i>](http://www.businessinsider.in/7-Stupid-Ways-Smart-People-Sabotage-Their-Success/articleshow/35522779.cms)
-***
-Curated from Quora by Richard Feloni -L
+###3. [The Lean Startup is a Mindset And NOT a Rulebook&nbsp;<i class="icon-link"></i>](url)
+>"People who criticize the Lean Startup miss the point. The Lean Startup is a not a commandment or rulebook that must be followed. It’s not a secret step-by-step startup cookbook that will bring clarity to confusion, as Kevin Dewalt said in his blog. 
+This shallow understanding of the Lean Startup misses the nuances and critical thought required to frame each experiment. It misses the thought process and conversation with your team required to ask the important questions to your customers. You’ve just replaced the hard task of strategy and critical thought with the lazy solution of following someone else’s process."
 
-***
-
-(by [Richard Feloni](https://twitter.com/@RichFeloni))
+(by [Ramli John](https://twitter.com/RamliJohn))
 
 
-###4. [Why You Can't Get Rich Working For Someone Else&nbsp;<i class="icon-link"></i>](http://www.businessinsider.com/get-rich-working-for-yourself-2014-5)
->"Regardless of whether you work for yourself or someone else, are you putting your money to the best use? 
-Saving a portion of your paycheck is great, and we should always have some money put away in the bank. You know what's better, though? Investing. 
-According to Bankrate.com, the highest return you'll see on your money is 1.05% from a GE Capital Retail Bank CD. The minimum deposit on that is $25,000. Don't have that lying around? Then you're looking at less than 1%. 
-Here's the math. To make an extra $100 a week off of interest, you would need a) $100,000 in the bank and b) a 5% interest rate (good luck finding that). Essentially, the bank is making more money off you than you are off them."
+###4. [7 Costly Technology Mistakes Made by Content Marketers&nbsp;<i class="icon-link"></i>](http://www.razorsocial.com/content-marketers-technology/)
+>"If you are in the world of content marketing and are not allocating sufficient time to the technology side of things, then you are likely to be wasting a lot of time.  It’s easy to get consumed by the creation of content, but smart content creation requires a lot of thought and planning. 
+In this article we outline 7 costly technology mistakes made by content marketers, and I’d love to hear if any of these resonate with you."
 
-(by [Amanda Abella](https://twitter.com/amandaabella))
+(by [Ian Cleary](https://twitter.com/IanCleary))
 
 
-###5. [10 Quick Tips for Entrepreneurial Bloggers&nbsp;<i class="icon-link"></i>](http://www.problogger.net/archives/2014/05/19/10-quick-tips-for-entrepreneurial-bloggers/)
-***
-Darren Rowse is a complete pro at this and his presentation is awesome. Go check it out! -L
+###5. [THE 7 DWARVES OF CONTENT MARKETING&nbsp;<i class="icon-link"></i>](url)
+>"The ultimate team in fairy tales is the Seven Dwarves, each with their own unique characteristics. Creating great content is the same – it needs different skills and approaches.  Getting buy-in from people around your business to help create and repurpose content will support content marketing and SEO efforts."
 
-***
-
-(by [Darren Rowse](https://twitter.com/problogger))
+(by [Victoria Lennon](https://twitter.com/smallness))
