@@ -10,14 +10,14 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/hashtag.jpg
+  thumb: http://cdn.justshareapp.com/hashtagread.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: HASHTAG</h3>
-    <a href="http://en.wikipedia.org/wiki/Hashtag"><img src="http://cdn.justshareapp.com/hashtag.jpg" class="bio-photo large" alt="hashtag"></a>
+    <a href="http://en.wikipedia.org/wiki/Hashtag"><img src="http://cdn.justshareapp.com/hashtagread.jpg" class="bio-photo large" alt="hashtag"></a>
     <br><br>
 <p>a word or phrase preceded by the symbol # that classifies or categorizes the accompanying text (such as a tweet) <a href="http://www.merriam-webster.com/dictionary/hashtag">from the M-W definiton of hashtag</a> </p>
 </div>
