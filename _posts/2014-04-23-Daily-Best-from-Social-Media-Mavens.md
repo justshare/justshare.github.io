@@ -24,7 +24,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ## The Daily Leaderboard
 
-###1. [Content Modelling: The Most Overlooked Route To A Successful WordPress Site&nbsp;<i class="icon-link"></i>](url)
+###1. [Content Modelling: The Most Overlooked Route To A Successful WordPress Site&nbsp;<i class="icon-link"></i>](http://premium.wpmudev.org/blog/content-modelling-the-most-overlooked-route-to-a-successful-wordpress-site/)
 >"Too many WordPress site owners force round pegs into square holes by building their sites on the built-in content model of posts, pages, categories and tags, creating major long-term headaches and constraints for the design and management of the site. 
 Taking a little time up front in the design process, or even overhauling a current site, to create a content model that genuinely reflects the type and range of content you are publishing will dramatically increase your site’s flexibility and provide a superior experience for both you, the site owner, and your visitors."
 
@@ -39,7 +39,7 @@ It’s audience, not traffic, that is the holy grail for brand marketers today. 
 (by [Jeremy Bencken](https://twitter.com/bencken))
 
 
-###3. [The Lean Startup is a Mindset And NOT a Rulebook&nbsp;<i class="icon-link"></i>](url)
+###3. [The Lean Startup is a Mindset And NOT a Rulebook&nbsp;<i class="icon-link"></i>](http://ramlijohn.com/lean-startup-mindset/)
 >"People who criticize the Lean Startup miss the point. The Lean Startup is a not a commandment or rulebook that must be followed. It’s not a secret step-by-step startup cookbook that will bring clarity to confusion, as Kevin Dewalt said in his blog. 
 This shallow understanding of the Lean Startup misses the nuances and critical thought required to frame each experiment. It misses the thought process and conversation with your team required to ask the important questions to your customers. You’ve just replaced the hard task of strategy and critical thought with the lazy solution of following someone else’s process."
 
@@ -53,7 +53,7 @@ In this article we outline 7 costly technology mistakes made by content marketer
 (by [Ian Cleary](https://twitter.com/IanCleary))
 
 
-###5. [THE 7 DWARVES OF CONTENT MARKETING&nbsp;<i class="icon-link"></i>](url)
+###5. [THE 7 DWARVES OF CONTENT MARKETING&nbsp;<i class="icon-link"></i>](http://www.minttwist.com/blog/2014/05/12/the-7-dwarves-of-content-marketing/)
 >"The ultimate team in fairy tales is the Seven Dwarves, each with their own unique characteristics. Creating great content is the same – it needs different skills and approaches.  Getting buy-in from people around your business to help create and repurpose content will support content marketing and SEO efforts."
 
 (by [Victoria Lennon](https://twitter.com/smallness))
