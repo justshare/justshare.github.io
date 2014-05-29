@@ -3,65 +3,71 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, advertising, mobile, marketing, twitter, hashtag, justin timberlake, jimmy fallon, jonah hill, ann handley, video]
+tags: [blog, social media, mavens, inbound marketing, social media trends, social media platforms, digital customers, yellow social media report ]
 created: 2014-04-23
-modified: 2014-05-27
+modified: 2014-05-29
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/hashtagread.jpg
+  thumb: http://cdn.justshareapp.com/HeidiCohen.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: HASHTAG</h3>
-    <a href="http://en.wikipedia.org/wiki/Hashtag"><img src="http://cdn.justshareapp.com/hashtagread.jpg" class="bio-photo large" alt="hashtag"></a>
+    <h3>SPOTLIGHT: HEIDI COHEN</h3>
+    <a href="https://twitter.com/heidicohen"><img src="http://cdn.justshareapp.com/HeidiCohen.jpg" class="bio-photo large" alt="Heidi Cohen"></a>
     <br><br>
-<p>a word or phrase preceded by the symbol # that classifies or categorizes the accompanying text (such as a tweet) <a href="http://www.merriam-webster.com/dictionary/hashtag">from the M-W definiton of hashtag</a> </p>
+<p>Actionable Marketer shares practical advice on social media, marketing & life. Also, professor, journalist & speaker. <a href="https://twitter.com/heidicohen">@heidicohen</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-***
-In the daily best today, we look at some great posts on hashtags. Every now and then people in social media start talking furiously about hashtags, trigger debates on how many to use, how often to use and so on. We are sure many people have researched the Science of the hashtag and told you how to scientifically proceed using hashtags. Yet, it is always good to hear experiences and advice from regular practitioners. So here's a curated list of posts on hashtags. If you have more good posts to recommend, do share them in the comments. 
-
-One more thing - you've probably seen the hashtag videos a number of times already. In fact, every single post on hashtags that we feature today makes a reference to the Jimmy Fallon #hashtag videos. But they are so good! Do a +1 again - for your viewing pleasure - #hashtag video of Jimmy Fallon and Justin Timberlake and #hashtag2 video of Jimmy Fallon and Jonah Hill also feature today!
-
--L
+###1. [Social Media Platforms 2014 And Beyond (Research/Charts)&nbsp;<i class="icon-link"></i>](http://heidicohen.com/social-media-platforms-2014-research/)
+*** 
+Very interesting coverage. Don't miss demographics and stats on visual platforms
+-L  
 
 ***
-
-###1. [3 Ways to Master the Hashtag&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/233153)
->"The biggest mistake companies make with hashtags is assuming that people want to talk about their dumb brand. Hint: They don't. People want to talk about what matters to them, not what matters to you. While a brand-name hashtag can help lay the groundwork for a conversation (see the #24Fox example), it's generally better for companies to connect with people on social networks by tapping into conversations that are already happening. As my friend Tom Fishburne of Marketoon Studios says: "Brand loyalists are loyal to a brand only as long as a brand complements their own life and priorities.""
-
-(by [Ann Handley](https://twitter.com/MarketingProfs))
-
-
-###2.  [Your Guide To All Things Hashtag Analytics & Optimization&nbsp;<i class="icon-link"></i>](http://marketingland.com/hashtag-analytics-81205)
->"The present use of hashtags dates back to 1988, when early internet users began including them in messages on the popular chat platform IRC. They were used to group messages, images and videos into categories. 
-Hashtags reappeared on Twitter in 2007 when Nate Ritter used the hashtag #sandiegofire at the end of all his tweets to inform people of the wild fires in his area of San Diego, California. 
-Since then, many popular social networks such as Facebook, Google+, Instagram and others have adapted hashtags as way to let users more easily communicate."
-
-(by [Dan Cristo](https://twitter.com/dancristo))
+>"Social media platforms are where your target audience spends their time. 70+% of US online adults use social media and 40+% of online adults use 2 or more social media platforms based on December 2013 Pew Internet Research. (Here’s our analysis of US social media activity.)
+97% of marketers consider social media platforms to be a fact of business according to the 2014 Social Media Marketing Industry Report. (BTW–Here’s our analysis of 2013′s social media marketing report.)
+2/3 of marketers rank social media marketing as very important to their business. Translation: Social media yields tangible business results. 
+Social media marketing is no longer a flash-in-the-pan marketing fad you should consider testing.1/3 of marketers have been actively using social media as part of their marketing mix for 3 or more years. Translation: Social media is being integrated into their marketing DNA. As a result, they’re building corporate social media experience and reach."
 
 
-###3. [Branded Hashtags: The Next Big Thing In Trademarks?&nbsp;<i class="icon-link"></i>](http://www.mondaq.com/unitedstates/x/315862/Trademark/Branded+Hashtags+The+Next+Big+Thing+in+Trademarks)
->"The increased usage of hashtags has lead to a number of new trademark application filings. #TEAMJESUS, #RISETOTHRIVE, and #HELMETSARECOOL are recent examples. One particularly enterprising applicant even tried to obtain federal trademark protection for the word "hashtag" in connection with tv advertising; various electronic transmission and broadcasting services; and entertainment services such as development, distribution and production of programs, contest and incentive award programs for people who contribute to shows and other interactive entertainment programs. The USPTO rejected the application on the grounds that it was merely descriptive of the applicant's services "because it immediately tells consumers that the interactive nature of these services involves the use of hashtags, as that term is widely used by others in the industry." In hashtag parlance, the application was a #fail."
-
-(by [Randy Michels](https://twitter.com/RandyMichels))
+(by [Heidi Cohen](https://twitter.com/heidicohen))
 
 
-###4. [Hashtag2 with Jimmy Fallon and Jonah Hill&nbsp;<i class="icon-link"></i>](https://www.youtube.com/watch?v=Kwq_GraOC9E)
+###2.  [Inbound Marketing vs. Outbound Marketing: Magnet vs. Megaphone&nbsp;<i class="icon-link"></i>](http://www.artillerymarketing.com/blog/bid/198109/inbound-marketing-vs-outbound-marketing-magnet-vs-megaphone)
+>"There’s a perception of inbound marketing that it is at odds with outbound marketing: That companies who adopt inbound marketing won’t have to do to outbound marketing. Nothing could be further from the truth. 
+It brings to mind the notion of a kitchen freezer and a microwave. They’re very different appliances. But they work beautifully together."
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Kwq_GraOC9E?rel=0" frameborder="0" allowfullscreen></iframe>
-
-(by [Jimmy Fallon](https://twitter.com/jimmyfallon) & [Jonah Hill](https://twitter.com/JonahHill))
+(by [Douglas Burdett](https://twitter.com/ArtilleryMarket))
 
 
-###5. [Hashtag with Jimmy Fallon and Justin Timberlake&nbsp;<i class="icon-link"></i>](https://www.youtube.com/watch?v=57dzaMaouXA&feature=kp)
+###3. [Yellow Social Media Report 2014: Facebook in Focus&nbsp;<i class="icon-link"></i>](http://kamber.com.au/yellow-social-media-report-2014-focusing-facebook/)
+*** 
+Australia Social Media stats. Focuses on Facebook from a business perspective
+-L 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/57dzaMaouXA?rel=0" frameborder="0" allowfullscreen></iframe>
+***
+>"...
+5. Facebook continues to be the most popular platform for businesses of all sizes. 82% of small businesses, 89% of medium-sized businesses and 83% of large businesses are using Facebook as part of their social media marketing activity.  
+6. Large business owners believe Facebook advertising is a very effective part of their presence on the platform. 93% found paying to advertise worthwhile. In contrast, 66% small businesses felt the same way"
 
-(by [Jimmy Fallon](https://twitter.com/jimmyfallon) & [Justin Timberlake](https://twitter.com/jtimberlake))
+(by [Adam Vincenzini](https://twitter.com/AdamVincenzini))
+
+
+###4. [6 Tools for Gathering Insight from Digital Customer Interactions&nbsp;<i class="icon-link"></i>](http://streetfightmag.com/2014/05/28/6-tools-for-gathering-insight-from-digital-customer-interactions/)
+>"According to a 2014 survey by Yodle, half of SMBs think it’s “important” or “very important” for their business to receive positive online reviews, however 68% of those merchants don’t spend any time monitoring what customers are saying about their businesses on the web. 
+A lack of time and knowledge are two factors that explain why business owners don’t take a more active role in monitoring how they’re perceived online. However, a number of hyperlocal platforms are now aiming to streamline that process by giving small businesses access to advanced marketing automation tools and analytics suites that were once reserved for national brands and agencies. These platforms give SMBs ways to recognize and analyze mentions of their businesses online, and provide detailed insights into how online customer interactions might be influencing offline sales."
+
+(by [Stephanie Miles](https://twitter.com/STMiles))
+
+
+###5. [How social media is evolving throughout the world&nbsp;<i class="icon-link"></i>](http://www.bizcommunity.com/Article/196/16/114018.html)
+>"the viral nature of social media doesn't just stop at the Western boarders. As time goes on and technology advances, even those living in poverty have access to an account on their favourite platform. 
+In collaboration with the team at Distinctly Digital, this article will explore industry evolution in South America, South Africa and Asia, and make predictions on how the world of social media will change in the coming years. "
+
+(by [James Timpson](http://www.bizcommunity.com/Profile/JamesTimpson))
