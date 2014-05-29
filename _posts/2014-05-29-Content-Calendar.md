@@ -75,6 +75,7 @@ What I wanted to explore and find out on the web first were editorial calendar t
 </figure>
 
 Pam Moore shares the [editorial template](http://www.pammarketingnut.com/about/resources/content-marketing-editorial-calendar-template/) that her team uses at **Marketing Nutz**. In her comprehensive piece [Content Marketing Editorial Calendar Template 2014](http://socialmediatoday.com/pammoore/2040771/content-marketing-editorial-calendar-template-2014), she offers many valuable inputs on Content Marketing Requirements in 2014. She says
+
 >"Content marketing is at the core of every business of every size. Big, small, smart, not so smart, agile, slow and every thing in between.  Regardless of your industry, niche, age of company or primary communication medium used, you better have a content marketing strategy to connect you and your brand with your target audience, customers, partners and stakeholders. 
 Social media status updates, images posted to Instgram, blog posts, websites, podcasts, videos, YouTube Hangouts, Twitter chats, in person meetups and network events all center around conversation and engagement. At the core of any conversation is content."
 
