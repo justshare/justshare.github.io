@@ -3,71 +3,56 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, inbound marketing, social media trends, social media platforms, digital customers, yellow social media report ]
+tags: [blog, social media, mavens, blogging, myths, KPCB Internet Trends 2014, content marketing, SEO, content strategy, social media metrics ]
 created: 2014-04-23
-modified: 2014-05-29
+modified: 2014-05-30
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/HeidiCohen.jpg
+  thumb: http://cdn.justshareapp.com/JulieDeNeen.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: HEIDI COHEN</h3>
-    <a href="https://twitter.com/heidicohen"><img src="http://cdn.justshareapp.com/HeidiCohen.jpg" class="bio-photo large" alt="Heidi Cohen"></a>
+    <h3>SPOTLIGHT: Julie DeNeen</h3>
+    <a href="https://twitter.com/jdeneen4"><img src="http://cdn.justshareapp.com/JulieDeNeen.jpeg" class="bio-photo large" alt="Julie DeNeen"></a>
     <br><br>
-<p>Actionable Marketer shares practical advice on social media, marketing & life. Also, professor, journalist & speaker. <a href="https://twitter.com/heidicohen">@heidicohen</a> </p>
+<p>Will attempt to be as helpful as I am obnoxious. Blogger by day. By night, saves other bloggers from tech hell. <a href="https://twitter.com/jdeneen4">@jdeneen4</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [Social Media Platforms 2014 And Beyond (Research/Charts)&nbsp;<i class="icon-link"></i>](http://heidicohen.com/social-media-platforms-2014-research/)
-*** 
-Very interesting coverage. Don't miss demographics and stats on visual platforms
--L  
+###1. [20 Common Blogging Myths – Debunked&nbsp;<i class="icon-link"></i>](http://www.fabulousblogging.com/2014/04/20-common-blogging-myths-debunked/)
+***
+HT: [Ian Anderson Gray's](https://twitter.com/iagdotme) [post](https://plus.google.com/118089425632910430111/posts/61b1rg4bVEt) on G+
 
 ***
->"Social media platforms are where your target audience spends their time. 70+% of US online adults use social media and 40+% of online adults use 2 or more social media platforms based on December 2013 Pew Internet Research. (Here’s our analysis of US social media activity.)
-97% of marketers consider social media platforms to be a fact of business according to the 2014 Social Media Marketing Industry Report. (BTW–Here’s our analysis of 2013′s social media marketing report.)
-2/3 of marketers rank social media marketing as very important to their business. Translation: Social media yields tangible business results. 
-Social media marketing is no longer a flash-in-the-pan marketing fad you should consider testing.1/3 of marketers have been actively using social media as part of their marketing mix for 3 or more years. Translation: Social media is being integrated into their marketing DNA. As a result, they’re building corporate social media experience and reach."
+>"You’ve heard the old saying, “A lie is bad, the truth is the best, but a half-lie is the worst.” The following blog myths have in them some truth. That’s what makes them so spreadable. After all, if it was completely bogus, no one would believe it!"
+
+(by [Julie DeNeen](https://twitter.com/jdeneen4))
 
 
-(by [Heidi Cohen](https://twitter.com/heidicohen))
+###2.  [What Type of Agency Will Own Social Media Marketing?&nbsp;<i class="icon-link"></i>](http://www.adweek.com/news/advertising-branding/what-type-agency-will-own-social-media-marketing-157697)
+>"Bissell's director of marketing Theresa Junkunc knows how difficult managing social media work can be, particularly when multiple roster shops compete for the same assignment. That's one reason why Bissell this month decided to consolidate its creative and media business at a single shop: Olson. Still, the broader industry question of what type of agency owns social media marketing—traditional creative? digital? public relations? media?—remains. Junkunc reflects on that question, social listening and how she evaluates the effectiveness of social efforts."
+
+(by [Kristina Monllos](https://twitter.com/kristinamonllos))
 
 
-###2.  [Inbound Marketing vs. Outbound Marketing: Magnet vs. Megaphone&nbsp;<i class="icon-link"></i>](http://www.artillerymarketing.com/blog/bid/198109/inbound-marketing-vs-outbound-marketing-magnet-vs-megaphone)
->"There’s a perception of inbound marketing that it is at odds with outbound marketing: That companies who adopt inbound marketing won’t have to do to outbound marketing. Nothing could be further from the truth. 
-It brings to mind the notion of a kitchen freezer and a microwave. They’re very different appliances. But they work beautifully together."
+###3. [5 Thoughts After a Quick Review of KPCB's Internet Trends Deck&nbsp;<i class="icon-link"></i>](https://plus.google.com/u/0/+RandFishkin/posts/MANvZAz46kN)
+>"**Mobile has eaten downtime.**"
 
-(by [Douglas Burdett](https://twitter.com/ArtilleryMarket))
-
-
-###3. [Yellow Social Media Report 2014: Facebook in Focus&nbsp;<i class="icon-link"></i>](http://kamber.com.au/yellow-social-media-report-2014-focusing-facebook/)
-*** 
-Australia Social Media stats. Focuses on Facebook from a business perspective
--L 
-
-***
->"...
-5. Facebook continues to be the most popular platform for businesses of all sizes. 82% of small businesses, 89% of medium-sized businesses and 83% of large businesses are using Facebook as part of their social media marketing activity.  
-6. Large business owners believe Facebook advertising is a very effective part of their presence on the platform. 93% found paying to advertise worthwhile. In contrast, 66% small businesses felt the same way"
-
-(by [Adam Vincenzini](https://twitter.com/AdamVincenzini))
+(by [Rand Fishkin](https://twitter.com/randfish))
 
 
-###4. [6 Tools for Gathering Insight from Digital Customer Interactions&nbsp;<i class="icon-link"></i>](http://streetfightmag.com/2014/05/28/6-tools-for-gathering-insight-from-digital-customer-interactions/)
->"According to a 2014 survey by Yodle, half of SMBs think it’s “important” or “very important” for their business to receive positive online reviews, however 68% of those merchants don’t spend any time monitoring what customers are saying about their businesses on the web. 
-A lack of time and knowledge are two factors that explain why business owners don’t take a more active role in monitoring how they’re perceived online. However, a number of hyperlocal platforms are now aiming to streamline that process by giving small businesses access to advanced marketing automation tools and analytics suites that were once reserved for national brands and agencies. These platforms give SMBs ways to recognize and analyze mentions of their businesses online, and provide detailed insights into how online customer interactions might be influencing offline sales."
+###4. [How To Create a Content Marketing & SEO Strategy (Podcast w/ transcript)&nbsp;<i class="icon-link"></i>](http://topdogsocialmedia.com/content-marketing-roi/)
+>"In this episode of The Social Scoop Podcast, we brought a truly exciting guest on the show that is an absolute mastermind of content marketing: Andy Crestodina of Orbit Media, a high-end web design and development firm based out of Chicago. Andy was a speaker at this year’s Social Media Marketing World in San Diego and regularly publishes incredible content on marketing, SEO, email marketing and more on his blog."
 
-(by [Stephanie Miles](https://twitter.com/STMiles))
+(by [Melonie Dodaro](https://twitter.com/MelonieDodaro))
 
 
-###5. [How social media is evolving throughout the world&nbsp;<i class="icon-link"></i>](http://www.bizcommunity.com/Article/196/16/114018.html)
->"the viral nature of social media doesn't just stop at the Western boarders. As time goes on and technology advances, even those living in poverty have access to an account on their favourite platform. 
-In collaboration with the team at Distinctly Digital, this article will explore industry evolution in South America, South Africa and Asia, and make predictions on how the world of social media will change in the coming years. "
+###5. [The Beginner’s Guide to Social Media Metrics: Engagement&nbsp;<i class="icon-link"></i>](http://blog.hootsuite.com/beginners-guide-engagement/)
+>"Social media can be an incredibly important tool for your business. But it can also be overwhelming. You’re following what’s being said about your industry and brand, your team is trying to produce and share great content, you’re interacting with customers, finding prospects and you’re trying to make sense of it all. The biggest question you’re most likely trying to answer is if your work in social is helping you achieve real business results. To find out, you need to measure your efforts by tracking the right social media metrics."
 
-(by [James Timpson](http://www.bizcommunity.com/Profile/JamesTimpson))
+(by [Kate Dunham](https://twitter.com/GatorKates))
