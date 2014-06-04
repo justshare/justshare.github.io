@@ -25,7 +25,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ## The Daily Leaderboard
 
-###1. [7 Essential Free Tools for Social Media Design&nbsp;<i class="icon-link"></i>](url)
+###1. [7 Essential Free Tools for Social Media Design&nbsp;<i class="icon-link"></i>](http://socialmediatoday.com/emilytaing/2481691/7-essential-free-tools-social-media-design)
 >"Design plays a major part of any web or social media presence. Even though you may not have been schooled in the Visual Arts, these resources can help turn your Social Media content from mediocre to professional. Once you choose your network and know the correct specs, read on to discover seven resources that can help you create amazing Social Media content."
 
 (by [Emily Taing](https://twitter.com/etaingalicious))
@@ -37,7 +37,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 (by [Paul Kaye](http://www.linkedin.com/in/kayepaul))
 
 
-###3. [20 Digital Transaction Options for Small Businesses&nbsp;<i class="icon-link"></i>](url)
+###3. [20 Digital Transaction Options for Small Businesses&nbsp;<i class="icon-link"></i>](http://smallbiztrends.com/2014/06/digital-payment-options-small-business.html)
 >"Sure, there are industry standards like PayPal and Square, but small business owners have a lot of digital payment options when it comes to accepting payments from your customers and clients.
 Many of the options we found go way beyond being able to accept credit cards at affordable rates with little up-front cost. And each company’s offering varies from the others. 
 When deciding which digital payment options your company will adopt, consider what your needs are and then pick the service that suits those needs."
