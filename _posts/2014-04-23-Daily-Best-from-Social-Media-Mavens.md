@@ -3,61 +3,55 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, influencer marketing, blogging, personal branding, content curation, SEO ]
+tags: [blog, social media, mavens, social design, blogging, Good Judgement Project, mobile payments, digital transactions ]
 created: 2014-04-23
-modified: 2014-06-03
+modified: 2014-06-04
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/LauraClick.jpg
+  thumb: http://cdn.justshareapp.com/EmilyTaing.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: LAURA CLICK</h3>
-    <a href="https://twitter.com/lauraclick"><img src="http://cdn.justshareapp.com/LauraClick.jpg" class="bio-photo large" alt="Laura Click"></a>
+    <h3>SPOTLIGHT: EMILY TAING</h3>
+    <a href="https://twitter.com/etaingalicious"><img src="http://cdn.justshareapp.com/EmilyTaing.jpg" class="bio-photo large" alt="Emily Taing"></a>
     <br><br>
-<p>CEO of Blue Kite Marketing. I love helping businesses reach new heights. Dog lover. Mizzou Alum. Avid Runner. And yes, Click IS my real name. What's your story? <a href="https://twitter.com/lauraclick">@lauraclick</a> </p>
+<p>senior art director @LikeableMedia | #DonutBanana | #TeamTaing
+ live your dreams & wear your passion ♥<a href="https://twitter.com/etaingalicious">@etaingalicious</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [No Time to Blog? 11 Tips to Create Content Faster&nbsp;<i class="icon-link"></i>](http://flybluekite.com/2014/06/02/create-content-faster/)
->"An enduring complaint I hear from clients and colleagues is that they don’t have time to blog. Although many businesses see the benefits of it content marketing, they struggle with committing the time it takes to create content on a regular basis. 
-The reality is that blogging can take a lot of time – especially when you’re just starting out. 
-But if you’ve made content marketing a priority for your business, it pays to be consistent with your blogging efforts and maintain a regular blogging schedule."
+###1. [7 Essential Free Tools for Social Media Design&nbsp;<i class="icon-link"></i>](url)
+>"Design plays a major part of any web or social media presence. Even though you may not have been schooled in the Visual Arts, these resources can help turn your Social Media content from mediocre to professional. Once you choose your network and know the correct specs, read on to discover seven resources that can help you create amazing Social Media content."
 
-(by [Laura Click](https://twitter.com/lauraclick))
+(by [Emily Taing](https://twitter.com/etaingalicious))
 
 
-###2.  [Never Fear Google Again: The Smart Person’s Guide to Guest Blogging&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/safe-guest-blogging/)
-***
-Pros and Cons of Guest Blogging, explained well.
--L
+###2.  [What the Good Judgment Project Can Teach Marketers About Product Recommendations&nbsp;<i class="icon-link"></i>](http://www.marketingprofs.com/opinions/2014/25238/what-the-good-judgment-project-can-teach-marketers-about-product-recommendations)
+>"When shoppers visit a retailer's website, there is a good chance they will be presented with specific product recommendations as they surf around from page to page. "People Who Like That Product Also Like These Products" and "We Think You'll Love These Items" are common website merchandising blocks we have all seen on most stores' sites. And, for the most part, the same assertion that the three psychologists in The Good Judgment Project made—that large groups of people can predict something better than a few people can, no matter how much or how little information they have—is used every time a shopper visits a retailer's website."
 
-***
-
-(by [Uttoran Sen](https://twitter.com/uttoransen))
+(by [Paul Kaye](http://www.linkedin.com/in/kayepaul))
 
 
-###3. [11 Best Practices for More Effective Content Curation&nbsp;<i class="icon-link"></i>](http://blog.hubspot.com/marketing/best-practices-effective-content-curation)
->"Think of social media as akin to driving by a house at 35 miles an hour and trying to throw a newspaper into the mailbox. Sometimes it’ll get in, most of the time it won’t. You’ll need to play the numbers game a bit so that a small percentage of your curated content reaches and impacts your intended audience."
+###3. [20 Digital Transaction Options for Small Businesses&nbsp;<i class="icon-link"></i>](url)
+>"Sure, there are industry standards like PayPal and Square, but small business owners have a lot of digital payment options when it comes to accepting payments from your customers and clients.
+Many of the options we found go way beyond being able to accept credit cards at affordable rates with little up-front cost. And each company’s offering varies from the others. 
+When deciding which digital payment options your company will adopt, consider what your needs are and then pick the service that suits those needs."
 
-(by [Matt Heinz](https://twitter.com/HeinzMarketing))
-
-
-###4. [10 Words You Should Never Use to Describe Yourself&nbsp;<i class="icon-link"></i>](http://www.inc.com/jeff-haden/10-words-you-should-never-use-to-describe-yourself.html)
->"Consider the word "charismatic." If someone called me charismatic, I will be incredibly flattered (and hugely surprised.) But if I call myself charismatic, you will think I'm a jerk--and rightly so. 
-Here are 10 more words that are awesome when used by others to describe you, but you should never use to describe yourself"
-
-(by [Jeff Haden](https://twitter.com/jeff_haden))
+(by [Joshua Sophy](https://twitter.com/joshuasophy))
 
 
-###5. [Influencer Marketing Ideas from Influential Marketers – INFOGRAPHIC&nbsp;<i class="icon-link"></i>](http://feldmancreative.com/2014/05/influencer-marketing-ideas/)
->"Influencer marketing is bleeping big on the radar screen of the i-world because we’re creating exabytes of data faster than we can pause to learn what the hell an exabyte actually is. And, of course, we not just going gangbusters creating content. It gets distributed at the speed of gigahertz in googols (which is 1 followed by 100 zeros). 
-Something like that. 
-The crux of the matter is this: while everyone’s capable of making ripples, an elite few actually have the power to make waves. They’re influential. Readers care what they think, are more prone to buy into their points of view and act on them."
- 
-(by [Barry Feldman](https://twitter.com/FeldmanCreative))
+###4. [How Often Should I Blog? 5 Guidelines for Blogging Frequency&nbsp;<i class="icon-link"></i>](http://www.orbitmedia.com/blog/how-often-should-blog/)
+>"Of course, it depends. But depends on what? Let’s break down the factors so you can answer this question for yourself. You may find it’s not as often as you thought."
+
+(by [Andy Crestodina](https://twitter.com/crestodina))
+
+
+###5. [50+ Things You Should Learn About Your Client&nbsp;<i class="icon-link"></i>](http://moz.com/blog/50-things-you-should-learn-about-your-client/)
+>"There are many many traits of a great consultant that can be developed, but one necessary skill is: getting to know your client and understanding how you can be effective for them. This knowledge is how you unlock your ability to talk to them about the problems they're facing, discover the problems they didn't know they had, and lets you be best set up to deliver solutions that they will actually understand and implement—and which will make a real and impactful change to their business."
+
+(by [Rob Ousbey](https://twitter.com/RobOusbey))
