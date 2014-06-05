@@ -40,7 +40,7 @@ Trending searches, which will most likely be modeled after the Twitter trending 
 ###3. [Social Media 2014 Statistics – an interactive Infographic you’ve been waiting for!&nbsp;<i class="icon-link"></i>](http://blog.digitalinsights.in/social-media-users-2014-stats-numbers/05205287.html)
 >"If you’re managing social media for your businesses, it is important to keep track of statistics so it keeps your strategy in-line. Last year we received an overwhelming response with our social media statistics of 2013. This year again we have taken upon ourselves to answer all your questions about various social networks and their active/total users in 2014!"
 
-(by [Harsh Ajmera](http://twitter.com/TwitterHandle))
+(by [Harsh Ajmera](https://twitter.com/ajmeraharsh))
 
 
 ###4. [Create Real Relationships to Get Real Results&nbsp;<i class="icon-link"></i>](http://ownermag.com/real-relationships-real-results/)
