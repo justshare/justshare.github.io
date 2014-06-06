@@ -58,7 +58,7 @@ Enjoy! -L
 (by [Paul Graham](https://twitter.com/paulg) & [Nathan Blecharczyk](https://twitter.com/nathanblec))
 
 
-###5. [4 Tips On Creativity From The Creator Of Calvin & Hobbes&nbsp;<i class="icon-link"></i>](url)
+###5. [4 Tips On Creativity From The Creator Of Calvin & Hobbes&nbsp;<i class="icon-link"></i>](http://www.fastcodesign.com/3027095/4-tips-on-creativity-from-the-creator-of-calvin-hobbes)
 >"Watterson is the creator of one of the most beloved pieces of comic art, and most of his fans have probably never heard him speak before. He turns out to be much like you'd expect: thoughtful, articulate, with an artist's mentality, but extremely firm in his beliefs."
 
 (via [Fast Co Design](https://twitter.com/FastCoDesign))
