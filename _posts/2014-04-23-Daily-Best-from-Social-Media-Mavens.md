@@ -10,14 +10,14 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/DavidWaring.jpeg
+  thumb: http://cdn.justshareapp.com/DavidWaring1.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: DAVID WARING</h3>
-    <a href="https://twitter.com/davidwaring"><img src="http://cdn.justshareapp.com/DavidWaring.jpeg" class="bio-photo large" alt="David Waring"></a>
+    <a href="https://twitter.com/davidwaring"><img src="http://cdn.justshareapp.com/DavidWaring1.jpg" class="bio-photo large" alt="David Waring"></a>
     <br><br>
 <p>NYC Entrepreneur and Editor at http://www.fitsmallbusiness.com  - Marc Waring Ventures Co-Founder - dwaring@marcwaring.com. <a href="https://twitter.com/davidwaring">@davidwaring</a> </p>
 </div>
