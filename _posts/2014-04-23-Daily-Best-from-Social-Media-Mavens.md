@@ -3,62 +3,54 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, slideshare for business, slideshare for marketing,  ]
+tags: [blog, social media, mavens, 5W1H Framework, Real-Time Marketing, Mobile surveys, Snapchat marketing ]
 created: 2014-04-23
-modified: 2014-06-06
+modified: 2014-06-09
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/DavidWaring1.jpg
+  thumb: http://cdn.justshareapp.com/KohkiYamaguchi.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: DAVID WARING</h3>
-    <a href="https://twitter.com/davidwaring"><img src="http://cdn.justshareapp.com/DavidWaring1.jpg" class="bio-photo large" alt="David Waring"></a>
+    <h3>SPOTLIGHT: KOHKI YAMAGUCHI</h3>
+    <a href="https://twitter.com/kohkiyamaguchi"><img src="http://cdn.justshareapp.com/KohkiYamaguchi.jpeg" class="bio-photo large" alt="Kohki Yamaguchi"></a>
     <br><br>
-<p>NYC Entrepreneur and Editor at http://www.fitsmallbusiness.com  - Marc Waring Ventures Co-Founder - dwaring@marcwaring.com. <a href="https://twitter.com/davidwaring">@davidwaring</a> </p>
+<p>Head of Product Marketing @Origamilogic. Analytics columnist @Marketingland: http://mklnd.com/12nosua <a href="https://twitter.com/kohkiyamaguchi">@kohkiyamaguchi</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [7 Ways to Use SlideShare for Your Business&nbsp;<i class="icon-link"></i>](http://nuzzel.com/sharedstory/06052014/socialmediaexaminer/7_ways_to_use_slideshare_for_your_business)
->"Most social media marketers are focused on Facebook, YouTube, Twitter, Instagram and LinkedIn. But are they missing the boat? Out of all of the social platforms out there, SlideShare is the most overlooked and underutilized."
+###1. [Why It's Time To Re-Think Real-Time&nbsp;<i class="icon-link"></i>](http://darmano.typepad.com/logic_emotion/2014/05/re-thinkreal-time.html)
+>"Real-time marketing is indeed a real thing, but we're going to have to stop chasing our own version of the Oreo moment if we're going to make progress in this area. First we have to really get our heads wrapped around the foundation to understand what we're actually trying to do—and what we're trying to do is build brands differently. We essentially have two tools at our disposal: content and engagement. This is where many of us miss the mark. We underestimate how difficult it is to use these tools."
 
-(by [David Waring](https://twitter.com/davidwaring))
-
-
-###2.  [10 Great Alternatives to the Google Keyword Research Tool&nbsp;<i class="icon-link"></i>](http://www.pamorama.net/2014/01/04/10-keyword-research-tools/)
->"The valuable insights offered by keyword research will inform your strategic process by identifying exactly what your customers want, need, and are concerned about. The demise of Google’s Keyword Tool, the most popular of its kind, has left marketers scrambling for alternatives. Viewed as an essential mechanism for conducting research on keyword phrases, it offered lots of useful information about popularity, competition, and phrase variations. It has been rebranded as Google AdWords Planner, which offers much less functionality and requires users to have an AdWords account in order to use it."
-
-(by [Pam Dyer](https://twitter.com/pamdyer))
+(by [David Armano](https://twitter.com/armano))
 
 
-###3. [12 Valuable Inbound Marketing Metrics You Need to be Analyzing&nbsp;<i class="icon-link"></i>](http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/346807/12-Valuable-Inbound-Marketing-Metrics-You-Need-to-be-Analyzing)
->"“Once I get my inbound program up and running, what do I measure?” 
-“What numbers am I looking for?” 
-“Why do I need to analyze anyway?” 
-There are many reasons to conduct analytics on your Inbound Marketing Strategy. 
-Measuring your potential ROI isn’t as difficult as you might think. 
-It depends on having a good plan in place, choosing and using the right points to measure, and then actually assessing your metrics on a regular basis to see what is working for your business."
+###2.  [The Secret Sauce Of Marketing Analytics: The 5W1H Framework&nbsp;<i class="icon-link"></i>](http://marketingland.com/5w1h-marketing-analytics-5w1h-framework-86043)
+>"Today, I am going to reveal my secret sauce for marketing analytics. This simple method is so powerful that anyone can start applying it today to any sort of descriptive analysis, and it will start producing results from day one. 
+What’s better, this method does not require any sort of prior knowledge or skill set such as statistics or database querying: anyone from a new grad to the seasoned veteran can use it to get better results. 
+The catch? It’s hardly a secret; everyone knows how to do it. In fact, you probably learned it back in primary or secondary school. The method I am talking about is the 5W1H framework."
 
-(by [Jeff Evans](https://twitter.com/InboundAgent))
+(by [Kohki Yamaguchi](https://twitter.com/kohkiyamaguchi))
 
 
-###4. [Paul Graham in Conversation with Nathan Blecharczyk&nbsp;<i class="icon-link"></i>](https://www.youtube.com/watch?v=nrWavoJsEks)
-***
-A wonderful conversation with many insights shared: (paraphrasing) *"If you are a startup, at some point, you are going to have to do things that don't scale. But if you don't do them, you aren't going to succeed"*
-Enjoy! -L
+###3. [USING MOBILE SURVEYS FOR IMMEDIATE CUSTOMER INSIGHTS&nbsp;<i class="icon-link"></i>](http://theengagingbrand.typepad.com/the_engaging_brand_/2014/05/using-mobile-surveys-for-immediate-customer-insights-.html)
+>"Fewer and fewer people leave their homes without a smartphone or tablet these days, which means these powerful, familiar computers accompany them down the store aisles, into car dealerships, bed-and-breakfasts, restaurants and events too. A modern, convenient mobile survey, quiz or contest during this experience can feel like a natural part of the experience itself. Without even an app to install, mobile surveys and quizzes use familiar swiping, keyboarding and taking photos that consumers do countless times a day with their mobiles. And deliver once hard-to-collect, in-the-moment insights—in real time."
 
-***
-<iframe width="560" height="315" src="//www.youtube.com/embed/nrWavoJsEks" frameborder="0" allowfullscreen></iframe>
-<br/>
-(by [Paul Graham](https://twitter.com/paulg) & [Nathan Blecharczyk](https://twitter.com/nathanblec))
+(by [Anna Farmery](https://twitter.com/Engagingbrand))
 
 
-###5. [4 Tips On Creativity From The Creator Of Calvin & Hobbes&nbsp;<i class="icon-link"></i>](http://www.fastcodesign.com/3027095/4-tips-on-creativity-from-the-creator-of-calvin-hobbes)
->"Watterson is the creator of one of the most beloved pieces of comic art, and most of his fans have probably never heard him speak before. He turns out to be much like you'd expect: thoughtful, articulate, with an artist's mentality, but extremely firm in his beliefs."
+###4. [8 Facebook Audiences to Help You Make More Sales&nbsp;<i class="icon-link"></i>](http://socialmouths.com/blog/2014/05/13/facebook-audiences/)
+>"Likes, comments, engagement… Those are Facebook metrics. At the end of the day, if this doesn’t result on sales, all that is completely useless."
 
-(via [Fast Co Design](https://twitter.com/FastCoDesign))
+(by [Francisco Rosales](https://twitter.com/socialmouths))
+
+
+###5. [Snapchat: 5 Reasons Your Brand Might Love It&nbsp;<i class="icon-link"></i>](http://room214.com/mobile/snapchat-5-reasons-your-brand-might-love-it)
+>"Despite its newness, some adventurous brands have tapped into Snapchat to cultivate relationships with their up-and-coming fans. Read on to learn what we see as the five core benefits of branding on Snapchat."
+
+(by [Taylor Cunningham](https://twitter.com/Room_214))
