@@ -10,14 +10,14 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/KohkiYamaguchi.jpeg
+  thumb: http://cdn.justshareapp.com/KohkiYamaguchi.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: KOHKI YAMAGUCHI</h3>
-    <a href="https://twitter.com/kohkiyamaguchi"><img src="http://cdn.justshareapp.com/KohkiYamaguchi.jpeg" class="bio-photo large" alt="Kohki Yamaguchi"></a>
+    <a href="https://twitter.com/kohkiyamaguchi"><img src="http://cdn.justshareapp.com/KohkiYamaguchi.jpg" class="bio-photo large" alt="Kohki Yamaguchi"></a>
     <br><br>
 <p>Head of Product Marketing @Origamilogic. Analytics columnist @Marketingland: http://mklnd.com/12nosua <a href="https://twitter.com/kohkiyamaguchi">@kohkiyamaguchi</a> </p>
 </div>
