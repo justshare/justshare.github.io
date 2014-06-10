@@ -3,54 +3,60 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, 5W1H Framework, Real-Time Marketing, Mobile surveys, Snapchat marketing ]
+tags: [blog, social media, mavens, good Infographic, remarkable content, influencer marketing, podcasting ]
 created: 2014-04-23
-modified: 2014-06-09
+modified: 2014-06-10
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/KohkiYamaguchi.jpg
+  thumb: http://cdn.justshareapp.com/HerbertLui.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: KOHKI YAMAGUCHI</h3>
-    <a href="https://twitter.com/kohkiyamaguchi"><img src="http://cdn.justshareapp.com/KohkiYamaguchi.jpg" class="bio-photo large" alt="Kohki Yamaguchi"></a>
+    <h3>SPOTLIGHT: HERBERT LUI </h3>
+    <a href="https://twitter.com/HerbertLui"><img src="http://cdn.justshareapp.com/HerbertLui.jpg" class="bio-photo large" alt="Herbert Lui"></a>
     <br><br>
-<p>Head of Product Marketing @Origamilogic. Analytics columnist @Marketingland: http://mklnd.com/12nosua <a href="https://twitter.com/kohkiyamaguchi">@kohkiyamaguchi</a> </p>
+<p>Writer. Marketer. <a href="https://twitter.com/HerbertLui">@HerbertLui</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [Why It's Time To Re-Think Real-Time&nbsp;<i class="icon-link"></i>](http://darmano.typepad.com/logic_emotion/2014/05/re-thinkreal-time.html)
->"Real-time marketing is indeed a real thing, but we're going to have to stop chasing our own version of the Oreo moment if we're going to make progress in this area. First we have to really get our heads wrapped around the foundation to understand what we're actually trying to do—and what we're trying to do is build brands differently. We essentially have two tools at our disposal: content and engagement. This is where many of us miss the mark. We underestimate how difficult it is to use these tools."
+###1. [The Return of Podcasting: 4 Platforms That Will Help You Build an Audience&nbsp;<i class="icon-link"></i>](http://contently.com/strategist/2014/06/05/the-return-of-podcasting-4-platforms-that-will-help-you-build-an-audience/)
+>"Studies show that audiences of people who listen to podcasts on their cell phone in their car grew 10 percent from 2010 to 2012, and nearly one in five U.S. adults listens to podcasts at least occasionally. But the podcasting scene isn’t just for comedians trying to get their jokes off their ground. This emerging arena presents an opportunity for brand publishers to reach audiences through media that aren’t as crowded as social media and video—and on platforms that aren’t already saturated with brand messages."
 
-(by [David Armano](https://twitter.com/armano))
-
-
-###2.  [The Secret Sauce Of Marketing Analytics: The 5W1H Framework&nbsp;<i class="icon-link"></i>](http://marketingland.com/5w1h-marketing-analytics-5w1h-framework-86043)
->"Today, I am going to reveal my secret sauce for marketing analytics. This simple method is so powerful that anyone can start applying it today to any sort of descriptive analysis, and it will start producing results from day one. 
-What’s better, this method does not require any sort of prior knowledge or skill set such as statistics or database querying: anyone from a new grad to the seasoned veteran can use it to get better results. 
-The catch? It’s hardly a secret; everyone knows how to do it. In fact, you probably learned it back in primary or secondary school. The method I am talking about is the 5W1H framework."
-
-(by [Kohki Yamaguchi](https://twitter.com/kohkiyamaguchi))
+(by [Herbert Lui](https://twitter.com/HerbertLui))
 
 
-###3. [USING MOBILE SURVEYS FOR IMMEDIATE CUSTOMER INSIGHTS&nbsp;<i class="icon-link"></i>](http://theengagingbrand.typepad.com/the_engaging_brand_/2014/05/using-mobile-surveys-for-immediate-customer-insights-.html)
->"Fewer and fewer people leave their homes without a smartphone or tablet these days, which means these powerful, familiar computers accompany them down the store aisles, into car dealerships, bed-and-breakfasts, restaurants and events too. A modern, convenient mobile survey, quiz or contest during this experience can feel like a natural part of the experience itself. Without even an app to install, mobile surveys and quizzes use familiar swiping, keyboarding and taking photos that consumers do countless times a day with their mobiles. And deliver once hard-to-collect, in-the-moment insights—in real time."
+###2.  [How to succeed in the ego-ravaged drama queen world of social media&nbsp;<i class="icon-link"></i>](http://www.businessesgrow.com/2014/06/09/social-media-ego/)
+>"So let’s get this out on the table. Trying to make a name for yourself in this social media world can hurt. 
+The angst of wanting to be heard felt familiar again last week when I posted the list of 70 Rising Social Media Stars. It was a strong post, a nice way to shine a light on a few worthy people. I’m proud of it and it made me feel good to see the authentic emotions that came from the great folks being recognized. One fella tweeted “Look ma! I’m on a list!” 
+But it also hurt to see people disappointed they were not on this list. "
 
-(by [Anna Farmery](https://twitter.com/Engagingbrand))
-
-
-###4. [8 Facebook Audiences to Help You Make More Sales&nbsp;<i class="icon-link"></i>](http://socialmouths.com/blog/2014/05/13/facebook-audiences/)
->"Likes, comments, engagement… Those are Facebook metrics. At the end of the day, if this doesn’t result on sales, all that is completely useless."
-
-(by [Francisco Rosales](https://twitter.com/socialmouths))
+(by [Mark Schaefer](https://twitter.com/markwschaefer))
 
 
-###5. [Snapchat: 5 Reasons Your Brand Might Love It&nbsp;<i class="icon-link"></i>](http://room214.com/mobile/snapchat-5-reasons-your-brand-might-love-it)
->"Despite its newness, some adventurous brands have tapped into Snapchat to cultivate relationships with their up-and-coming fans. Read on to learn what we see as the five core benefits of branding on Snapchat."
+###3. [Stop Killing Us With Boring Infographics – Do This Instead&nbsp;<i class="icon-link"></i>](http://sociallysorted.com.au/boring-infographics-do-this-instead/)
+>"Are you creating or thinking about creating infographics?  Got your data ready and thinking about how to turn it into “data visualization” with pretty pie charts turned into globes or cityscapes, shopping baskets or mountains? 
+I want you to stop. Read this post. Then add something to your (potentially) boring infographics. Until you add this one thing, you really are missing out on valuable traffic, shares and all round love for your infographic."
 
-(by [Taylor Cunningham](https://twitter.com/Room_214))
+(by [Donna Moritz](https://twitter.com/SociallySorted))
+
+
+###4. [5 Ways Startup Tech Companies can Reach Online Influencers&nbsp;<i class="icon-link"></i>](http://www.buildbrandblast.com/5-ways-startup-tech-companies-can-reach-online-influencers/)
+>"Online influencers, those with large social followings or readerships, are some of your best resources as a startup tech entrepreneur. Not only are they usually able to give you guidance, they can also serve as syndication platforms to extend your reach and expand your audience. 
+Reaching out to an online influencer can be intimidating, especially when your rapport or familiarity are limited. But it’s something you’ll need to do if you’re interested in rapidly improving your social reach or gathering potential investors."
+
+(by [Jose Vasquez](https://twitter.com/JAV2))
+
+
+###5. [The 3-Step Journey of a Remarkable Piece of Content&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/remarkable-content/)
+>"You know it when you’ve read it. 
+It’s that blog post, article, video, or speech that changes you. 
+It touches you. You are so affected by its message you can’t help but share it. 
+We’ve all experienced content like this. But do we know how to create it? That’s the question. Because consistently creating remarkable content over time is what it’s all about. 
+You’re aiming to create content that makes people pay attention, think, and feel."
+
+(by [Pamela Wilson](https://twitter.com/pamelaiwilson))
