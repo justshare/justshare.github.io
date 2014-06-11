@@ -3,60 +3,66 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, good Infographic, remarkable content, influencer marketing, podcasting ]
+tags: [blog, social media, mavens, lead-generation, twitter cards, Farnam Street, Introvert in Social Media]
 created: 2014-04-23
-modified: 2014-06-10
+modified: 2014-06-11
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/HerbertLui.jpg
+  thumb: http://cdn.justshareapp.com/AlisaMeredith.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: HERBERT LUI </h3>
-    <a href="https://twitter.com/HerbertLui"><img src="http://cdn.justshareapp.com/HerbertLui.jpg" class="bio-photo large" alt="Herbert Lui"></a>
+    <h3>SPOTLIGHT: ALISA MEREDITH</h3>
+    <a href="https://twitter.com/alisammeredith"><img src="http://cdn.justshareapp.com/AlisaMeredith.jpg" class="bio-photo large" alt="Alisa Meredith"></a>
     <br><br>
-<p>Writer. Marketer. <a href="https://twitter.com/HerbertLui">@HerbertLui</a> </p>
+<p>Co-Owner, Inbound Marketing Strategist at Scalable Social Media | 
+Social Media Club Local Chapter Organizer at Social Media Club Wilmington | 
+Owner at On Target Professional Website Design <a href="https://twitter.com/alisammeredith">@alisammeredith</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [The Return of Podcasting: 4 Platforms That Will Help You Build an Audience&nbsp;<i class="icon-link"></i>](http://contently.com/strategist/2014/06/05/the-return-of-podcasting-4-platforms-that-will-help-you-build-an-audience/)
->"Studies show that audiences of people who listen to podcasts on their cell phone in their car grew 10 percent from 2010 to 2012, and nearly one in five U.S. adults listens to podcasts at least occasionally. But the podcasting scene isn’t just for comedians trying to get their jokes off their ground. This emerging arena presents an opportunity for brand publishers to reach audiences through media that aren’t as crowded as social media and video—and on platforms that aren’t already saturated with brand messages."
+###1. [How Getting Out Can Get You "In" : An Introvert's Confession : Scalable Social Media : Internet Marketing ServicesScalable Social Media – Internet Marketing Services&nbsp;<i class="icon-link"></i>](http://scalablesocialmedia.com/2014/05/networking-introvert/)
+>"As much as introverts often do their best work independently, we still benefit from some outside inspiration, no matter what our industry. After all, isn’t that why we go to live conferences? Being physically present cuts down on unproductive multi-tasking, making us really focus on the subject at hand. We also get to learn from others in a very personal way. 
+Though meeting new people and carrying on conversation after conversation with strangers can be exhausting, it can also fuel new content, product ideas and services and of course, create lasting connections with others in your industry or with potential customers. Totally worth it."
 
-(by [Herbert Lui](https://twitter.com/HerbertLui))
-
-
-###2.  [How to succeed in the ego-ravaged drama queen world of social media&nbsp;<i class="icon-link"></i>](http://www.businessesgrow.com/2014/06/09/social-media-ego/)
->"So let’s get this out on the table. Trying to make a name for yourself in this social media world can hurt. 
-The angst of wanting to be heard felt familiar again last week when I posted the list of 70 Rising Social Media Stars. It was a strong post, a nice way to shine a light on a few worthy people. I’m proud of it and it made me feel good to see the authentic emotions that came from the great folks being recognized. One fella tweeted “Look ma! I’m on a list!” 
-But it also hurt to see people disappointed they were not on this list. "
-
-(by [Mark Schaefer](https://twitter.com/markwschaefer))
+(by [Alisa Meredith](https://twitter.com/alisammeredith))
 
 
-###3. [Stop Killing Us With Boring Infographics – Do This Instead&nbsp;<i class="icon-link"></i>](http://sociallysorted.com.au/boring-infographics-do-this-instead/)
->"Are you creating or thinking about creating infographics?  Got your data ready and thinking about how to turn it into “data visualization” with pretty pie charts turned into globes or cityscapes, shopping baskets or mountains? 
-I want you to stop. Read this post. Then add something to your (potentially) boring infographics. Until you add this one thing, you really are missing out on valuable traffic, shares and all round love for your infographic."
+###2.  [6 Jobs the Best Social Media Managers Actually Do&nbsp;<i class="icon-link"></i>](http://blog.hubspot.com/marketing/best-social-media-manager-job-description)
+>"Years after the first "Can we measure the ROI of social media?" blog post, the role of the social media manager has not evolved much in the ways of goal-oriented, metrics-driven marketing. It's possible that this is because many companies haven't figured out the right way to measure the ROI of their efforts -- so they don't know to hire someone that can help them drive real business results. It becomes a vicious cycle -- with little focus on the bottom line efforts from social media, companies relegate the social media role to people without much experience proving bottom-line results, and then once hired, those social media managers don't have experience proving those bottom line efforts. "
 
-(by [Donna Moritz](https://twitter.com/SociallySorted))
-
-
-###4. [5 Ways Startup Tech Companies can Reach Online Influencers&nbsp;<i class="icon-link"></i>](http://www.buildbrandblast.com/5-ways-startup-tech-companies-can-reach-online-influencers/)
->"Online influencers, those with large social followings or readerships, are some of your best resources as a startup tech entrepreneur. Not only are they usually able to give you guidance, they can also serve as syndication platforms to extend your reach and expand your audience. 
-Reaching out to an online influencer can be intimidating, especially when your rapport or familiarity are limited. But it’s something you’ll need to do if you’re interested in rapidly improving your social reach or gathering potential investors."
-
-(by [Jose Vasquez](https://twitter.com/JAV2))
+(by [Ellie Mirman](https://twitter.com/ellieeille))
 
 
-###5. [The 3-Step Journey of a Remarkable Piece of Content&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/remarkable-content/)
->"You know it when you’ve read it. 
-It’s that blog post, article, video, or speech that changes you. 
-It touches you. You are so affected by its message you can’t help but share it. 
-We’ve all experienced content like this. But do we know how to create it? That’s the question. Because consistently creating remarkable content over time is what it’s all about. 
-You’re aiming to create content that makes people pay attention, think, and feel."
+###3. [Find Ways to Lift Profit Margins Without Much Effort&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/234549)
+>"For any organization, there are different levers that impact profit margins. Some of those are: 
+Price. The cost at which you sell your products and services.
+Purchasing. The cost at which you buy the good and services you need.
+Retention. Your ability to retain current customers.
+When we look at why margins are eroding, there are many different reasons -- absenteeism, theft, rising costs, lower prices, commoditization of products and services, employee turnover, the number of touch points to get products and services in the hands of your customers. These are all controllable factors, but many organizations try to control them all at once instead of identifying where the biggest erosion is coming from."
 
-(by [Pamela Wilson](https://twitter.com/pamelaiwilson))
+(by [Andrew Miller](https://twitter.com/AndrewMillerACM))
+
+
+###4. [Winning An Argument&nbsp;<i class="icon-link"></i>](http://www.farnamstreetblog.com/2014/06/winning-an-argument/)
+***
+Farnam Street is a consistently great blog with very insightful and thoughtful pieces. It is a recent favourite of mine. Highly Recommended. -L
+
+***
+>"We spend a lot of our lives trying to persuade others.
+Seth Godin writes: 
+*Marketers don’t convince. Engineers convince. Marketers persuade. Persuasion appeals to the emotions and to fear and to the imagination. Convincing requires a spreadsheet or some other rational device. 
+It’s much easier to persuade someone if they’re already convinced, if they already know the facts. But it’s impossible to change someone’s mind merely by convincing them of your point*."
+
+(by [Shane Parrish](https://twitter.com/farnamstreet))
+
+
+###5. [Convert your Twitter followers to email subscribers with a Twitter Lead Generation Card&nbsp;<i class="icon-link"></i>](http://www.niemanlab.org/2014/06/convert-your-twitter-followers-to-email-subscribers-with-a-twitter-lead-generation-card/)
+>"Instead of a link to the signup page of our daily email — where you’d have to enter your information, wait to get a confirmation email, then click a link inside it — you get a supersimple one-click interface. Twitter already knows your email address, after all, so that’s prefilled in. Why make someone complete a form and a two-step authentication process when you can make it all easy?"
+
+(by [Joshua Benton](https://twitter.com/jbenton))
