@@ -17,7 +17,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 <div class="article-author-main border-box">
     <h3>SPOTLIGHT: IAN CLEARY</h3>
-    <a href="https://twitter.com/"iancleary><img src="http://cdn.justshareapp.com/IanCleary.jpg" class="bio-photo large" alt="Ian Cleary"></a>
+    <a href="https://twitter.com/iancleary"><img src="http://cdn.justshareapp.com/IanCleary.jpg" class="bio-photo large" alt="Ian Cleary"></a>
     <br><br>
 <p>Award Winning Tech Blogger on RazorSocial, Social Media Tools Guy, Contributor for Social Media Examiner, VentureBeat etc Prof Speaker, Kick Boxer!<a href="https://twitter.com/iancleary">@iancleary</a> </p>
 </div>
