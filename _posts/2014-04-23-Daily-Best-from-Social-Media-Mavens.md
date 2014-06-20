@@ -3,52 +3,52 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [social media, mavens, facebook, google+, linkedin, twitter, marketing, social media marketing, linkedin marketing]
+tags: [social media, mavens, facebook, google+, linkedin, twitter, marketing, social media marketing, content marketing]
 created: 2014-04-23
-modified: 2014-06-19
+modified: 2014-06-20
 comments: false
 authors: [raj]
 
 image:
-  thumb: http://cdn.justshareapp.com/MelonieDodaro.jpg
+  thumb: http://cdn.justshareapp.com/MarshaCollier.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: MELONIE DODARO</h3>
-    <a href="https://twitter.com/MelonieDodaro"><img src="http://cdn.justshareapp.com/MelonieDodaro.jpg" class="bio-photo large" alt="MelonieDodaro"></a>
+    <h3>SPOTLIGHT: MARSHA COLLIER</h3>
+    <a href="https://twitter.com/MarshaCollier"><img src="http://cdn.justshareapp.com/MarshaCollier.jpg" class="bio-photo large" alt="Marsha Collier"></a>
     <br><br>
-<p>Dubbed by the media as Canada's #1 LinkedIn Expert. Top 10 Social Media Blogs by Social Media Examiner. I help businesses & sales teams leverage LinkedIn & SMM. <a href="https://twitter.com/MelonieDodaro">@MelonieDodaro</a> </p>
+<p>Author 48 books: Social Media Commerce, eBay, Online Customer Service. Forbes Top 10 Influencer, GigaOM Pro Analyst, Founder #CustServ chat #techradio host <a href="https://twitter.com/MarshaCollier">@MarshaCollier</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [The Secret To Getting Found On Page 1 of LinkedIn Search&nbsp;<i class="icon-link"></i>](http://topdogsocialmedia.com/social-selling-seo/)
->"When B2B professionals hear that LinkedIn is 277% more effective for lead generation (aka social selling) than Facebook or Twitter, they quickly realize LinkedIn is not a tool that can be ignored. Despite this impressive statistic, there is a problem that degrades the efficacy of the entire process for most people (and that likely includes you too): your prospects aren’t finding you when they search for professionals like you."
+###1. [5 Tips to Creating a Successful Content-Marketing Campaign&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/234995)
+>"The devil, as they say, is in the details. Implementing such a campaign isn’t as easy as it seems and takes a bit more effort than pressing a button. Depending on your business goals, time needs to be spent aligning your company's brand’s online persona with your customers’ needs. Once posted, content that’s shared requires interaction on your part. Interact directly with your community by saying something meaningful to stimulate continued conversation"
 
-(by [Melonie Dodaro](https://twitter.com/MelonieDodaro))
-
-
-###2.  [Strategies That Work – LinkedIn Groups Create Business Assets&nbsp;<i class="icon-link"></i>](http://www.business2community.com/brandviews/social-fusion-group/strategies-work-linkedin-groups-create-business-assets-0911135#ZVqP6XJU6BS33BIz.99)
->"We recently had the opportunity to interview Cindy Kraft, the CFO-coach, who has built a very powerful business asset through growing a LinkedIn group for her CFO coaching market.   Everyone wants this benefit and Cindy shared strategies that work for creating it."
-
-(by [Franklin Murrah](https://twitter.com/CFOStrategist))
+(by [Marsha Collier](https://twitter.com/MarshaCollier))
 
 
-###3. [LinkedIn Emerges as the #1 Source for Professional Content&nbsp;<i class="icon-link"></i>](http://www.business2community.com/linkedin/linkedin-emerges-1-source-professional-content-0919030#!0MZ6O)
+###2.  [Don't Be a Content Marketing Dinosaur -- 5 Must-Haves to Stay Current&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/234759)
+>"In 2014, staying current means keeping up to date on how the content-marketing scene shifts on an almost month-to-month basis. Content marketers are constantly getting better at what they do and audiences are becoming more discerning. The result is a do-or-die marketing landscape where only the most current content marketers (i.e., the ones staying on top of trends) will survive."
+
+(by [Eric Siu](https://twitter.com/ericosiu))
+
+
+###3. [From Antwerp to Bucharest – Lessons Learned About Storytelling and Content Marketing&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/lessons-storytelling-content-marketing/)
 >"It’s finally happened. LinkedIn surpassed online news sources, Facebook, and Twitter as the go-to source for professional content consumption.  The news comes from the 2014 Professional Content Consumption Report, delivering survey results from more than 2,700 LinkedIn members who actively consume content on the platform. "
 
-(by [Jean Spencer](https://twitter.com/jeanwrites))
+(by [Lee Odden](https://twitter.com/leeodden))
 
 
-###4. [New LinkedIn Profile Features: 4 Tips to Optimize Your Presence&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/linkedin-profile-features/)
->"LinkedIn has been making some major updates this year that impact both members and brands. Smart marketers should take notice."
+###4. [Converting Content Marketing into Successful B2B Social Media Marketing: DOs and DON'Ts&nbsp;<i class="icon-link"></i>](http://socialmediatoday.com/mary-wieder/2529971/converting-content-marketing-successful-b2b-social-media-marketing-dos-and-donts?utm_source=feedburner&utm_medium=feed&utm_campaign=Social+Media+Today+%28all+posts%29)
+>"Once you have produced a quality piece of content – whether that be a scientific/scholarly article, a blog post or even a report – how can you then convert that content into a successful social media marketing campaign for the ever challenging B2B marketing spectrum?"
 
-(by [Evan Prokop](https://twitter.com/eprokop1))
+(by [Mary Wieder-Bottaro](https://twitter.com/MarEliz827))
 
 
-###5. [LinkedIn Revamps Search With New 'Galene' Architecture&nbsp;<i class="icon-link"></i>](http://searchenginewatch.com/article/2349058/LinkedIn-Revamps-Search-With-New-Galene-Architecture)
->"For a company that services more than 300 million users, LinkedIn's search functionality was due for a much-needed upgrade. LinkedIn has traditionally taken a more reactive approach to search but is hoping to change that with Galene, their new search architecture."
+###5. [How to Tie Your Content Marketing Measurement to Business Results&nbsp;<i class="icon-link"></i>](http://www.business2community.com/content-marketing/tie-content-marketing-measurement-business-results-0911647#6LMbh5ouPDX3i2Lw.99)
+>"It’s helpful to understand that content marketing is effective at every stage of the customer journey. From ‘awareness’ to ‘consideration’ to – ideally – ‘conversion’. You might like to measure the efficacy of your content marketing differently against these three distinct stages"
 
-(by [Ashley Zeckman](http://twitter.com/azeckman))
+(by [Jonathan Rose](http://twitter.com/idioplatform))
