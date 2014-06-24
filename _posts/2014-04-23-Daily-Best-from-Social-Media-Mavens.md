@@ -3,52 +3,59 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [social media, mavens, facebook, google+, linkedin, twitter, marketing, social media marketing, content marketing]
+tags: [blog, social media, social agent, high paying gigs, small business, conversational writing, social media success, digital marketing ]
 created: 2014-04-23
-modified: 2014-06-20
+modified: 2014-06-24
 comments: false
-authors: [raj]
+authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/MarshaCollier.jpg
+  thumb: http://cdn.justshareapp.com/YasminBendror.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: MARSHA COLLIER</h3>
-    <a href="https://twitter.com/MarshaCollier"><img src="http://cdn.justshareapp.com/MarshaCollier.jpg" class="bio-photo large" alt="Marsha Collier"></a>
+    <h3>SPOTLIGHT: YASMIN BENDROR </h3>
+    <a href="https://twitter.com/yasminbendror"><img src="http://cdn.justshareapp.com/YasminBendror.jpg" class="bio-photo large" alt="Yasmin Bendror"></a>
     <br><br>
-<p>Author 48 books: Social Media Commerce, eBay, Online Customer Service. Forbes Top 10 Influencer, GigaOM Pro Analyst, Founder #CustServ chat #techradio host <a href="https://twitter.com/MarshaCollier">@MarshaCollier</a> </p>
+<p>President of yMarketingMatters: Social media & marketing boutique agency. Passionate about getting RESULTS with Social Media! And wine, food, cooking, safari... <a href="https://twitter.com/yasminbendror">@yasminbendror</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [5 Tips to Creating a Successful Content-Marketing Campaign&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/234995)
->"The devil, as they say, is in the details. Implementing such a campaign isn’t as easy as it seems and takes a bit more effort than pressing a button. Depending on your business goals, time needs to be spent aligning your company's brand’s online persona with your customers’ needs. Once posted, content that’s shared requires interaction on your part. Interact directly with your community by saying something meaningful to stimulate continued conversation"
+###1. [How to Measure Social Media Success for Your Small Business&nbsp;<i class="icon-link"></i>](http://www.business2community.com/small-business/measure-social-media-success-small-business-0921436#!2XAE5)
+>"With social media marketing, you can undeniably grow your audience, gain visibility and exposure for your company/products/services, provide outstanding customer service, and – yes – generate business and increase sales. 
+There are many business owners running small-to-medium sized businesses who are still hesitant to invest in and start social media marketing because they are not sure how to measure and prove social media ROI – Return on Investment. 
+Measuring social media success and ROI for your business isn’t as challenging as you may think, and there are different ways to measure success to see how this is impacting your business."
 
-(by [Marsha Collier](https://twitter.com/MarshaCollier))
-
-
-###2.  [Don't Be a Content Marketing Dinosaur -- 5 Must-Haves to Stay Current&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/234759)
->"In 2014, staying current means keeping up to date on how the content-marketing scene shifts on an almost month-to-month basis. Content marketers are constantly getting better at what they do and audiences are becoming more discerning. The result is a do-or-die marketing landscape where only the most current content marketers (i.e., the ones staying on top of trends) will survive."
-
-(by [Eric Siu](https://twitter.com/ericosiu))
+(by [Yasmin Bendror](https://twitter.com/yasminbendror))
 
 
-###3. [From Antwerp to Bucharest – Lessons Learned About Storytelling and Content Marketing&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/lessons-storytelling-content-marketing/)
->"It’s finally happened. LinkedIn surpassed online news sources, Facebook, and Twitter as the go-to source for professional content consumption.  The news comes from the 2014 Professional Content Consumption Report, delivering survey results from more than 2,700 LinkedIn members who actively consume content on the platform. "
+###2.  [6 Tips for Healthy Conversational Writing&nbsp;<i class="icon-link"></i>](http://www.b2onlinemedia.com/blog/6-tips-healthy-conversational-writing/)
+>"Have you ever noticed the underlying principle that makes some blog posts spread like wildfire? It’s not always the research or lengthy content but the conversational tone that makes your readers feel good. 
+The era has come when you are supposed to write even the technical manuals and guides in a simple and conversational manner. By doing so, you can generate content which is more appealing and engaging for your readers."
 
-(by [Lee Odden](https://twitter.com/leeodden))
-
-
-###4. [Converting Content Marketing into Successful B2B Social Media Marketing: DOs and DON'Ts&nbsp;<i class="icon-link"></i>](http://socialmediatoday.com/mary-wieder/2529971/converting-content-marketing-successful-b2b-social-media-marketing-dos-and-donts?utm_source=feedburner&utm_medium=feed&utm_campaign=Social+Media+Today+%28all+posts%29)
->"Once you have produced a quality piece of content – whether that be a scientific/scholarly article, a blog post or even a report – how can you then convert that content into a successful social media marketing campaign for the ever challenging B2B marketing spectrum?"
-
-(by [Mary Wieder-Bottaro](https://twitter.com/MarEliz827))
+(by [Nabeel Butt](https://twitter.com/nabeelbutt87))
 
 
-###5. [How to Tie Your Content Marketing Measurement to Business Results&nbsp;<i class="icon-link"></i>](http://www.business2community.com/content-marketing/tie-content-marketing-measurement-business-results-0911647#6LMbh5ouPDX3i2Lw.99)
->"It’s helpful to understand that content marketing is effective at every stage of the customer journey. From ‘awareness’ to ‘consideration’ to – ideally – ‘conversion’. You might like to measure the efficacy of your content marketing differently against these three distinct stages"
+###3.[How to Sell Your Social Media Experience on Your Resume&nbsp;<i class="icon-link"></i>](http://www.social-hire.com/career--interview-advice/4495/how-to-sell-your-social-media-experience-on-your-resume)
+>"Almost everyone is on social media nowadays, but just because you use social media for fun, doesn’t mean you’re an expert and know how to use social media while on the job. In other words, personal social media experience doesn’t equate to professional experience, and your resume needs to highlight that professional experience more than anything. Or, at the very least, it needs to address how your personal experiences can inform the job at hand. The question stands: How do you go about doing that?"
 
-(by [Jonathan Rose](http://twitter.com/idioplatform))
+(by [Adrienne Erin](https://twitter.com/adrienneerin))
+
+
+###4. [How to Snag Higher Paying Gigs&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/235065)
+>"Once you’ve developed a particular brand, it can be devilishly hard to change it. For instance, if you’ve become known for copywriting but want to pivot to message development, you may be stymied. 
+So how can you “reinvent your brand” in the eyes of current clients -- and position yourself so that new clients are drawn to you for the kinds of higher-paid projects you want?"
+
+(by [Dorie Clark](https://twitter.com/dorieclark))
+
+
+###5. [The 3 Most Important Traits of a Great Social Agent for Your Business&nbsp;<i class="icon-link"></i>](http://www.convinceandconvert.com/social-business/the-3-most-important-traits-of-a-great-social-agent-for-your-business/)
+>"There are two kinds of people in digital networking: social agents and prospects. 
+Everyone in sales knows what a prospect is, but what is a social agent? Who are yours? And what role do social agents play in your social selling strategy? 
+Social agents grow your business by sharing your content online to amplify your message. 
+While they may never do business with you, they do business for you by recommending you to others. Social agents are equally as important to business growth as prospects, and the biggest mistake salespeople make is undervaluing them."
+
+(by [Tom Martin](https://twitter.com/TomMartin))
