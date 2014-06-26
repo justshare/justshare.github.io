@@ -30,8 +30,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 (by [Michael Schrage](http://blogs.hbr.org/michael-schrage/))
 
 
-###2.  [Common SEO Obstacles Big Brands Face and How to Overcome Them
-&nbsp;<i class="icon-link"></i>](http://www.business2community.com/seo/common-seo-obstacles-big-brands-face-overcome-0917944#!4gMkC)
+###2. [Common SEO Obstacles Big Brands Face and How to Overcome Them&nbsp;<i class="icon-link"></i>](http://www.business2community.com/seo/common-seo-obstacles-big-brands-face-overcome-0917944#!4gMkC)
 >"Whether you’re brand new to the scene or you’ve been around for awhile, exposure is key. You could sell the best cat toys out there, but no cat will ever experience them if you’re not marketing to the public. Start with your website: optimize your metadata, check your alt tags, fix internal links, etc. Find opportunities to help you grow in the rankings and dive deep.
 If your content is thin, you could be in danger of a Google penalty. Target keywords with high search volume and pair these keywords with relevant landing pages. Optimize the metadata on these pages and together, these efforts will help you rank in the search results."
 
