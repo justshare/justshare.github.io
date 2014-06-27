@@ -3,54 +3,53 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, creativity, small business, content, consumption, digital, marketing, SEO]
+tags: [blog, social media, mavens, remote working, Canva, Guy Kawasaki, tablet commerce, digital marketing, strategy, Google+ profile tips, visual, profile image ]
 created: 2014-04-23
-modified: 2014-06-26
+modified: 2014-06-27
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/MichaelSchrage.jpeg
+  thumb: http://cdn.justshareapp.com/DanielleTerreri.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: Michael Schrage</h3>
-    <a href="http://blogs.hbr.org/michael-schrage/"><img src="http://cdn.justshareapp.com/MichaelSchrage.jpeg" class="bio-photo large" alt="Michael Schrage"></a>
+    <h3>SPOTLIGHT: Danielle Terreri</h3>
+    <a href="https://twitter.com/DTerreri"><img src="http://cdn.justshareapp.com/DanielleTerreri.jpg" class="bio-photo large" alt="Danielle Terreri"></a>
     <br><br>
-<p>Michael Schrage, a research fellow at MIT Sloan School’s Center for Digital Business, is the author of Serious Play and the new HBR Single Who Do You Want Your Customers to Become? <a href="http://blogs.hbr.org/michael-schrage/">HBR profile page</a> </p>
+<p>Content Marketer @SMXplorer | SME Digital <a href="https://twitter.com/DTerreri">@DTerreri</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [Marketers Don’t Need to Be More Creative&nbsp;<i class="icon-link"></i>](http://blogs.hbr.org/2014/06/marketers-dont-need-to-be-more-creative/)
->"If there’s anything all that chaos and competition of the past five years should have taught agencies, it’s that too much “creativity” celebrated by marketers and advertisers really isn’t. Advertising creativity has long been a bit of a con job; the media world is filled with costly creative that neither builds brands nor sells products. The better argument is that traditional advertising and marketing firms have pathologically overinvested in creativity while consistently underinvesting in meaningful metrics. An even better case might be made that the multimedia successes of Google, Twitter, Pinterest, Instagram, Facebook, and so on, highlight just how flaccid and ineffective most creative advertising and market work has been. What’s the secret sauce these technologies all have in common? Their creativity is measurable, trackable, and accountable. That’s a winning combination. If you’re a brand manager or CMO, that’s what you should care about."
+###1. [6 TIPS TO SET YOURSELF UP FOR SUCCESS WHEN WORKING REMOTELY&nbsp;<i class="icon-link"></i>](http://www.socialmediaexplorer.com/business-innovation-2/6-tips-to-set-yourself-up-for-success-when-working-remotely/)
+>"As a full-time remote employee, I feel compelled to put it out there that working remotely is not the equivalent of an employed recluse. Yes, a remote position is different than working out of a traditional office. And, yes, working remotely is not for everyone. But, holding a position as a remote employee still means you are employed by an organization that expects you to be productive and results-driven. There are some major perks, too, like flexibility, no commute-time and fewer distractions."
 
-(by [Michael Schrage](http://blogs.hbr.org/michael-schrage/))
-
-
-###2. [Common SEO Obstacles Big Brands Face and How to Overcome Them&nbsp;<i class="icon-link"></i>](http://www.business2community.com/seo/common-seo-obstacles-big-brands-face-overcome-0917944#!4gMkC)
->"Whether you’re brand new to the scene or you’ve been around for awhile, exposure is key. You could sell the best cat toys out there, but no cat will ever experience them if you’re not marketing to the public. Start with your website: optimize your metadata, check your alt tags, fix internal links, etc. Find opportunities to help you grow in the rankings and dive deep.
-If your content is thin, you could be in danger of a Google penalty. Target keywords with high search volume and pair these keywords with relevant landing pages. Optimize the metadata on these pages and together, these efforts will help you rank in the search results."
-
-(by [Danielle Bartholomew](https://twitter.com/Barthology101))
+(by [Danielle Terreri](https://twitter.com/DTerreri))
 
 
-###3. [10 Tips For Success On The Business Side Of A Startup&nbsp;<i class="icon-link"></i>](http://thoughtcatalog.com/ellen-dasilva/2014/06/10-tips-for-success-on-the-business-side-of-a-startup/)
->"...the business side of tech on how to get in front of partners, pitch the deal and close the partnership."
+###2.  [Top Tips for a Terrific Google+ Profile&nbsp;<i class="icon-link"></i>](http://blog.canva.com/top-tips-for-a-terrific-google-profile/)
+>"The two areas that you have to make a lasting visual impact are your avatar and your cover photo. Use these spaces wisely to tell the visual story of who you are and give people a reason to follow you. Or not."
 
-(by [Ellen DaSilva](https://twitter.com/ellenjdasilva))
-
-
-###4. [12 B2B Content Marketing Examples and Case Studies for 2014&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/b2b-content-marketing-examples/)
->"Content Marketing has long been a staple for the B2B Marketing world with an increased boost in popularity due to changes in consumer information discovery and consumption. Over 90% of B2B marketers are using content marketing according to CMI and MarketingProfs. Far more research is conducted before sales contacts are made providing B2B companies an opportunity to satisfy buyer information hunger with some killer content."
-
-(by [Lee Odden](https://twitter.com/leeodden))
+(by [Guy Kawasaki](https://twitter.com/GuyKawasaki))
 
 
-###5. [The Content Consumption Habits of LinkedIn Users&nbsp;<i class="icon-link"></i>](http://www.marketingprofs.com/charts/2014/25439/the-content-consumption-habits-of-linkedin-users)
->"Most people who consume professional content on LinkedIn do so to keep up with industry news (78% of respondents) and to discover new ideas within their business area (73%), according to data from a recent survey conducted by LinkedIn. 
-A significant number also engage with professional content on LinkedIn in order to build relationships with colleagues/clients (62% of respondents say so), enhance their professional reputations (55%), spark conversations (51%), and improve their current job skills (45%)."
+###3. [Why Social Media Strategists Matter in the Digital Marketing Realm&nbsp;<i class="icon-link"></i>](http://www.portent.com/blog/social-media/social-media-strategists-matter-digital-marketing-realm.htm)
+>"It’s undisputed that other areas of the digital marking world, like SEO or PPC, are valuable to your website and your business because those are areas that increase traffic to your website, and often lead to more conversions. So, why is it that social media gets a bad rap? Why do I continue to work in a field that is constantly the underdog? Short answer: I believe in the power of social media for businesses, and I believe in doing it right. 
+I’m going to discuss three reasons why social media (and social media strategists) matter in the digital marketing realm, and perhaps educate other sectors of the digital marketing space who think that we just “play on Facebook all day.”"
 
-(by [Ayaz Nanji](https://twitter.com/ayaznanji))
+(by [Braxton Kellogg](https://twitter.com/itsbday))
+
+
+###4. [Study: Social Media is Not a Trusted Media Source for PR Pros&nbsp;<i class="icon-link"></i>](http://www.convinceandconvert.com/social-media-research/study-social-media-is-not-a-trusted-media-source-for-pr-pros/)
+>"Unsurprisingly, Facebook and Twitter were the most widely used platforms by brands, with LinkedIn and YouTube following closely behind. Interestingly, however, Snapchat is the least-used platform, with only 2 percent of brands using it (also clocking in at 2 percent are brands that use no social channels)."
+
+(by [Lisa Denten](https://twitter.com/lisaml15))
+
+
+###5. [Tablet commerce expected to reach 293 billion by 2018 (Infographic)&nbsp;<i class="icon-link"></i>](http://www.marketingpilgrim.com/2014/06/tablet-commerce-expected-to-reach-293-billion-by-2018-infographic.html)
+>"2018 may sound like the title of a sci-fi disaster movie but it’s also the year the tablet may take over the ecommerce world. Usablenet predicts the rise of the hand-held machine in their new infographic, saying tablet sales will increase five fold by 2017. That’s over 1 billion tablets and a large percentage of owners will be using those tablets to shop."
+
+(by [Cynthia Boris](https://twitter.com/Cynthialil))
