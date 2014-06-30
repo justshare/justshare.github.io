@@ -3,53 +3,56 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, remote working, Canva, Guy Kawasaki, tablet commerce, digital marketing, strategy, Google+ profile tips, visual, profile image ]
+tags: [blog, social media, mavens, influencer marketing, niche marketing, Facebook teens, freelance, digital product, messaging apps, trends, future of social media ]
 created: 2014-04-23
-modified: 2014-06-27
+modified: 2014-06-30
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/DanielleTerreri.jpg
+  thumb: http://cdn.justshareapp.com/JawadKhan.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: Danielle Terreri</h3>
-    <a href="https://twitter.com/DTerreri"><img src="http://cdn.justshareapp.com/DanielleTerreri.jpg" class="bio-photo large" alt="Danielle Terreri"></a>
+    <h3>SPOTLIGHT: Jawad Khan</h3>
+    <a href="https://twitter.com/WritingMDestiny"><img src="http://cdn.justshareapp.com/JawadKhan.jpeg" class="bio-photo large" alt="Jawad Khan"></a>
     <br><br>
-<p>Content Marketer @SMXplorer | SME Digital <a href="https://twitter.com/DTerreri">@DTerreri</a> </p>
+<p>Once upon a time a Web Project Manager, now a passionate Content Marketer, Freelance Writer, Ghostwriter and Blogger chershing the thrills of entrepreneurship  <a href="https://twitter.com/alisammeredith">@WritingMDestiny</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [6 TIPS TO SET YOURSELF UP FOR SUCCESS WHEN WORKING REMOTELY&nbsp;<i class="icon-link"></i>](http://www.socialmediaexplorer.com/business-innovation-2/6-tips-to-set-yourself-up-for-success-when-working-remotely/)
->"As a full-time remote employee, I feel compelled to put it out there that working remotely is not the equivalent of an employed recluse. Yes, a remote position is different than working out of a traditional office. And, yes, working remotely is not for everyone. But, holding a position as a remote employee still means you are employed by an organization that expects you to be productive and results-driven. There are some major perks, too, like flexibility, no commute-time and fewer distractions."
+###1. [9 Powerful Tips To Help Freelancers and Bloggers Sell Digital Products&nbsp;<i class="icon-link"></i>](http://www.problogger.net/archives/2014/06/23/9-powerful-tips-to-help-freelancers-and-bloggers-sell-digital-products/)
+>"With so many great online tools and services available, creating digital products is much easier than before. But as a result of that, there are a lot of mediocre and sub-standard products floating around the web as well. To ensure that your product stands out from the crowd, you need to do things differently."
 
-(by [Danielle Terreri](https://twitter.com/DTerreri))
-
-
-###2.  [Top Tips for a Terrific Google+ Profile&nbsp;<i class="icon-link"></i>](http://blog.canva.com/top-tips-for-a-terrific-google-profile/)
->"The two areas that you have to make a lasting visual impact are your avatar and your cover photo. Use these spaces wisely to tell the visual story of who you are and give people a reason to follow you. Or not."
-
-(by [Guy Kawasaki](https://twitter.com/GuyKawasaki))
+(by [Jawad Khan](https://twitter.com/WritingMDestiny))
 
 
-###3. [Why Social Media Strategists Matter in the Digital Marketing Realm&nbsp;<i class="icon-link"></i>](http://www.portent.com/blog/social-media/social-media-strategists-matter-digital-marketing-realm.htm)
->"It’s undisputed that other areas of the digital marking world, like SEO or PPC, are valuable to your website and your business because those are areas that increase traffic to your website, and often lead to more conversions. So, why is it that social media gets a bad rap? Why do I continue to work in a field that is constantly the underdog? Short answer: I believe in the power of social media for businesses, and I believe in doing it right. 
-I’m going to discuss three reasons why social media (and social media strategists) matter in the digital marketing realm, and perhaps educate other sectors of the digital marketing space who think that we just “play on Facebook all day.”"
+###2.  [Meet Their Needs: Using Influence and Motivation In Marketing&nbsp;<i class="icon-link"></i>](http://www.business2community.com/marketing/meet-needs-using-influence-motivation-marketing-0923785)
+>"When you’re writing web page content, blog posts, ad copy, or call-to-action text, this concept of influence and motivation should affect how you write your content. 
+In some way or another, it needs to appeal to one or more of these (Maslow's) categories of needs."
 
-(by [Braxton Kellogg](https://twitter.com/itsbday))
-
-
-###4. [Study: Social Media is Not a Trusted Media Source for PR Pros&nbsp;<i class="icon-link"></i>](http://www.convinceandconvert.com/social-media-research/study-social-media-is-not-a-trusted-media-source-for-pr-pros/)
->"Unsurprisingly, Facebook and Twitter were the most widely used platforms by brands, with LinkedIn and YouTube following closely behind. Interestingly, however, Snapchat is the least-used platform, with only 2 percent of brands using it (also clocking in at 2 percent are brands that use no social channels)."
-
-(by [Lisa Denten](https://twitter.com/lisaml15))
+(by [Noah Rhodes](https://twitter.com/noahmrhodes))
 
 
-###5. [Tablet commerce expected to reach 293 billion by 2018 (Infographic)&nbsp;<i class="icon-link"></i>](http://www.marketingpilgrim.com/2014/06/tablet-commerce-expected-to-reach-293-billion-by-2018-infographic.html)
->"2018 may sound like the title of a sci-fi disaster movie but it’s also the year the tablet may take over the ecommerce world. Usablenet predicts the rise of the hand-held machine in their new infographic, saying tablet sales will increase five fold by 2017. That’s over 1 billion tablets and a large percentage of owners will be using those tablets to shop."
+###3. [Niche Marketing Best Practices: Achieving Targeted Profitability&nbsp;<i class="icon-link"></i>](http://www.inc.com/growthreport/niche-marketing-best-practices-achieving-targeted-profitability.html)
+>"It’s possible that your company’s growth trajectory would benefit from narrowing, rather than expanding, your business focus. When managed strategically, niche marketing can empower you to unlock increased profitability by targeting the market segments that are best aligned with your company’s core strengths, corporate culture, and long-term objectives. By adopting best practices in niche marketing, you optimize your company’s capacity to sustain peak performance in the areas most likely to attract and sustain profitable client relationships."
 
-(by [Cynthia Boris](https://twitter.com/Cynthialil))
+(via  [Inc.](https://twitter.com/Inc))
+
+
+###4. [THE FUTURE OF SOCIAL MEDIA APPS&nbsp;<i class="icon-link"></i>](http://www.socialmediaexplorer.com/social-media-marketing/the-future-of-social-media-apps/)
+>"According to a study by Flurry Analytics, usage of messaging and social media apps grew by 203%, the largest year-to-year increase among the categories of apps analyzed in the study. With more people staying connected, social media apps are influencing our relationships and daily routines. 
+Here’s a look at how social media apps are changing people’s lives."
+
+(by [JT Ripton](https://twitter.com/JTRipton))
+
+
+###5. [Is Facebook Still Cool? And for Marketers, Does It Matter?&nbsp;<i class="icon-link"></i>](http://www.marketingprofs.com/articles/2014/25469/is-facebook-still-cool-and-for-marketers-does-it-matter)
+>"Dan Miller, a professor of material culture at University College London, caused quite a stir at the end of 2013 when he said Facebook was "basically dead and buried" for 16-18-year-olds in the UK. So when we recently facilitated a series of focus groups in the US with 16-30-year-old males on the topic of their social media habits, we were interested to see how they would respond to "Is Facebook still cool?" 
+Almost universally, participants responded with a "No." But does Facebook need to be cool to be valuable to marketers? And if Facebook is no longer cool, how should that change the way marketers think about the channel? 
+For Facebook, not being cool is uniquely different from not being useful."
+
+(by [Mike Barrett](http://www.linkedin.com/pub/michael-barrett/1/429/98))
