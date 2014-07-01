@@ -3,56 +3,60 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, influencer marketing, niche marketing, Facebook teens, freelance, digital product, messaging apps, trends, future of social media ]
+tags: [blog, social media, mavens, blogging tips, Lee Odden Keynote, startup tips, Paperless Office, Repurposing Content ]
 created: 2014-04-23
-modified: 2014-06-30
+modified: 2014-07-01
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/JawadKhan.jpeg
+  thumb: http://cdn.justshareapp.com/StefanieFlaxman.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: Jawad Khan</h3>
-    <a href="https://twitter.com/WritingMDestiny"><img src="http://cdn.justshareapp.com/JawadKhan.jpeg" class="bio-photo large" alt="Jawad Khan"></a>
+    <h3>SPOTLIGHT: STEFANIE FLAXMAN</h3>
+    <a href="https://plus.google.com/+RevisionFairy/posts"><img src="http://cdn.justshareapp.com/StefanieFlaxman.jpg" class="bio-photo large" alt="Stefanie Flaxman"></a>
     <br><br>
-<p>Once upon a time a Web Project Manager, now a passionate Content Marketer, Freelance Writer, Ghostwriter and Blogger chershing the thrills of entrepreneurship  <a href="https://twitter.com/alisammeredith">@WritingMDestiny</a> </p>
+<p>Associate Editor for Copyblogger Media. She is also the sole proprietor of Revision Fairy -- a unique editorial consulting service that helps small businesses with their copy editing and proofreading needs. <a href="https://plus.google.com/+RevisionFairy/posts">+RevisionFairy</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [9 Powerful Tips To Help Freelancers and Bloggers Sell Digital Products&nbsp;<i class="icon-link"></i>](http://www.problogger.net/archives/2014/06/23/9-powerful-tips-to-help-freelancers-and-bloggers-sell-digital-products/)
->"With so many great online tools and services available, creating digital products is much easier than before. But as a result of that, there are a lot of mediocre and sub-standard products floating around the web as well. To ensure that your product stands out from the crowd, you need to do things differently."
+###1. [How to Spot the Weakest Part of Your Blog Post (and What to Do About It)&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/strengthen-your-weaknesses/)
+>"The goal of a typical first draft is to transform your scattered thoughts into a cohesive article that explains a topic to your target audience. But why should readers choose your content over another writer’s work? 
+If you don’t take the time to revise your rough draft in a way that shows you are an authority, and that you have a solution that isn’t available anywhere else, they won’t. 
+To help you narrow down the sections of your blog posts that could use improvement, here are eight common weaknesses I see over and over in drafts that are sent to me for editing. 
+And, more important, quick and easy ways to strengthen each one."
 
-(by [Jawad Khan](https://twitter.com/WritingMDestiny))
-
-
-###2.  [Meet Their Needs: Using Influence and Motivation In Marketing&nbsp;<i class="icon-link"></i>](http://www.business2community.com/marketing/meet-needs-using-influence-motivation-marketing-0923785)
->"When you’re writing web page content, blog posts, ad copy, or call-to-action text, this concept of influence and motivation should affect how you write your content. 
-In some way or another, it needs to appeal to one or more of these (Maslow's) categories of needs."
-
-(by [Noah Rhodes](https://twitter.com/noahmrhodes))
+(by [Stefanie Flaxman](https://plus.google.com/+RevisionFairy/posts))
 
 
-###3. [Niche Marketing Best Practices: Achieving Targeted Profitability&nbsp;<i class="icon-link"></i>](http://www.inc.com/growthreport/niche-marketing-best-practices-achieving-targeted-profitability.html)
->"It’s possible that your company’s growth trajectory would benefit from narrowing, rather than expanding, your business focus. When managed strategically, niche marketing can empower you to unlock increased profitability by targeting the market segments that are best aligned with your company’s core strengths, corporate culture, and long-term objectives. By adopting best practices in niche marketing, you optimize your company’s capacity to sustain peak performance in the areas most likely to attract and sustain profitable client relationships."
+###2.  [Where Search Fits in the Digital Marketing Mix – 12 Lessons from Lee Odden Keynote at MnSummit&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/12-lessons-digital-marketing/)
+>"Libraries aren’t the only organizations feeling the impact from our increasing preferences for online information. A study by Accenture Interactive recently reported that digital marketing is predicted to account for 75% of CMOs budgets over the next five years. And yet 79% of them don’t believe their businesses will be ready. 
+Stop and think about that for a minute. An overwhelming majority of C-level executives don’t think their business will be ready for the vast majority of their marketing to be digital, meeting the information consumption habits of their consumers. How on earth do they expect to attract and engage them?"
 
-(via  [Inc.](https://twitter.com/Inc))
-
-
-###4. [THE FUTURE OF SOCIAL MEDIA APPS&nbsp;<i class="icon-link"></i>](http://www.socialmediaexplorer.com/social-media-marketing/the-future-of-social-media-apps/)
->"According to a study by Flurry Analytics, usage of messaging and social media apps grew by 203%, the largest year-to-year increase among the categories of apps analyzed in the study. With more people staying connected, social media apps are influencing our relationships and daily routines. 
-Here’s a look at how social media apps are changing people’s lives."
-
-(by [JT Ripton](https://twitter.com/JTRipton))
+(by [Eliza Steely](https://twitter.com/ElizaSteely))
 
 
-###5. [Is Facebook Still Cool? And for Marketers, Does It Matter?&nbsp;<i class="icon-link"></i>](http://www.marketingprofs.com/articles/2014/25469/is-facebook-still-cool-and-for-marketers-does-it-matter)
->"Dan Miller, a professor of material culture at University College London, caused quite a stir at the end of 2013 when he said Facebook was "basically dead and buried" for 16-18-year-olds in the UK. So when we recently facilitated a series of focus groups in the US with 16-30-year-old males on the topic of their social media habits, we were interested to see how they would respond to "Is Facebook still cool?" 
-Almost universally, participants responded with a "No." But does Facebook need to be cool to be valuable to marketers? And if Facebook is no longer cool, how should that change the way marketers think about the channel? 
-For Facebook, not being cool is uniquely different from not being useful."
+###3. [How to Optimize Your Older Blog Content for Long Tail Conversion&nbsp;<i class="icon-link"></i>](http://unbounce.com/content-marketing/how-to-optimize-your-old-blog-content-for-long-tail-conversion/)
+>"A few weeks ago I was talking to Joe Chernov of HubSpot, a leading marketing software company with a very active blog community. As VP of Content, Joe’s role is to ensure that HubSpot’s content is consistently high in quality and driving valuable lead gen. 
+One of the surprising insights from our conversation was that Joe found that many of HubSpot’s older blog posts from prior months or even years were getting extremely high conversion long tail traffic. 
+It turned out that people digging deep into the blog’s archives had a very specific pain point to address. Accordingly, HubSpot saw conversion rates much higher than that of their most recent posts, albeit at lower volume. This is why Joe’s team continues to tinker with older posts. 
+If it can work for HubSpot, it can work for you. Here are three things you can do to optimize older evergreen posts on your blog for long tail conversion."
 
-(by [Mike Barrett](http://www.linkedin.com/pub/michael-barrett/1/429/98))
+(by [David Cheng](https://twitter.com/unbounce))
+
+
+###4. [10 Lessons After 19 Years In Business&nbsp;<i class="icon-link"></i>](http://www.portent.com/blog/random/19-years-business-ive-learned.htm)
+>"I’ve screwed up a lot of stuff. But we’re still here, so I’ll give myself a small pat on the back. Clearly, we’ve done something right. If I could tell 26-year-old self 10 things to improve Portent’s first 19 years, here’s what I’d say:"
+
+(by [Ian Lurie](https://twitter.com/portentint))
+
+
+###5. [Want a Paperless Office? You Need These 6 Tools&nbsp;<i class="icon-link"></i>](http://www.gocanvas.com/content/blog/post/want-a-paperless-office-you-need-these-6-tools#.U62XXO6L-t4.twitter)
+>"Maybe you’re just tired of the piles of paper on your desk. Or, you could have realized that going paperless allows you to communicate more quickly, and benefits your bottom line. 
+So how do you get to the paperless office? How do you stay there? Today, we’ve rounded up some of the best tools to help you get rid of paper for good."
+
+(by [Katie Simpson](https://twitter.com/gocanvas))
