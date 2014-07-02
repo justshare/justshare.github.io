@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Spotlight - Social Media Management with Over-Graph
-description: “A relatively recent entrant in Social Media Management Software, Over-Graph nevertheless brings the significant experience of its developers - 909c.”
+description: A relatively recent entrant in Social Media Management Software, Over-Graph nevertheless brings the significant experience of its developers - 909c.
 tags: [blog, social media, marketing, tools, social media monitoring, social media management, Over-Graph, SEO] 
 comments: true
 authors: [raj]
@@ -10,7 +10,7 @@ image:
 ---
 
 ##Overview
-Following up on our [Getting Started with Social Media Monitoring post](http://blog.justshareapp.com/Getting-Started-with-Social-Media-Monitoring/), we look at a number of products, starting with [Over-Graph](www.over-graph.com). 
+Following up on our [Getting Started with Social Media Monitoring post](http://blog.justshareapp.com/Getting-Started-with-Social-Media-Monitoring/), we look at a number of products, starting with [Over-Graph](http://www.over-graph.com). 
 
 A relatively recent entrant to the Social Media Management tools game, Over-Graph claims to be a leading solution in France. Over-Graph is developed by 909c, a France based Social Media and related technologies strategy company, based on their learning and needs garnered from working with multiple large companies.
 
