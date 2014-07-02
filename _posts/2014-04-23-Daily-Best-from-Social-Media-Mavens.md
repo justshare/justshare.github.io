@@ -3,60 +3,60 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, blogging tips, Lee Odden Keynote, startup tips, Paperless Office, Repurposing Content ]
+tags: [blog, social media, mavens, email marketing, email tips, digital marketing, email branding]
 created: 2014-04-23
-modified: 2014-07-01
+modified: 2014-07-02
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/StefanieFlaxman.jpg
+  thumb: http://cdn.justshareapp.com/MichaelFertik.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: STEFANIE FLAXMAN</h3>
-    <a href="https://plus.google.com/+RevisionFairy/posts"><img src="http://cdn.justshareapp.com/StefanieFlaxman.jpg" class="bio-photo large" alt="Stefanie Flaxman"></a>
+    <h3>SPOTLIGHT: MICHEAL FERTIK</h3>
+    <a href="https://twitter.com/michaelfertik"><img src="http://cdn.justshareapp.com/MichaelFertik.jpg" class="bio-photo large" alt="Michael Fertik"></a>
     <br><br>
-<p>Associate Editor for Copyblogger Media. She is also the sole proprietor of Revision Fairy -- a unique editorial consulting service that helps small businesses with their copy editing and proofreading needs. <a href="https://plus.google.com/+RevisionFairy/posts">+RevisionFairy</a> </p>
+<p>CEO & Founder of http://Reputation.com. Privacy, Reputation, HUGE data. Repeat entrepreneur. http://femtofilm.com <a href="https://twitter.com/michaelfertik">@michaelfertik</a> </p>
 </div>
 
 ## The Daily Leaderboard
 
-###1. [How to Spot the Weakest Part of Your Blog Post (and What to Do About It)&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/strengthen-your-weaknesses/)
->"The goal of a typical first draft is to transform your scattered thoughts into a cohesive article that explains a topic to your target audience. But why should readers choose your content over another writer’s work? 
-If you don’t take the time to revise your rough draft in a way that shows you are an authority, and that you have a solution that isn’t available anywhere else, they won’t. 
-To help you narrow down the sections of your blog posts that could use improvement, here are eight common weaknesses I see over and over in drafts that are sent to me for editing. 
-And, more important, quick and easy ways to strengthen each one."
+###1. [The 6 Most Effective Types of Email&nbsp;<i class="icon-link"></i>](http://www.inc.com/michael-fertik/the-6-most-effective-emails-you-should-write-today.html)
+>"It's possible that email is the Great Time Suck of our professional lives.
+I'll cop to (possibly) having lost control of my inbox now and again, swamped by the waves of incoming missives flowing over the transom.  Yet it still remains one of the most convenient and speedy forms of global communication.
+That said, we could all probably do less of it.  Much, much less.  But here are six email types worth the electronic ink:"
 
-(by [Stefanie Flaxman](https://plus.google.com/+RevisionFairy/posts))
-
-
-###2.  [Where Search Fits in the Digital Marketing Mix – 12 Lessons from Lee Odden Keynote at MnSummit&nbsp;<i class="icon-link"></i>](http://www.toprankblog.com/2014/06/12-lessons-digital-marketing/)
->"Libraries aren’t the only organizations feeling the impact from our increasing preferences for online information. A study by Accenture Interactive recently reported that digital marketing is predicted to account for 75% of CMOs budgets over the next five years. And yet 79% of them don’t believe their businesses will be ready. 
-Stop and think about that for a minute. An overwhelming majority of C-level executives don’t think their business will be ready for the vast majority of their marketing to be digital, meeting the information consumption habits of their consumers. How on earth do they expect to attract and engage them?"
-
-(by [Eliza Steely](https://twitter.com/ElizaSteely))
+(by [Michael Fertik](https://twitter.com/michaelfertik))
 
 
-###3. [How to Optimize Your Older Blog Content for Long Tail Conversion&nbsp;<i class="icon-link"></i>](http://unbounce.com/content-marketing/how-to-optimize-your-old-blog-content-for-long-tail-conversion/)
->"A few weeks ago I was talking to Joe Chernov of HubSpot, a leading marketing software company with a very active blog community. As VP of Content, Joe’s role is to ensure that HubSpot’s content is consistently high in quality and driving valuable lead gen. 
-One of the surprising insights from our conversation was that Joe found that many of HubSpot’s older blog posts from prior months or even years were getting extremely high conversion long tail traffic. 
-It turned out that people digging deep into the blog’s archives had a very specific pain point to address. Accordingly, HubSpot saw conversion rates much higher than that of their most recent posts, albeit at lower volume. This is why Joe’s team continues to tinker with older posts. 
-If it can work for HubSpot, it can work for you. Here are three things you can do to optimize older evergreen posts on your blog for long tail conversion."
+###2.  [Build Your Email List With Distraction-Free Landing Pages and 3 Other Techniques&nbsp;<i class="icon-link"></i>](http://www.entrepreneur.com/article/235251)
+>"Are you generating more email subscribers from your blog? 
+Email is 40 times more effective than Facebook and Twitter combined for customer acquisition, according to a study by McKinsey & Company. The number of email users is expected to rise from 2.5 billion to 2.76 billion by 2017."
 
-(by [David Cheng](https://twitter.com/unbounce))
+(by [Eric Siu](https://twitter.com/ericosiu))
 
 
-###4. [10 Lessons After 19 Years In Business&nbsp;<i class="icon-link"></i>](http://www.portent.com/blog/random/19-years-business-ive-learned.htm)
->"I’ve screwed up a lot of stuff. But we’re still here, so I’ll give myself a small pat on the back. Clearly, we’ve done something right. If I could tell 26-year-old self 10 things to improve Portent’s first 19 years, here’s what I’d say:"
+###3. [Email Marketers Need to Do More to Nurture Leads(Study)&nbsp;<i class="icon-link"></i>](http://www.clickz.com/clickz/news/2352391/email-marketers-need-to-do-more-to-nurture-leads-study)
+>"...while most marketers surveyed say they use email marketing as a key strategy for nurturing existing leads and increasing sales, the report shows the channel has serious limitations: 
+Email marketing can only reach known prospects 
+Email marketing databases may be inaccurate 
+In addition, close to 80 percent of marketers surveyed say their email open rates are less than 20 percent on average. And 45 percent think that email marketing converts only one-fourth of known contacts to qualified leads."
 
-(by [Ian Lurie](https://twitter.com/portentint))
+(by [Yuyu Chen](https://twitter.com/chenilleyuyu))
 
 
-###5. [Want a Paperless Office? You Need These 6 Tools&nbsp;<i class="icon-link"></i>](http://www.gocanvas.com/content/blog/post/want-a-paperless-office-you-need-these-6-tools#.U62XXO6L-t4.twitter)
->"Maybe you’re just tired of the piles of paper on your desk. Or, you could have realized that going paperless allows you to communicate more quickly, and benefits your bottom line. 
-So how do you get to the paperless office? How do you stay there? Today, we’ve rounded up some of the best tools to help you get rid of paper for good."
+###4. [4 Simple Ways to Make Automated Emails Feel Personal…AND On-Brand&nbsp;<i class="icon-link"></i>](http://blog.marketo.com/2014/06/4-simple-ways-to-make-automated-emails-feel-personaland-on-brand.html)
+>"...it’s widely accepted that it takes at least seven positive marketing messages to make a brand stick in a potential customer’s mind. That means that every single message counts – especially until you’ve “stuck.” If your communications are not consistent with your products and company values, or are insensitive to information you’ve already collected, you may lose some of your highest quality leads. 
+Unfortunately, many companies are not effective enough during this delicate phase. Their brand messages aren’t building their credibility, or resonating with the audience receiving them."
 
-(by [Katie Simpson](https://twitter.com/gocanvas))
+(by [Rachel Kavanagh](https://twitter.com/rachel_ie))
+
+
+###5. [The Science of Email: This New Report Is Sure to Help You Engage Your Subscribers&nbsp;<i class="icon-link"></i>](http://contently.com/strategist/2014/06/20/the-science-of-email-this-new-report-is-sure-to-help-you-engage-your-subscribers/)
+>"If you haven’t changed your email marketing strategy in the past three years, a new report, Science of Email 2014, might shake you out of hibernation. 
+The report, a joint effort from HubSpot and Litmus, gathers data from over 800 million sent emails in addition to self-reported data from user surveys, and reveals some excellent insights into how to make your emails more successful. The entire report is worth diving into, but we’ve broken down some of the key takeaways below."
+
+(by [Celine Roque](https://twitter.com/celinus))
