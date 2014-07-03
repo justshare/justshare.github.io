@@ -26,15 +26,10 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ###1. [13 Reasons to Be Pretty Damn Euphoric You Are a Freelancer&nbsp;<i class="icon-link"></i>](http://www.copyblogger.com/authority-freelancer/)
 >"There is a good chance that by 2020 you will be self-employed. 
-
 An old Intuit report estimated that by that time nearly 40 percent of Americans will make their living as temporary workers — that is, as freelancers, business owners, or independent workers. 
-
 This could be good news. 
-
 Those who are not freelancers often look at those who are with a trace of envy. From the cubicle, the grass certainly looks greener. It is the life that you could have. And should have. 
-
 If only. 
-
 According to a 2009 Gallup poll, working for yourself is one of the hardest jobs you’ll ever have: self-employed workers routinely clock over 60 hours a week."
 
 (by [Demian Farnworth](https://twitter.com/demianfarnworth))
