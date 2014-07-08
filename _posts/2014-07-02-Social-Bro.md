@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Spotlight – Enabling Twitter for Business with SocialBro
-description: “Is SocialBro the #1 marketing platform for Twitter? Read on for our findings”
+description: “Is SocialBro the best marketing platform for Twitter? Read on for our findings”
 tags: [blog, social media, marketing, tools, product, platform, content marketing, social media management, SEO, SocialBro, Twitter for Business, Twitter Certified Product, Twitter Platform, Twitter Service, Twitter Analytics, Social Engagement, Social Metrics, Social Analytics] 
 comments: true
 authors: [lavanya]
