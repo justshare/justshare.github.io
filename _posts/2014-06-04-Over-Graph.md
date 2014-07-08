@@ -6,10 +6,17 @@ tags: [blog, social media, marketing, tools, social media monitoring, social med
 comments: true
 authors: [raj]
 image:
-  thumb: http://cdn.justshareapp.com/TourOverGraph.jpg
+  thumb: http://cdn.justshareapp.com/OverGraph_Cover.png
 ---
 
 ##Overview
+
+<br/>
+<figure>
+<img src="http://cdn.justshareapp.com/OverGraph_Cover.png"/>
+<figcaption>Over-Graph, Hot or Not?</figcaption>
+</figure> 
+
 Following up on our [Getting Started with Social Media Monitoring post](http://blog.justshareapp.com/Getting-Started-with-Social-Media-Monitoring/), we look at a number of products, starting with [Over-Graph](http://www.over-graph.com). 
 
 A relatively recent entrant to the Social Media Management tools game, Over-Graph claims to be a leading solution in France. Over-Graph is developed by 909c, a France based Social Media and related technologies strategy company, based on their learning and needs garnered from working with multiple large companies.
