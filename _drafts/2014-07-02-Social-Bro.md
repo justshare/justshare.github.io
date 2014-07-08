@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Spotlight – Enabling Twitter for Business with SocialBro
-description: “Canva claims to be “fun, free and simple to use”. We decided to put this claim to test in our Product Spotlight for this week. ”
+description: “Is SocialBro the #1 marketing platform for Twitter? Read on for our findings”
 tags: [blog, social media, marketing, tools, product, platform, content marketing, social media management, SEO, SocialBro, Twitter for Business, Twitter Certified Product, Twitter Platform, Twitter Service, Twitter Analytics, Social Engagement, Social Metrics, Social Analytics, ] 
 comments: true
 authors: [lavanya]
