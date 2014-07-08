@@ -82,6 +82,7 @@ The design of the dashboard works efficiently to provide many features in a well
 ##Functional Highlights
 SocialBro is a [Twitter Certified Product](https://business.twitter.com/partners/list/certified-products). It is rich in features and can offer tremendous insight into your twitter account and your twitter audience.
 
+
 Let us take a quick look at the list of features that SocialBro offers:
 
 <br/>
