@@ -88,7 +88,9 @@ SocialBro is a [Twitter Certified Product](https://business.twitter.com/partners
 <figcaption>SocialBro Feature Set</figcaption>
 </figure>
 
+
 Let us take a quick look at the list of features that SocialBro offers: 
+
 --- 
 
 **Features of SocialBro**
