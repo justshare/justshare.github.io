@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Spotlight – Social Media Monitoring and Analytics with fanpage karma
-description: 
+description: Are you accumulating the right kind of social karma? Let's see what fanpage karma approves!
 tags: [social media, marketing, tools, social media analytics, social media monitoring, social media management, facebook, twitter, youtube, googleplus, fanpage karma] 
 comments: true
 authors: [raj]
@@ -17,7 +17,7 @@ image:
 <figcaption>Product Spotlight</figcaption>
 </figure>
 
-We first looked at [*fanpage karma*] (http://www.fanpagekarma.com) when we described our methodology for social media monitoring -  [Getting Started with Social Media Monitoring]( http://blog.justshareapp.com/Getting-Started-with-Social-Media-Monitoring/). In this post we take you through a more detailed review. 
+We first looked at [*fanpage karma*](http://www.fanpagekarma.com) when we described our methodology for social media monitoring -  [Getting Started with Social Media Monitoring]( http://blog.justshareapp.com/Getting-Started-with-Social-Media-Monitoring/). In this post we take you through a more detailed review. 
 
 *fanpage karma* is targeted at Social Media Managers, helping them with analyzing and getting more out of the Social Profiles they manage. It supports a variety of the most popular networks and allows you to analyze both your profiles as well as those of your competitors. There is a also a Social Monitoring element that has been recently added that widens the scope of *fanpage karma* from just analytics to social media listening. 
 
@@ -186,7 +186,7 @@ Monitoring is available for Facebook, Twitter and Google+ and provides you with 
 <figcaption>Monitoring  Social</figcaption>
 </figure>
 
-This is comparable to some of the good monitoring software available out there and covered earlier here - [5 Great Free Tools For Social Listening] (http://blog.justshareapp.com/5-Great-Free-Tools-For-Social-Listening/). 
+This is comparable to some of the good monitoring software available out there and covered earlier here - [5 Great Free Tools For Social Listening](http://blog.justshareapp.com/5-Great-Free-Tools-For-Social-Listening/). 
 
 The basic monitoring as well as analysis under this tab are similar for Facebook/Twitter/Google +, although weirdly the reports terminology refers to posts as "Tweets" irrespective of the social network!
 
