@@ -165,7 +165,7 @@ Analysis is also available on types of posts and engagement/success by post type
 
 For Twitter Insights - Content, Times & Types, History and Influencers are available. While the Content, Times & Types and History are the same as in the Dashboard page, for Influencers you will need to be the owner of the Twitter profile. 
 
-Notes: <br/>
+<br/>Notes: <br/>
 A. Influencers could take a few hours to fetch data.<br/>
 B. Dashboard/Insights are available for Facebook, Twitter and YouTube.<br/>
 
