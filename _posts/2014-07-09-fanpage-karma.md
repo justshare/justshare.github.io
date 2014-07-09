@@ -111,10 +111,10 @@ You have a number of tabs to explore deeper analytics including comparisons acro
 
 - Tagging: This feature appears to provide some interesting insights into tags for posts made. However, this is available only with *fanpage karma* business. 
 
-Notes:
-A.  Multiple Dashboards are available only with Paid Accounts.
-B. YouTube dashboards and analytics are very limited currently for example to just the performance sub-tab.
-C. Twitter Profiles show only Post Content, Times & Types and History sub-tabs. The Post Content sub-tab for Twitter is interesting and includes Frequency, Interactions, Top posts, Pictures, Top links, Hashtags, words and users mentioned. Interestingly this is available free for the Twitter Profile whereas it is available only in the pad versions for Facebook fan pages. Times & Types is similar to the dashboard for Facebook fan Pages.
+Notes:<br/>
+A.  Multiple Dashboards are available only with Paid Accounts.<br/>
+B. YouTube dashboards and analytics are very limited currently for example to just the performance sub-tab.<br/>
+C. Twitter Profiles show only Post Content, Times & Types and History sub-tabs. The Post Content sub-tab for Twitter is interesting and includes Frequency, Interactions, Top posts, Pictures, Top links, Hashtags, words and users mentioned. Interestingly this is available free for the Twitter Profile whereas it is available only in the pad versions for Facebook fan pages. Times & Types is similar to the dashboard for Facebook fan Pages.<br/>
 D. Quirk - in the Free version if you select even one FB page, then you cannot select a Twitter or Youtube Profile even if you delete the FB pages from your Dashboard!
 
 <br/>
@@ -165,9 +165,9 @@ Analysis is also available on types of posts and engagement/success by post type
 
 For Twitter Insights - Content, Times & Types, History and Influencers are available. While the Content, Times & Types and History are the same as in the Dashboard page, for Influencers you will need to be the owner of the Twitter profile. 
 
-Note: 
-A. Influencers could take a few hours to fetch data.
-B. Dashboard/Insights are available for Facebook, Twitter and YouTube.
+Notes: <br/>
+A. Influencers could take a few hours to fetch data.<br/>
+B. Dashboard/Insights are available for Facebook, Twitter and YouTube.<br/>
 
 ###Monitoring
 Monitoring is available for Facebook, Twitter and Google+ and provides you with Social Listening/Monitoring features. This is separate from the Analytics sections (Dashboards/Insights), although some level of analytics are available here (and use the core performance metrics data available in the analytics sections). You start by adding keywords from various social media channels to kickstart your monitoring. Do note that only one keyword is allowed for the Free version. 
@@ -194,9 +194,9 @@ The basic monitoring as well as analysis under this tab are similar for Facebook
 - Post Alerts: You can configure notifications via email whenever any new post shows up on your page/profile. 
 - Shitstorm Alert: You can configure an alert based on whenever a post receives some exceptional amount of reactions. The threshold that defines “exception amount” is also configurable. 
 
-Note: 
-A. The Morning Report, Shitstorm Alert and Post Alerts appear to be available only for Facebook (and not Twitter/Google + although the Live monitoring tab supports all 3).
-B. The Free version is available for only unto a 100 mentions a month and just one keyword, so this may not be useful in its free avatar.
+Notes: <br/>
+A. The Morning Report, Shitstorm Alert and Post Alerts appear to be available only for Facebook (and not Twitter/Google + although the Live monitoring tab supports all 3).<br/>
+B. The Free version is available for only upto 100 mentions a month and just one keyword, so this may not be useful in its free avatar.<br/>
 
 ###Tagging
 This feature is available only with the business plan and seems to be a recurring theme under Dashboard, Insights as well as in its own top-level tab.
