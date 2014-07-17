@@ -10,7 +10,7 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/Name.jpg
+  thumb: http://cdn.justshareapp.com/HiddenSunlight.jpg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
