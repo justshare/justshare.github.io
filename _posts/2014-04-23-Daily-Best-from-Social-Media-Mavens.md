@@ -34,7 +34,9 @@ The first half of this year saw a correction in SaaS values but digging into the
 ###2.  [Find your first 2,000 beta signups&nbsp;<i class="icon-link"></i>](http://blog.frontapp.com/saas-where-to-find-your-first-2000-beta-signups/)
 ***
 User acquisition is often a fraught process. Here's some insight from the FrontApp folks
+
 ***
+
 >"*Family, friends and fools: 200 signups*: 
 Obviously the first thing we did, like a lot of startups, was to talk about our product to our network. We are part of a SaaS startup studio so it helped us find our first qualified testers: Mailjet, mention, Textmaster and Pressking.  Extending to people we know, companies close to us and indirect network we could collect around 200 emails total..."
 
