@@ -3,51 +3,60 @@ layout: post
 permalink: /daily-best-social-media-maven-posts/
 title: Today's Daily Best from Social Media Mavens
 description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
-tags: [blog, social media, mavens, productivity, lifehacks, decision making tips, life optimizing, positivity, gamification, gamify habits, chill out habits, chill out tips ]
+tags: [blog, social media, mavens, startups, product, SaaS Valuations, beta signups, user acquisition, product launch, Social data, 30 apps ceiling WSJ,  ]
 created: 2014-04-23
-modified: 2014-07-17
+modified: 2014-07-21
 comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/HiddenSunlight.jpg
+  thumb: http://cdn.justshareapp.com/Anshul.jpeg
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
+<div class="article-author-main border-box">
+    <h3>SPOTLIGHT: Anshul</h3>
+    <a href="https://twitter.com/Anshul"><img src="http://cdn.justshareapp.com/Anshul.jpeg" class="bio-photo large" alt="Anshul"></a>
+    <br><br>
+<p>Finance @Intercom <a href="https://twitter.com/heyanshul">@heyanshul</a> </p>
+</div>
 
 ## The Daily Leaderboard
 
-###1.  [10 Things You Didn’t Know About Decision Making&nbsp;<i class="icon-link"></i>](http://www.lifehack.org/articles/productivity/10-things-you-didnt-know-about-decision-making.html)
->"Making decisions is hard work. The key is to make fewer decisions and reserve your energy for the big ones. President Obama, in a Vanity Fair article, said, “You need to remove from your life the day-to-day problems that absorb most people for meaningful parts of their day… You’ll see I wear only gray or blue suits. I’m trying to pare down decisions. I don’t want to make decisions about what I’m eating or wearing. Because I have too many other decisions to make. You need to focus your decision-making energy. You need to routinize yourself. You can’t be going through the day distracted by trivia.”"
+###1. [A CLOSER LOOK AT SAAS VALUATIONS&nbsp;<i class="icon-link"></i>](http://insideintercom.io/a-closer-look-at-saas-valuations/)
+>"Tech investors love SaaS companies, and 2013 was a phenomenal year for the valuations of public companies in the sector. As the year closed with multiples at an all-time high there was increased chatter about a tech bubble, especially in SaaS/Cloud-land. 
+The first half of this year saw a correction in SaaS values but digging into the data shows that SaaS companies have still outperformed the market as a whole. "
 
-(by [Michelle Kennedy Hogan](https://twitter.com/mushingmom))
-
-
-###2. [The Five Aspects of Optimizing Life&nbsp;<i class="icon-link"></i>](http://www.lifeoptimizer.org/2014/06/17/aspects-of-optimizing-life/)
->"...how do we optimize our lives? What are the aspects that we need to optimize?
-Well, there are different ways to look at it, but my preferred way is to look at life as it consists of five aspects:
-Work: your career and finance.
-Health: your physical health.
-Learning: your personal development.
-Social: your relationships with others.
-Spiritual: your relationship with the greater power."
-
-(by [Donald Latumahina](https://twitter.com/lifeoptimizer))
+(by [Anshul](https://twitter.com/heyanshul))
 
 
-###3. [How to Chill Out: 3 Effective Habits&nbsp;<i class="icon-link"></i>](http://www.positivityblog.com/index.php/2014/07/09/how-to-chill-out/)
->"One very helpful life skill is to be able to chill out. 
-To be calm in negative situations and not overreact about all kinds of things. Or invent big, big problems in your mind – or create them in your world as you drag other people in through arguments – by making mountains out of molehills."
+###2.  [Find your first 2,000 beta signups&nbsp;<i class="icon-link"></i>](http://blog.frontapp.com/saas-where-to-find-your-first-2000-beta-signups/)
+***
+User acquisition is often a fraught process. Here's some insight from the FrontApp folks
+***
+>"*Family, friends and fools: 200 signups*: 
+Obviously the first thing we did, like a lot of startups, was to talk about our product to our network. We are part of a SaaS startup studio so it helped us find our first qualified testers: Mailjet, mention, Textmaster and Pressking.  Extending to people we know, companies close to us and indirect network we could collect around 200 emails total..."
 
-(by [Hendrik Edberg](https://twitter.com/positivityblog))
+(by [FrontApp](https://twitter.com/FrontApp))
 
 
-###4. [5 Apps to “Gamify” Your Habits and Turn Boring Tasks Into Exciting Ones&nbsp;<i class="icon-link"></i>](http://www.dumblittleman.com/2014/07/5-apps-gamify-habits-turn-boring-tasks-exciting-ones.html)
->"Even if we love our work, it can get old real quick when we do it day in and day out. 
-You don’t know how to make work interesting 
-Since we inevitably get tired of the daily grind, we need methods to mix it up. We need ways to make the common task feel more… interesting. 
-Question is – how? 
-Gamify your habits"
+###3. [7 Ways Social Data Can Help Your Product Launch Succeed&nbsp;<i class="icon-link"></i>](http://simplymeasured.com/blog/2014/07/11/7-ways-social-data-can-help-your-product-launch-succeed/)
+>"Your influencers tend to stand at the middle of the industry or audience you’re trying to reach – they get eyes on your product and/or content that wouldn’t be accessible to you otherwise. 
+First step: Define your market. 
+The key categories to consider are industry, location, social networks your desired audience is active on, and keywords or topics. 
+Second step: Identify the influencers within your defined market. Take into consideration Klout score, reach, internal referrals, lists, and competitive analysis when you’re going through this process..."
 
-(by [Ericson Ay Mires](https://twitter.com/EricsonAyMires))
+(by [Lucy Hitz](https://twitter.com/LLHitz))
+
+
+###4. [Data Point: It Looks Like 30 Is the Ceiling for How Many Apps People Use&nbsp;<i class="icon-link"></i>](http://blogs.wsj.com/digits/2014/07/18/data-point-it-looks-like-30-is-the-ceiling-for-how-many-apps-people-use/)
+>"No single age group used more than 30 apps each month. The youngest group used 28 apps, while the next-highest age group — 25-34 — used 29.5."
+
+(via [Paul Graham](https://twitter.com/paulg))
+
+
+###5. [Why Running a Tech Startup is one of the Most Challenging Jobs Out There&nbsp;<i class="icon-link"></i>](http://www.examiner.com/article/why-running-a-tech-startup-is-one-of-the-most-challenging-jobs-out-there)
+>"As most of you know, I am currently running my fourth tech startup and am just three weeks away from finishing up at the StartFast Venture Accelerator in New York. To most people, my job seems glorious, fun, exciting, and full of perks. But the truth is, running my tech startup is the most difficult, challenging, and stressful job I've ever had, and here's why:"
+
+(by [Jason Sherman](https://twitter.com/shermanbiz))
