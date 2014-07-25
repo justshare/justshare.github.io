@@ -27,7 +27,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ###1. [Slides: How Startups Are Changing Marketing As We Know It&nbsp;<i class="icon-link"></i>](http://growthhackers.com/slides/how-startups-are-changing-marketing-as-we-know-it/)
 ***
 
-Great set of slides - presented well and loaded with insights gained from personal experience. Watch/Read the entire deck!
+Great set of slides - presented well and loaded with insights gained from personal experience. Watch/Read the whole deck!
 
 ***
 
