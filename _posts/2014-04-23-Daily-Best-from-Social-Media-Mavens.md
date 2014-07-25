@@ -26,6 +26,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 
 ###1. [Slides: How Startups Are Changing Marketing As We Know It&nbsp;<i class="icon-link"></i>](http://growthhackers.com/slides/how-startups-are-changing-marketing-as-we-know-it/)
 ***
+
 Great set of slides - presented well and loaded with insights gained from personal experience. Watch/Read the entire deck!
 
 ***
@@ -46,7 +47,8 @@ But that didn’t happen. Instead,..."
 
 ###3. [20 Captivating Content Marketing Facts in 2014&nbsp;<i class="icon-link"></i>](http://www.jeffbullas.com/2014/07/23/0-captivating-content-marketing-facts-in-2014/)
 ***
-Some quick highlights from the list below. But do go read the entire thing. 
+
+Some quick highlights from the list below. But do go read the entire thing.
 
 ***
 
