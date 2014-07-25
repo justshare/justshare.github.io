@@ -50,13 +50,10 @@ Some quick highlights from the list below. But do go read the entire thing.
 
 >"Social media marketing budgets will double over the next 5 year
 ... 
-
 33% of traffic from Google’s organic search engine results go to the first item listed 
 ... 
-
 Marketers will use dynamic content to deliver highly personalized experiences to the right audiences at the right time 
 ... 
-
 Inbound marketing delivers 54% more leads than traditional outbound marketing "
 
 (by [Jeff Bullas](https://twitter.com/jeffbullas))
