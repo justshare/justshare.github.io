@@ -27,6 +27,7 @@ The Daily Best is a curated daily leaderboard of the best posts on social media 
 ###1. [Slides: How Startups Are Changing Marketing As We Know It&nbsp;<i class="icon-link"></i>](http://growthhackers.com/slides/how-startups-are-changing-marketing-as-we-know-it/)
 ***
 Great set of slides - presented well and loaded with insights gained from personal experience. Watch/Read the entire deck!
+
 ***
 
 >"*How marketing has changed from being led by big companies with big budgets to innovative strategies and tactics most commonly found in startups.*"
@@ -46,14 +47,15 @@ But that didn’t happen. Instead,..."
 ###3. [20 Captivating Content Marketing Facts in 2014&nbsp;<i class="icon-link"></i>](http://www.jeffbullas.com/2014/07/23/0-captivating-content-marketing-facts-in-2014/)
 ***
 Some quick highlights from the list below. But do go read the entire thing. 
+
 ***
 
->"Social media marketing budgets will double over the next 5 year
-... 
+>"Social media marketing budgets will double over the next 5 years
+...
 33% of traffic from Google’s organic search engine results go to the first item listed 
-... 
+...
 Marketers will use dynamic content to deliver highly personalized experiences to the right audiences at the right time 
 ... 
-Inbound marketing delivers 54% more leads than traditional outbound marketing "
+Inbound marketing delivers 54% more leads than traditional outbound marketing"
 
 (by [Jeff Bullas](https://twitter.com/jeffbullas))
