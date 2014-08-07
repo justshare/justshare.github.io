@@ -152,7 +152,7 @@ While the bookmarklet allows you to capture any page you are visiting to a Story
 <figcaption>Capture </figcaption>
 </figure>
 
-##Pricing
+###Pricing 
 
 Storify is free to use , but it does have a VIP version that is probably suitable for large media organizations, publishers and potentially larger enterprises with higher media budgets.
 
@@ -160,7 +160,8 @@ The VIP version appears to offer enterprise level additional features – real-t
 
 The pricing appears to be enterprise level i.e. priced to requirement/deal by deal basis.
 
-##Conclusion
+
+##Conclusion 
 
 If you are looking to charge up the content you create whether it is for your blog or a Social Media campaign or even for your website – you should check out Storify. All of the elements you require are available, work great and are easy to use. 
 
@@ -168,4 +169,4 @@ On the flip side, there are limited formatting options in your story example an 
 
 Want to add additional firepower to your Storify generated story? 
 
-Check out these social media tools that can help you achieve further virality: [10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/) 
+Check out these social media tools that can help you achieve further virality:[10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/) 
