@@ -144,7 +144,7 @@ While the bookmarklet allows you to capture any page you are visiting to a Story
 <figure>
 <img src="http://cdn.justshareapp.com/storifySelection1.jpg"/>
 <figcaption>Extension </figcaption>
-</figure
+</figure>
 
 <br/>
 <figure>
