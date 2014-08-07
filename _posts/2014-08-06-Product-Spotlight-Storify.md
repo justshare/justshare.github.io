@@ -160,4 +160,4 @@ If you are looking to charge up the content you create whether it is for your bl
 
 On the flip side, there are limited formatting options in your story example an ability to change the font. But having said that, it should not be too much of a bother generally unless you have specific branding guidelines for example that you would want to adhere to!
 
-Want to add additional firepower to your Storify generated story? Check out these social media tools that can help you achieve further virality - [10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/).
+Want to add additional firepower to your Storify generated story? Check out these social media tools that can help you achieve further virality - [10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/)
