@@ -20,6 +20,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ##Overview
+
 <br/>
 <figure>
 <img src="http://cdn.justshareapp.com/STORIFY_Cover.jpg"/>
@@ -32,6 +33,7 @@ As we continue to review the various social media related products out there, on
 Storify helps creates stories from content available from a number of social media and online sources. It pulls together search, editing and publishing capabilities in a simple and effective interface.  We take a look at all of these in more detail in this week’s Product Spotlight.
 
 ##Evolution
+
 With assistance from resources such as [archive.today](http://archive.today) and [screenshots.com](http://www.screenshots.com), we usually piece together the evolution from a few screenshots. Do note this is not necessarily all changes and certainly not a 100% reliable. However, it does provide some insight into the product and is generally useful information to have.
 
 Relative to many of the products we have reviewed so far there are two things that are apparent: Storify has some of the largest captures of screenshots from some of the above software and yet Storify has been relatively stable in their positioning for a longer period of time than some of the others.  This could potentially attest to their finding the right product positioning and product fit quite early?
@@ -51,6 +53,7 @@ Since 2013, Storify’s positioning around “Make the web tell a story” has s
 Disclaimer: The above is gathered from reviewing web archives. The timelines, changes and the reasons for change may be inaccurate and are only our attempt to guess the evolution of the product.
 
 ##Navigation and Usability
+
 You can get started by logging in with your twitter or facebook IDs. The login process is a little unusual in that the entire validation seems to happen after you click signup, enter in a few details as also a captcha. (Most products out there quickly take you through the facebook/twitter auth first before prompting for any further information, usually optionally).  Once logged in, you are prompted to find friends you can follow.
 
 <br/>
@@ -70,6 +73,7 @@ Once you have logged in, getting started is fairly quick and as simple as the 1/
 Once you have logged in you can start to create your first Story. Everything you need from the ability to search a number of sources to designing and editing your story is all right there and very easy to use. You can flip back to a dashboard to see all your stories and edit/share them subsequently as well. We will explore more of these in the functional highlights section below.  Overall, while the feel of the site is not spectacular, it is all very well laid out, easy to use and performs fast as well.
 
 ##Functional Highlights
+
 You can start creating a story. Storify has a large collection of options to search and select elements of your story from.  You can search for links, posts and comments from Storify itself or the 22 social media and web sources it currently supports including Twitter, Facebook, Google Plus, YouTube, Google Search, Flickr, Instagram, Getty Images, Giphy, SoundClound etc.! The search function works great too.
 
 Storify also allows you to easily add specific images or links or text into your private collections as you browse the web. This is done through their browser extension (more on this a little later). You can then use these while creating stories at any time.
@@ -149,6 +153,7 @@ While the bookmarklet allows you to capture any page you are visiting to a Story
 </figure>
 
 ##Pricing
+
 Storify is free to use , but it does have a VIP version that is probably suitable for large media organizations, publishers and potentially larger enterprises with higher media budgets.
 
 The VIP version appears to offer enterprise level additional features – real-time updates, customizable story embeds to align to your site, additional custom sources to search and build your story from, ability to create private stories, ability to export to PDF, additional aids for SEO, ability to collaborate via teams of writers, google analytics integration and Enterprise grade customer support.
@@ -156,8 +161,11 @@ The VIP version appears to offer enterprise level additional features – real-t
 The pricing appears to be enterprise level i.e. priced to requirement/deal by deal basis.
 
 ##Conclusion
+
 If you are looking to charge up the content you create whether it is for your blog or a Social Media campaign or even for your website – you should check out Storify. All of the elements you require are available, work great and are easy to use. 
 
 On the flip side, there are limited formatting options in your story example an ability to change the font. But having said that, it should not be too much of a bother generally unless you have specific branding guidelines for example that you would want to adhere to!
 
-Want to add additional firepower to your Storify generated story? Check out these social media tools that can help you achieve further virality: [10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/)
+Want to add additional firepower to your Storify generated story? 
+
+Check out these social media tools that can help you achieve further virality: [10 Social Media Marketing Tools Every Startup Should Consider](http://blog.justshareapp.com/10-best-startup-tools-for-social-media-marketing/) 
