@@ -13,7 +13,7 @@ image:
   thumb: http://cdn.justshareapp.com/dailybest.png
 ---
 
-The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
+The Daily Best is a curated leaderboard of the best posts on social media marketing shared online, and is updated frequently by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
     <h3>#dailybest</h3>
