@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /daily-best-social-media-maven-posts/
-title: Today's Daily Best from Social Media Mavens
-description: Updated Daily - Social Media Marketing Posts That Are Worth Sharing
+title: Daily Best from Social Media Mavens
+description: Updated Frequently with Social Media Marketing Posts That Are Worth Sharing
 tags: [blog, social media, mavens, organic reach, organic traffic, organic growth, content planning, organic content, psychology of anticipation, outperform online competition]
 created: 2014-04-23
 modified: 2014-07-30
@@ -10,16 +10,16 @@ comments: false
 authors: [lavanya]
 
 image:
-  thumb: http://cdn.justshareapp.com/EricSiu.jpeg
+  thumb: http://cdn.justshareapp.com/dailybest.png
 ---
 
 The Daily Best is a curated daily leaderboard of the best posts on social media marketing shared online, and is updated on a daily basis by [@justshareapp](http://twitter.com/justshareapp). Just click on the <i class="icon-link"></i> to open up a post you are interested in.
 
 <div class="article-author-main border-box">
-    <h3>SPOTLIGHT: Eric Siu</h3>
-    <a href="https://twitter.com/ericosiu"><img src="http://cdn.justshareapp.com/EricSiu.jpeg" class="bio-photo large" alt="Eric Siu"></a>
+    <h3>#dailybest</h3>
+    <a href="https://twitter.com/hashtag/dailybest"><img src="http://cdn.justshareapp.com/dailybest.png" class="bio-photo large" alt="Daily Best from Social Media"></a>
     <br><br>
-<p>@singlegrain. Former Growth Lead @treehouse. Contributor to @sewatch, @entmagazine, @smexaminer - http://www.growtheverywhere.com  <a href="https://twitter.com/ericosiu">@ericosiu</a> </p>
+<p>Fresh Social Marketing Insights, Curated <a href="https://twitter.com/justshareapp">@justshareapp</a> </p>
 </div>
 
 ## The Daily Leaderboard
