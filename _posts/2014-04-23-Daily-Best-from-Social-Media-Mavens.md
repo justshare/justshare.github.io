@@ -26,4 +26,4 @@ The Daily Best is a curated leaderboard of the best posts on social media market
 We are trying out Storify to capture the #dailybest. Let us know if you like it!
 
 
-<div class="storify"><iframe src="//storify.com/justjots/daily-best-from-justshare/embed?border=false" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/justjots/daily-best-from-justshare.js?border=false"></script><noscript>[<a href="//storify.com/justjots/daily-best-from-justshare" target="_blank">View the story "Daily Best from JustShare" on Storify</a>]</noscript></div>
+<div class="storify"><script src="//storify.com/justjots/daily-best-from-justshare.js?border=false"></script><noscript>[<a href="//storify.com/justjots/daily-best-from-justshare" target="_blank">View the story "Daily Best from JustShare" on Storify</a>]</noscript></div>
