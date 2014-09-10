@@ -25,7 +25,7 @@ image:
 <br/>
 <figure>
 <img src="http://cdn.justshareapp.com/RebelCover.jpg"/>
-<figcaption>Late 2011</figcaption>
+<figcaption>Rebel Mouse</figcaption>
 </figure>
 
 As a social media publisher you are always trying to get the maximum out of your content. You spend a bunch of time creating posts on various social media sites and get better at getting value out of it. However the lifetime of posts is often just a few hours or in the case of tweets even just a few minutes.
