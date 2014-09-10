@@ -10,10 +10,11 @@ image:
 ---
 
 ##Overview
+
 <br/>
 <figure>
 <img src="http://cdn.justshareapp.com/RebelCover.jpg"/>
-<figcaption>Rebel Mouse</figcaption>
+<figcaption>Late 2011</figcaption>
 </figure>
 
 As a social media publisher you are always trying to get the maximum out of your content. You spend a bunch of time creating posts on various social media sites and get better at getting value out of it. However the lifetime of posts is often just a few hours or in the case of tweets even just a few minutes.
@@ -40,7 +41,8 @@ RebelMouse launched late 2011 with a [launchrock](http://launchrock.co/) site th
 </figure>
 
 By early 2013, RebelMouse were still in beta but opened out generally without requiring an invite. They added in signups via Instagram and GooglePlus as options as well.  By mid 2013, they tried a number of positioning changes including “The Better Way to Build Websites”, “Amplify your Online Presence” and “Let Your Content Roar”.  They were still in beta all through 2013.
-br/>
+
+<br/>
 <figure>
 <img src="http://cdn.justshareapp.com/RebelJan2013.jpg"/>
 <figcaption>Early 2013</figcaption>
