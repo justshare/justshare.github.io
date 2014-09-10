@@ -12,9 +12,10 @@ image:
 ##Overview
 <br/>
 <figure>
-<img src="http://cdn.justshareapp.com/RebelCover.jpg>
+<img src="http://cdn.justshareapp.com/RebelCover.jpg"/>
 <figcaption>Rebel Mouse</figcaption>
 </figure>
+
 As a social media publisher you are always trying to get the maximum out of your content. You spend a bunch of time creating posts on various social media sites and get better at getting value out of it. However the lifetime of posts is often just a few hours or in the case of tweets even just a few minutes.
 
 Here is where the concept of brand pages or social sites such as RebelMouse can help you. They help aggregate into attractive formats your social media activity and help you publish them. Now, as users come to see the latest updates, not only will they be able to see and engage with the latest but they may also see some of your older updates that are still relevant and engage. You are able to increase the lifetime of your posts drastically.
