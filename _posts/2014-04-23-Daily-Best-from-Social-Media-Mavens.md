@@ -5,7 +5,7 @@ title: Daily Best from Social Media Mavens
 description: Updated Frequently with Social Media Marketing Posts That Are Worth Sharing
 tags: [blog, social media, mavens, organic reach, organic traffic, organic growth, content planning, organic content, psychology of anticipation, outperform online competition]
 created: 2014-04-23
-modified: 2014-08-20
+modified: 2014-10-07
 comments: false
 authors: [lavanya]
 
