@@ -26,13 +26,13 @@ image:
 <figcaption>Meet Edgar</figcaption>
 </figure>
 
-Edgar is new. He wants us to meet him (err, wait, we need to be invited to meet him) and he claims that he never lets our social media content go to waste. 
+Edgar is new. He wants us to meet him (err, wait, we need to be invited to meet him) and he claims that he never lets our social media content go to waste.
 
 Let us test his claim, shall we?
 
 
 #Evolution
-For our Product Spotlight posts, with assistance from resources such as [archive.today](http://www.archive.today) and [screenshots.com](http://www.screenshots.com), we usually piece together the evolution of a product from a few screenshots. Since Edgar is very new, there is no archival history yet. The current avatar seems to be its first.
+For our Product Spotlight posts, with assistance from resources such as [archive.today](http://www.archive.today) and [screenshots.com](http://www.screenshots.com), we usually piece together the evolution of a product from a few screenshots. Since Edgar is very new, there is no archival history yet. The current avatar seems to be his first.
 <br/>
 <figure>
 <img src="http://cdn.justshareapp.com/Edgar_HomePage.jpg"/>
